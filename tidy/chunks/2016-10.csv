@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2016,10,Schweizer,W,0,Schweiz,Schweiz,VD,NA,Schweiz,Schweiz,BS,Am Ring,2016-10
 Zuzug,2016,10,Schweizer,W,0,Schweiz,Schweiz,NW,NA,Schweiz,Schweiz,BS,Bruderholz,2016-10
 Zuzug,2016,10,Ausländer,M,0,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2016-10
@@ -23,6 +23,7 @@ Wegzug,2016,10,Ausländer,M,0,Schweiz,Schweiz,BS,Wettstein,Asien,Armenien,Auslan
 Wegzug,2016,10,Ausländer,M,0,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,ZH,NA,2016-10
 Wegzug,2016,10,Ausländer,W,0,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,2016-10
 Wegzug,2016,10,Ausländer,W,0,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2016-10
+Wegzug,2016,10,Schweizer,W,0,Schweiz,Schweiz,BS,Gotthelf,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2016-10
 Wegzug,2016,10,Schweizer,W,0,Schweiz,Schweiz,BS,Gotthelf,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2016-10
 Zuzug,2016,10,Schweizer,M,1,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2016-10
 Zuzug,2016,10,Schweizer,M,1,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Rosental,2016-10
@@ -222,6 +223,7 @@ Wegzug,2016,10,Schweizer,M,18,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,20
 Wegzug,2016,10,Ausländer,W,18,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Deutschland,Ausland,NA,2016-10
 Wegzug,2016,10,Schweizer,W,18,Schweiz,Schweiz,BS,Riehen,unbekannt,unbekannt,unbekannt,NA,2016-10
 Wegzug,2016,10,Schweizer,M,18,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2016-10
+Wegzug,2016,10,Schweizer,M,18,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2016-10
 Zuzug,2016,10,Schweizer,W,19,Schweiz,Schweiz,SH,NA,Schweiz,Schweiz,BS,Kleinhüningen,2016-10
 Wegzug,2016,10,Schweizer,M,19,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,SO,NA,2016-10
 Wegzug,2016,10,Ausländer,W,19,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Polen,Ausland,NA,2016-10
@@ -409,6 +411,7 @@ Zuzug,2016,10,Ausländer,W,22,Europa (ohne Schweiz),Ungarn,Unbekannt,NA,Schweiz,
 Wegzug,2016,10,Ausländer,W,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2016-10
 Wegzug,2016,10,Ausländer,W,22,Schweiz,Schweiz,BS,St. Johann,Asien,Indien,Ausland,NA,2016-10
 Zuzug,2016,10,Ausländer,W,22,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2016-10
+Zuzug,2016,10,Ausländer,W,22,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2016-10
 Zuzug,2016,10,Ausländer,M,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2016-10
 Zuzug,2016,10,Ausländer,M,23,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2016-10
 Zuzug,2016,10,Ausländer,M,23,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2016-10
@@ -489,6 +492,7 @@ Wegzug,2016,10,Schweizer,W,23,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,
 Wegzug,2016,10,Ausländer,M,23,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Deutschland,Ausland,NA,2016-10
 Wegzug,2016,10,Schweizer,W,23,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2016-10
 Wegzug,2016,10,Ausländer,W,23,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2016-10
+Zuzug,2016,10,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2016-10
 Zuzug,2016,10,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2016-10
 Zuzug,2016,10,Ausländer,M,24,Schweiz,Schweiz,GR,NA,Schweiz,Schweiz,BS,Iselin,2016-10
 Zuzug,2016,10,Ausländer,M,24,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Am Ring,2016-10
@@ -585,6 +589,8 @@ Wegzug,2016,10,Schweizer,W,24,Schweiz,Schweiz,BS,Klybeck,unbekannt,unbekannt,unb
 Wegzug,2016,10,Ausländer,W,24,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,AG,NA,2016-10
 Wegzug,2016,10,Schweizer,M,24,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2016-10
 Wegzug,2016,10,Schweizer,W,24,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2016-10
+Zuzug,2016,10,Ausländer,W,24,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2016-10
+Zuzug,2016,10,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2016-10
 Zuzug,2016,10,Ausländer,W,24,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2016-10
 Zuzug,2016,10,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2016-10
 Zuzug,2016,10,Ausländer,M,25,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Klybeck,2016-10
@@ -694,6 +700,7 @@ Wegzug,2016,10,Schweizer,W,25,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,VS,NA,20
 Wegzug,2016,10,Schweizer,W,25,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,SZ,NA,2016-10
 Wegzug,2016,10,Ausländer,M,25,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,2016-10
 Wegzug,2016,10,Ausländer,M,25,Schweiz,Schweiz,BS,Vorstädte,unbekannt,unbekannt,unbekannt,NA,2016-10
+Wegzug,2016,10,Ausländer,M,25,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,2016-10
 Wegzug,2016,10,Ausländer,M,25,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,2016-10
 Zuzug,2016,10,Ausländer,M,26,Afrika,Algerien,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2016-10
 Zuzug,2016,10,Ausländer,M,26,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Clara,2016-10
@@ -924,6 +931,9 @@ Wegzug,2016,10,Schweizer,W,27,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,N
 Zuzug,2016,10,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2016-10
 Zuzug,2016,10,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2016-10
 Zuzug,2016,10,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2016-10
+Zuzug,2016,10,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2016-10
+Zuzug,2016,10,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2016-10
+Zuzug,2016,10,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2016-10
 Zuzug,2016,10,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2016-10
 Zuzug,2016,10,Ausländer,M,28,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2016-10
 Zuzug,2016,10,Ausländer,W,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2016-10
@@ -1117,6 +1127,7 @@ Wegzug,2016,10,Ausländer,W,29,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schwei
 Wegzug,2016,10,Schweizer,M,29,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Frankreich,Ausland,NA,2016-10
 Wegzug,2016,10,Schweizer,M,29,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2016-10
 Wegzug,2016,10,Schweizer,W,29,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2016-10
+Zuzug,2016,10,Ausländer,W,29,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2016-10
 Zuzug,2016,10,Ausländer,W,29,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2016-10
 Zuzug,2016,10,Ausländer,M,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2016-10
 Zuzug,2016,10,Ausländer,M,30,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,2016-10

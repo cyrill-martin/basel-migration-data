@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,1997,5,Schweizer,M,0,Nordamerika,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1997-5
 Zuzug,1997,5,Ausländer,W,0,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
 Zuzug,1997,5,Schweizer,W,0,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1997-5
@@ -9,6 +9,7 @@ Zuzug,1997,5,Ausländer,M,0,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Cl
 Zuzug,1997,5,Ausländer,W,0,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1997-5
 Wegzug,1997,5,Ausländer,M,0,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Ausländer,W,0,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1997-5
+Zuzug,1997,5,Ausländer,M,0,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Clara,1997-5
 Zuzug,1997,5,Ausländer,M,0,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Clara,1997-5
 Wegzug,1997,5,Ausländer,M,1,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,1,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1997-5
@@ -42,6 +43,9 @@ Zuzug,1997,5,Ausländer,M,2,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1
 Zuzug,1997,5,Ausländer,M,2,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1997-5
 Wegzug,1997,5,Schweizer,W,2,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,2,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1997-5
+Wegzug,1997,5,Schweizer,M,2,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1997-5
+Wegzug,1997,5,Ausländer,W,2,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1997-5
+Wegzug,1997,5,Schweizer,W,2,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,2,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Ausländer,W,2,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,2,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
@@ -112,10 +116,12 @@ Wegzug,1997,5,Ausländer,W,8,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,199
 Wegzug,1997,5,Ausländer,W,8,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,8,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
 Zuzug,1997,5,Ausländer,W,8,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Clara,1997-5
+Zuzug,1997,5,Ausländer,W,8,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Clara,1997-5
 Wegzug,1997,5,Ausländer,W,9,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1997-5
 Zuzug,1997,5,Ausländer,M,9,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1997-5
 Wegzug,1997,5,Ausländer,W,9,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,9,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1997-5
+Wegzug,1997,5,Schweizer,W,9,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,9,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,9,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1997-5
 Zuzug,1997,5,Ausländer,W,10,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1997-5
@@ -212,6 +218,7 @@ Wegzug,1997,5,Schweizer,W,21,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,
 Wegzug,1997,5,Ausländer,M,21,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Ausländer,W,21,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
 Zuzug,1997,5,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1997-5
+Zuzug,1997,5,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1997-5
 Wegzug,1997,5,Schweizer,M,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,22,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,22,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1997-5
@@ -244,6 +251,8 @@ Wegzug,1997,5,Ausländer,W,22,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,199
 Wegzug,1997,5,Schweizer,W,22,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Ausländer,W,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
+Zuzug,1997,5,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1997-5
+Zuzug,1997,5,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1997-5
 Zuzug,1997,5,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1997-5
 Zuzug,1997,5,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1997-5
 Wegzug,1997,5,Schweizer,W,23,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1997-5
@@ -445,6 +454,9 @@ Wegzug,1997,5,Schweizer,M,26,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1997-5
 Zuzug,1997,5,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
 Zuzug,1997,5,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
 Zuzug,1997,5,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
+Zuzug,1997,5,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
+Zuzug,1997,5,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
+Zuzug,1997,5,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
 Wegzug,1997,5,Schweizer,M,27,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,27,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,27,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1997-5
@@ -496,6 +508,8 @@ Wegzug,1997,5,Schweizer,W,27,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,19
 Wegzug,1997,5,Schweizer,M,27,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,27,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,27,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1997-5
+Zuzug,1997,5,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
+Wegzug,1997,5,Ausländer,W,27,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1997-5
 Zuzug,1997,5,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
 Wegzug,1997,5,Ausländer,W,27,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,28,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1997-5
@@ -607,6 +621,11 @@ Zuzug,1997,5,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,199
 Zuzug,1997,5,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1997-5
 Zuzug,1997,5,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1997-5
 Zuzug,1997,5,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1997-5
+Zuzug,1997,5,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
+Zuzug,1997,5,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1997-5
+Zuzug,1997,5,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1997-5
+Zuzug,1997,5,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1997-5
+Zuzug,1997,5,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1997-5
 Wegzug,1997,5,Schweizer,M,30,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Ausländer,M,30,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,30,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1997-5
@@ -657,6 +676,9 @@ Wegzug,1997,5,Schweizer,W,30,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,19
 Wegzug,1997,5,Schweizer,W,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,30,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,30,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1997-5
+Wegzug,1997,5,Schweizer,W,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
+Wegzug,1997,5,Schweizer,W,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
+Zuzug,1997,5,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1997-5
 Wegzug,1997,5,Schweizer,W,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
 Zuzug,1997,5,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1997-5
@@ -743,6 +765,7 @@ Wegzug,1997,5,Schweizer,W,32,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1997
 Wegzug,1997,5,Schweizer,M,32,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,32,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,32,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1997-5
+Wegzug,1997,5,Schweizer,M,32,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,32,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Ausländer,M,33,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,33,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1997-5
@@ -888,6 +911,7 @@ Wegzug,1997,5,Ausländer,W,36,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,
 Wegzug,1997,5,Schweizer,W,36,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,36,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1997-5
 Zuzug,1997,5,Schweizer,M,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1997-5
+Zuzug,1997,5,Schweizer,M,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1997-5
 Wegzug,1997,5,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Ausländer,W,37,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,37,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1997-5
@@ -987,6 +1011,7 @@ Zuzug,1997,5,Schweizer,W,40,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossba
 Wegzug,1997,5,Ausländer,W,40,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,40,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,40,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1997-5
+Zuzug,1997,5,Ausländer,M,40,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1997-5
 Zuzug,1997,5,Ausländer,M,40,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1997-5
 Wegzug,1997,5,Schweizer,W,41,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1997-5
 Zuzug,1997,5,Ausländer,M,41,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1997-5
@@ -1148,6 +1173,7 @@ Wegzug,1997,5,Schweizer,W,52,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Ausländer,M,52,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Ausländer,M,52,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,W,52,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1997-5
+Zuzug,1997,5,Schweizer,M,52,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,1997-5
 Zuzug,1997,5,Schweizer,M,52,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,1997-5
 Wegzug,1997,5,Ausländer,M,53,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1997-5
 Wegzug,1997,5,Schweizer,M,53,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1997-5

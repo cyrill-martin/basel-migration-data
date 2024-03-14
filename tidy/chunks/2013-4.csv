@@ -1,10 +1,11 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2013,4,Ausländer,M,0,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2013-4
 Zuzug,2013,4,Schweizer,W,0,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,St. Johann,2013-4
 Zuzug,2013,4,Schweizer,M,0,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2013-4
 Zuzug,2013,4,Ausländer,W,0,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2013-4
 Wegzug,2013,4,Ausländer,W,0,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Oesterreich,Ausland,NA,2013-4
 Wegzug,2013,4,Ausländer,M,0,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,2013-4
+Wegzug,2013,4,Ausländer,M,0,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2013-4
 Wegzug,2013,4,Ausländer,M,0,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2013-4
 Wegzug,2013,4,Schweizer,M,1,Schweiz,Schweiz,BS,Breite,Lateinamerika und Karibik,Kuba,Ausland,NA,2013-4
 Wegzug,2013,4,Schweizer,W,1,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2013-4
@@ -73,6 +74,7 @@ Wegzug,2013,4,Ausländer,M,2,Schweiz,Schweiz,BS,Breite,Nordamerika,Vereinigte St
 Wegzug,2013,4,Schweizer,M,2,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2013-4
 Wegzug,2013,4,Ausländer,M,2,Schweiz,Schweiz,BS,St. Johann,Asien,Indien,Ausland,NA,2013-4
 Wegzug,2013,4,Ausländer,W,2,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2013-4
+Zuzug,2013,4,Ausländer,M,2,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2013-4
 Zuzug,2013,4,Ausländer,M,2,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2013-4
 Wegzug,2013,4,Ausländer,W,3,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,2013-4
 Zuzug,2013,4,Ausländer,M,3,Asien,Vereinigte Arabische Emirate,Unbekannt,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2013-4
@@ -922,6 +924,7 @@ Wegzug,2013,4,Schweizer,M,29,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,GR,NA,201
 Wegzug,2013,4,Schweizer,W,29,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,GE,NA,2013-4
 Wegzug,2013,4,Schweizer,W,29,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,ZH,NA,2013-4
 Zuzug,2013,4,Ausländer,W,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2013-4
+Zuzug,2013,4,Ausländer,W,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2013-4
 Wegzug,2013,4,Ausländer,M,30,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Schweiz,Schweiz,BL,NA,2013-4
 Wegzug,2013,4,Ausländer,M,30,Schweiz,Schweiz,BS,Gotthelf,unbekannt,unbekannt,unbekannt,NA,2013-4
 Wegzug,2013,4,Ausländer,W,30,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2013-4
@@ -1531,6 +1534,7 @@ Wegzug,2013,4,Schweizer,W,37,Schweiz,Schweiz,BS,Breite,Lateinamerika und Karibik
 Wegzug,2013,4,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2013-4
 Wegzug,2013,4,Ausländer,M,37,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,ZH,NA,2013-4
 Zuzug,2013,4,Ausländer,M,37,Europa (ohne Schweiz),Nordmazedonien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2013-4
+Zuzug,2013,4,Ausländer,M,37,Europa (ohne Schweiz),Nordmazedonien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2013-4
 Wegzug,2013,4,Schweizer,M,38,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2013-4
 Wegzug,2013,4,Schweizer,W,38,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2013-4
 Wegzug,2013,4,Ausländer,M,38,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2013-4
@@ -2110,6 +2114,7 @@ Wegzug,2013,4,Schweizer,M,64,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,
 Zuzug,2013,4,Schweizer,M,64,Asien,Thailand,Unbekannt,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2013-4
 Wegzug,2013,4,Ausländer,M,64,Schweiz,Schweiz,BS,St. Alban,unbekannt,unbekannt,unbekannt,NA,2013-4
 Wegzug,2013,4,Schweizer,M,64,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BE,NA,2013-4
+Wegzug,2013,4,Ausländer,M,64,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unbekannt,NA,2013-4
 Wegzug,2013,4,Ausländer,M,64,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unbekannt,NA,2013-4
 Wegzug,2013,4,Schweizer,M,65,Schweiz,Schweiz,BS,Breite,unbekannt,unbekannt,unbekannt,NA,2013-4
 Zuzug,2013,4,Schweizer,M,65,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Matthäus,2013-4

@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2023,3,Ausländer,M,0,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2023-3
 Wegzug,2023,3,Schweizer,W,0,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2023-3
 Zuzug,2023,3,Schweizer,M,0,Schweiz,Schweiz,JU,NA,Schweiz,Schweiz,BS,Iselin,2023-3
@@ -26,6 +26,7 @@ Zuzug,2023,3,Ausländer,W,1,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,S
 Zuzug,2023,3,Ausländer,M,1,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2023-3
 Zuzug,2023,3,Ausländer,M,1,Europa (ohne Schweiz),Nordmazedonien,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
 Wegzug,2023,3,Ausländer,M,1,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2023-3
+Zuzug,2023,3,Ausländer,W,1,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2023-3
 Zuzug,2023,3,Ausländer,W,1,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2023-3
 Zuzug,2023,3,Ausländer,W,2,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2023-3
 Zuzug,2023,3,Schweizer,W,2,Schweiz,Schweiz,JU,NA,Schweiz,Schweiz,BS,Iselin,2023-3
@@ -157,6 +158,8 @@ Zuzug,2023,3,Ausländer,M,8,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alb
 Zuzug,2023,3,Ausländer,W,8,Lateinamerika und Karibik,Brasilien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2023-3
 Zuzug,2023,3,Ausländer,W,8,Europa (ohne Schweiz),Nordmazedonien,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
 Wegzug,2023,3,Schweizer,W,8,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2023-3
+Zuzug,2023,3,Ausländer,W,8,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2023-3
+Wegzug,2023,3,Schweizer,M,8,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,SO,NA,2023-3
 Zuzug,2023,3,Ausländer,W,8,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2023-3
 Wegzug,2023,3,Schweizer,M,8,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,SO,NA,2023-3
 Wegzug,2023,3,Ausländer,W,9,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2023-3
@@ -291,6 +294,7 @@ Zuzug,2023,3,Schweizer,W,21,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Am Ring,202
 Zuzug,2023,3,Schweizer,W,21,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,2023-3
 Wegzug,2023,3,Schweizer,W,21,Schweiz,Schweiz,BS,Bachletten,unbekannt,unbekannt,unbekannt,NA,2023-3
 Zuzug,2023,3,Ausländer,W,21,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
+Zuzug,2023,3,Ausländer,W,21,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
 Zuzug,2023,3,Ausländer,M,22,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
 Zuzug,2023,3,Ausländer,M,22,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,2023-3
 Zuzug,2023,3,Ausländer,W,22,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2023-3
@@ -400,6 +404,7 @@ Wegzug,2023,3,Schweizer,M,23,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,202
 Wegzug,2023,3,Ausländer,M,23,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-3
 Wegzug,2023,3,Ausländer,W,23,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-3
 Zuzug,2023,3,Ausländer,M,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
+Zuzug,2023,3,Ausländer,M,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
 Zuzug,2023,3,Ausländer,M,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
 Zuzug,2023,3,Ausländer,M,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2023-3
 Zuzug,2023,3,Ausländer,M,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2023-3
@@ -492,6 +497,7 @@ Wegzug,2023,3,Ausländer,W,24,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),D
 Wegzug,2023,3,Schweizer,W,24,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2023-3
 Wegzug,2023,3,Ausländer,W,24,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2023-3
 Wegzug,2023,3,Schweizer,W,24,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,GR,NA,2023-3
+Zuzug,2023,3,Ausländer,W,24,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2023-3
 Zuzug,2023,3,Ausländer,W,24,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2023-3
 Zuzug,2023,3,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2023-3
 Zuzug,2023,3,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2023-3
@@ -594,6 +600,11 @@ Wegzug,2023,3,Ausländer,M,25,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz)
 Wegzug,2023,3,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Spanien,Ausland,NA,2023-3
 Zuzug,2023,3,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2023-3
 Zuzug,2023,3,Ausländer,W,25,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
+Zuzug,2023,3,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2023-3
+Wegzug,2023,3,Ausländer,M,25,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Finnland,Ausland,NA,2023-3
+Wegzug,2023,3,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Spanien,Ausland,NA,2023-3
+Zuzug,2023,3,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2023-3
+Zuzug,2023,3,Ausländer,W,25,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
 Zuzug,2023,3,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2023-3
 Zuzug,2023,3,Ausländer,M,26,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2023-3
 Zuzug,2023,3,Ausländer,W,26,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Iselin,2023-3
@@ -684,6 +695,9 @@ Wegzug,2023,3,Ausländer,W,26,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Nordamerika
 Wegzug,2023,3,Schweizer,W,26,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BE,NA,2023-3
 Wegzug,2023,3,Ausländer,M,26,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,BL,NA,2023-3
 Wegzug,2023,3,Schweizer,M,26,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Frankreich,Ausland,NA,2023-3
+Zuzug,2023,3,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
+Zuzug,2023,3,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
+Zuzug,2023,3,Ausländer,W,26,Asien,Thailand,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2023-3
 Zuzug,2023,3,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
 Zuzug,2023,3,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
 Zuzug,2023,3,Ausländer,W,26,Asien,Thailand,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2023-3
@@ -780,6 +794,7 @@ Wegzug,2023,3,Schweizer,M,27,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,
 Wegzug,2023,3,Schweizer,W,27,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,SH,NA,2023-3
 Wegzug,2023,3,Schweizer,W,27,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2023-3
 Wegzug,2023,3,Ausländer,M,27,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2023-3
+Zuzug,2023,3,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
 Zuzug,2023,3,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
 Zuzug,2023,3,Ausländer,M,28,Europa (ohne Schweiz),Griechenland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2023-3
 Zuzug,2023,3,Ausländer,M,28,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2023-3
@@ -1044,6 +1059,9 @@ Wegzug,2023,3,Schweizer,W,30,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,ZH,NA,202
 Zuzug,2023,3,Ausländer,M,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
 Zuzug,2023,3,Ausländer,M,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2023-3
 Zuzug,2023,3,Ausländer,M,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2023-3
+Zuzug,2023,3,Ausländer,M,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
+Zuzug,2023,3,Ausländer,M,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2023-3
+Zuzug,2023,3,Ausländer,M,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2023-3
 Zuzug,2023,3,Ausländer,M,31,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2023-3
 Zuzug,2023,3,Ausländer,M,31,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Gundeldingen,2023-3
 Zuzug,2023,3,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2023-3
@@ -1207,6 +1225,7 @@ Wegzug,2023,3,Ausländer,M,32,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Schweiz,Sch
 Wegzug,2023,3,Ausländer,W,32,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Ukraine,Ausland,NA,2023-3
 Wegzug,2023,3,Ausländer,W,32,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2023-3
 Wegzug,2023,3,Schweizer,M,32,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2023-3
+Zuzug,2023,3,Ausländer,M,32,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
 Zuzug,2023,3,Ausländer,M,32,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
 Zuzug,2023,3,Ausländer,M,33,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2023-3
 Zuzug,2023,3,Ausländer,M,33,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2023-3
@@ -1411,6 +1430,8 @@ Wegzug,2023,3,Schweizer,W,35,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,u
 Wegzug,2023,3,Schweizer,M,35,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,ZH,NA,2023-3
 Wegzug,2023,3,Schweizer,W,35,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2023-3
 Wegzug,2023,3,Ausländer,W,35,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2023-3
+Zuzug,2023,3,Ausländer,W,35,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2023-3
+Zuzug,2023,3,Schweizer,M,35,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Gundeldingen,2023-3
 Zuzug,2023,3,Ausländer,W,35,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2023-3
 Zuzug,2023,3,Schweizer,M,35,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Gundeldingen,2023-3
 Zuzug,2023,3,Ausländer,M,36,Europa (ohne Schweiz),Rumänien,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2023-3
@@ -1897,6 +1918,8 @@ Wegzug,2023,3,Ausländer,M,49,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Afrika,Aegy
 Wegzug,2023,3,Ausländer,M,49,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2023-3
 Zuzug,2023,3,Ausländer,M,49,Europa (ohne Schweiz),Rumänien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
 Zuzug,2023,3,Ausländer,M,49,Europa (ohne Schweiz),Rumänien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
+Zuzug,2023,3,Ausländer,M,49,Europa (ohne Schweiz),Rumänien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
+Zuzug,2023,3,Ausländer,M,49,Europa (ohne Schweiz),Rumänien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
 Zuzug,2023,3,Ausländer,M,50,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2023-3
 Zuzug,2023,3,Ausländer,W,50,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Matthäus,2023-3
 Zuzug,2023,3,Ausländer,W,50,Asien,China,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2023-3
@@ -2066,6 +2089,7 @@ Zuzug,2023,3,Schweizer,M,59,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schwei
 Wegzug,2023,3,Ausländer,M,59,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,SG,NA,2023-3
 Wegzug,2023,3,Schweizer,W,59,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,ZH,NA,2023-3
 Wegzug,2023,3,Schweizer,W,59,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SZ,NA,2023-3
+Wegzug,2023,3,Schweizer,W,59,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SZ,NA,2023-3
 Zuzug,2023,3,Schweizer,W,60,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Bruderholz,2023-3
 Zuzug,2023,3,Schweizer,W,60,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Breite,2023-3
 Wegzug,2023,3,Schweizer,M,60,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Serbien,Ausland,NA,2023-3
@@ -2165,6 +2189,7 @@ Zuzug,2023,3,Ausländer,W,68,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,
 Wegzug,2023,3,Schweizer,M,68,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Serbien,Ausland,NA,2023-3
 Wegzug,2023,3,Schweizer,W,68,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2023-3
 Wegzug,2023,3,Schweizer,M,69,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2023-3
+Zuzug,2023,3,Schweizer,W,69,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,2023-3
 Zuzug,2023,3,Schweizer,W,69,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,2023-3
 Zuzug,2023,3,Schweizer,W,69,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,2023-3
 Zuzug,2023,3,Schweizer,M,70,Schweiz,Schweiz,TI,NA,Schweiz,Schweiz,BS,Bruderholz,2023-3

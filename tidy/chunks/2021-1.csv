@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2021,1,Schweizer,M,0,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2021-1
 Wegzug,2021,1,Schweizer,M,0,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,SO,NA,2021-1
 Zuzug,2021,1,Ausländer,W,1,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2021-1
@@ -52,6 +52,7 @@ Wegzug,2021,1,Ausländer,M,2,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),
 Wegzug,2021,1,Ausländer,M,2,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2021-1
 Wegzug,2021,1,Schweizer,W,2,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2021-1
 Wegzug,2021,1,Schweizer,W,2,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,SG,NA,2021-1
+Wegzug,2021,1,Ausländer,M,2,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Frankreich,Ausland,NA,2021-1
 Wegzug,2021,1,Ausländer,M,2,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Frankreich,Ausland,NA,2021-1
 Zuzug,2021,1,Ausländer,M,3,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2021-1
 Zuzug,2021,1,Schweizer,M,3,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,2021-1
@@ -632,6 +633,8 @@ Wegzug,2021,1,Schweizer,W,26,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2
 Wegzug,2021,1,Schweizer,M,26,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Schweiz,Schweiz,AG,NA,2021-1
 Wegzug,2021,1,Ausländer,W,26,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Ungarn,Ausland,NA,2021-1
 Wegzug,2021,1,Schweizer,M,26,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,2021-1
+Zuzug,2021,1,Schweizer,M,26,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,2021-1
+Zuzug,2021,1,Schweizer,M,26,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,2021-1
 Zuzug,2021,1,Schweizer,M,26,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,2021-1
 Zuzug,2021,1,Schweizer,M,26,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,2021-1
 Zuzug,2021,1,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2021-1
@@ -1509,6 +1512,7 @@ Wegzug,2021,1,Ausländer,W,37,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Deu
 Wegzug,2021,1,Ausländer,M,37,Schweiz,Schweiz,BS,Bettingen,Schweiz,Schweiz,AG,NA,2021-1
 Wegzug,2021,1,Schweizer,M,37,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2021-1
 Wegzug,2021,1,Ausländer,M,37,Schweiz,Schweiz,BS,St. Johann,Asien,Bangladesch,Ausland,NA,2021-1
+Wegzug,2021,1,Schweizer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2021-1
 Wegzug,2021,1,Schweizer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2021-1
 Zuzug,2021,1,Ausländer,W,38,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Klybeck,2021-1
 Zuzug,2021,1,Ausländer,M,38,Schweiz,Schweiz,VS,NA,Schweiz,Schweiz,BS,Bachletten,2021-1

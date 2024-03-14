@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2020,9,Schweizer,M,0,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,St. Johann,2020-9
 Zuzug,2020,9,Ausländer,W,0,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2020-9
 Zuzug,2020,9,Ausländer,M,0,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2020-9
@@ -93,6 +93,7 @@ Wegzug,2020,9,Schweizer,W,2,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,SO,NA,2020
 Wegzug,2020,9,Ausländer,M,2,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,AG,NA,2020-9
 Wegzug,2020,9,Schweizer,M,2,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2020-9
 Zuzug,2020,9,Ausländer,W,2,Europa (ohne Schweiz),Niederlande,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2020-9
+Zuzug,2020,9,Ausländer,W,2,Europa (ohne Schweiz),Niederlande,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2020-9
 Wegzug,2020,9,Ausländer,W,3,Schweiz,Schweiz,BS,Am Ring,Asien,Indien,Ausland,NA,2020-9
 Wegzug,2020,9,Schweizer,W,3,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2020-9
 Wegzug,2020,9,Schweizer,W,3,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Schweden,Ausland,NA,2020-9
@@ -128,6 +129,7 @@ Zuzug,2020,9,Ausländer,M,4,Asien,Malaysia,Unbekannt,NA,Schweiz,Schweiz,BS,Rosen
 Wegzug,2020,9,Schweizer,W,4,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2020-9
 Wegzug,2020,9,Schweizer,W,4,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Frankreich,Ausland,NA,2020-9
 Zuzug,2020,9,Schweizer,M,4,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,2020-9
+Zuzug,2020,9,Schweizer,M,4,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,2020-9
 Zuzug,2020,9,Ausländer,W,5,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2020-9
 Zuzug,2020,9,Schweizer,M,5,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,2020-9
 Wegzug,2020,9,Ausländer,W,5,Schweiz,Schweiz,BS,Rosental,Asien,Indien,Ausland,NA,2020-9
@@ -144,6 +146,7 @@ Wegzug,2020,9,Ausländer,W,5,Schweiz,Schweiz,BS,Klybeck,unbekannt,unbekannt,unbe
 Wegzug,2020,9,Ausländer,W,5,Schweiz,Schweiz,BS,Breite,unbekannt,unbekannt,unbekannt,NA,2020-9
 Wegzug,2020,9,Ausländer,M,5,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,ZH,NA,2020-9
 Wegzug,2020,9,Schweizer,M,5,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2020-9
+Zuzug,2020,9,Ausländer,W,5,Europa (ohne Schweiz),Oesterreich,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-9
 Zuzug,2020,9,Ausländer,W,5,Europa (ohne Schweiz),Oesterreich,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-9
 Zuzug,2020,9,Ausländer,W,6,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2020-9
 Zuzug,2020,9,Ausländer,W,6,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2020-9
@@ -313,6 +316,8 @@ Zuzug,2020,9,Ausländer,M,18,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schw
 Wegzug,2020,9,Schweizer,W,18,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BE,NA,2020-9
 Wegzug,2020,9,Schweizer,W,18,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2020-9
 Wegzug,2020,9,Schweizer,W,18,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,2020-9
+Wegzug,2020,9,Schweizer,W,18,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2020-9
+Zuzug,2020,9,Ausländer,W,18,Europa (ohne Schweiz),Liechtenstein,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2020-9
 Wegzug,2020,9,Schweizer,W,18,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2020-9
 Zuzug,2020,9,Ausländer,W,18,Europa (ohne Schweiz),Liechtenstein,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2020-9
 Zuzug,2020,9,Ausländer,M,19,Europa (ohne Schweiz),Niederlande,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2020-9
@@ -707,6 +712,8 @@ Wegzug,2020,9,Schweizer,W,22,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,202
 Wegzug,2020,9,Ausländer,W,22,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SO,NA,2020-9
 Zuzug,2020,9,Schweizer,M,22,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Klybeck,2020-9
 Zuzug,2020,9,Ausländer,M,22,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2020-9
+Zuzug,2020,9,Schweizer,M,22,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Klybeck,2020-9
+Zuzug,2020,9,Ausländer,M,22,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2020-9
 Zuzug,2020,9,Ausländer,M,23,Europa (ohne Schweiz),Luxemburg,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2020-9
 Zuzug,2020,9,Ausländer,M,23,Europa (ohne Schweiz),Schweden,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2020-9
 Zuzug,2020,9,Ausländer,M,23,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Clara,2020-9
@@ -989,6 +996,8 @@ Wegzug,2020,9,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz
 Wegzug,2020,9,Ausländer,M,24,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unbekannt,NA,2020-9
 Zuzug,2020,9,Schweizer,M,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2020-9
 Zuzug,2020,9,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2020-9
+Zuzug,2020,9,Schweizer,M,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2020-9
+Zuzug,2020,9,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2020-9
 Zuzug,2020,9,Ausländer,M,25,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-9
 Zuzug,2020,9,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2020-9
 Zuzug,2020,9,Ausländer,M,25,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,St. Alban,2020-9
@@ -1132,6 +1141,8 @@ Wegzug,2020,9,Schweizer,M,25,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA
 Wegzug,2020,9,Ausländer,W,25,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,ZH,NA,2020-9
 Zuzug,2020,9,Ausländer,M,25,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-9
 Zuzug,2020,9,Schweizer,M,25,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-9
+Zuzug,2020,9,Ausländer,M,25,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-9
+Zuzug,2020,9,Schweizer,M,25,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-9
 Zuzug,2020,9,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2020-9
 Zuzug,2020,9,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2020-9
 Zuzug,2020,9,Ausländer,M,26,Europa (ohne Schweiz),Oesterreich,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2020-9
@@ -1268,6 +1279,7 @@ Wegzug,2020,9,Ausländer,M,26,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),O
 Wegzug,2020,9,Schweizer,M,26,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2020-9
 Wegzug,2020,9,Schweizer,M,26,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,2020-9
 Zuzug,2020,9,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2020-9
+Zuzug,2020,9,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2020-9
 Zuzug,2020,9,Ausländer,M,27,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Iselin,2020-9
 Zuzug,2020,9,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2020-9
 Zuzug,2020,9,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2020-9
@@ -1403,6 +1415,7 @@ Wegzug,2020,9,Schweizer,M,27,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,TI,NA,202
 Wegzug,2020,9,Ausländer,M,27,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Ungarn,Ausland,NA,2020-9
 Wegzug,2020,9,Ausländer,W,27,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,SO,NA,2020-9
 Zuzug,2020,9,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2020-9
+Zuzug,2020,9,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2020-9
 Zuzug,2020,9,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2020-9
 Zuzug,2020,9,Ausländer,M,28,Europa (ohne Schweiz),Niederlande,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2020-9
 Zuzug,2020,9,Ausländer,W,28,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2020-9
@@ -1533,6 +1546,8 @@ Wegzug,2020,9,Schweizer,W,28,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,ZH,NA,
 Wegzug,2020,9,Schweizer,W,28,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,SG,NA,2020-9
 Wegzug,2020,9,Schweizer,W,28,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2020-9
 Wegzug,2020,9,Ausländer,M,28,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Italien,Ausland,NA,2020-9
+Wegzug,2020,9,Ausländer,W,28,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2020-9
+Wegzug,2020,9,Ausländer,W,28,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2020-9
 Wegzug,2020,9,Ausländer,W,28,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2020-9
 Wegzug,2020,9,Ausländer,W,28,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2020-9
 Zuzug,2020,9,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2020-9
@@ -1769,6 +1784,7 @@ Wegzug,2020,9,Schweizer,W,30,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,AG,NA,2
 Wegzug,2020,9,Schweizer,W,30,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,unbekannt,unbekannt,NA,2020-9
 Wegzug,2020,9,Schweizer,M,30,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2020-9
 Zuzug,2020,9,Ausländer,W,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2020-9
+Zuzug,2020,9,Ausländer,W,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2020-9
 Zuzug,2020,9,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2020-9
 Zuzug,2020,9,Ausländer,M,31,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2020-9
 Zuzug,2020,9,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2020-9
@@ -1861,6 +1877,7 @@ Wegzug,2020,9,Schweizer,M,31,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,VS,NA,202
 Wegzug,2020,9,Ausländer,M,31,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,2020-9
 Wegzug,2020,9,Ausländer,W,31,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2020-9
 Zuzug,2020,9,Schweizer,W,31,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2020-9
+Zuzug,2020,9,Schweizer,W,31,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2020-9
 Zuzug,2020,9,Ausländer,M,32,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2020-9
 Zuzug,2020,9,Ausländer,M,32,Europa (ohne Schweiz),Norwegen,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2020-9
 Zuzug,2020,9,Ausländer,W,32,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2020-9
@@ -1945,6 +1962,7 @@ Wegzug,2020,9,Ausländer,W,32,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,
 Wegzug,2020,9,Ausländer,W,32,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Europa (ohne Schweiz),Frankreich,Ausland,NA,2020-9
 Wegzug,2020,9,Schweizer,W,32,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2020-9
 Wegzug,2020,9,Ausländer,W,32,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,ZH,NA,2020-9
+Zuzug,2020,9,Ausländer,W,32,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-9
 Zuzug,2020,9,Ausländer,W,32,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-9
 Zuzug,2020,9,Ausländer,M,33,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Bachletten,2020-9
 Zuzug,2020,9,Ausländer,W,33,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2020-9
@@ -2106,6 +2124,7 @@ Wegzug,2020,9,Ausländer,W,34,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,20
 Wegzug,2020,9,Schweizer,M,34,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2020-9
 Wegzug,2020,9,Schweizer,W,34,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,LU,NA,2020-9
 Wegzug,2020,9,Ausländer,M,34,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2020-9
+Zuzug,2020,9,Ausländer,M,34,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2020-9
 Zuzug,2020,9,Ausländer,M,34,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2020-9
 Zuzug,2020,9,Ausländer,M,35,Europa (ohne Schweiz),Niederlande,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2020-9
 Zuzug,2020,9,Ausländer,M,35,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,2020-9

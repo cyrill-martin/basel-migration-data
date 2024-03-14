@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2006,5,Schweizer,W,0,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Deutschland,Ausland,NA,2006-5
 Wegzug,2006,5,Schweizer,W,0,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2006-5
 Zuzug,2006,5,Ausländer,W,0,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2006-5
@@ -37,6 +37,7 @@ Wegzug,2006,5,Schweizer,M,1,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,BL,NA,
 Wegzug,2006,5,Schweizer,W,1,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2006-5
 Wegzug,2006,5,Schweizer,M,1,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2006-5
 Zuzug,2006,5,Ausländer,W,1,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2006-5
+Zuzug,2006,5,Ausländer,W,1,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2006-5
 Wegzug,2006,5,Schweizer,W,2,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BL,NA,2006-5
 Wegzug,2006,5,Schweizer,W,2,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2006-5
 Wegzug,2006,5,Schweizer,M,2,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2006-5
@@ -54,6 +55,7 @@ Zuzug,2006,5,Ausländer,M,2,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,
 Zuzug,2006,5,Ausländer,M,2,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2006-5
 Zuzug,2006,5,Schweizer,M,2,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gotthelf,2006-5
 Wegzug,2006,5,Schweizer,M,2,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SO,NA,2006-5
+Wegzug,2006,5,Ausländer,M,2,Schweiz,Schweiz,BS,Wettstein,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2006-5
 Wegzug,2006,5,Ausländer,M,2,Schweiz,Schweiz,BS,Wettstein,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2006-5
 Wegzug,2006,5,Schweizer,W,3,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,BL,NA,2006-5
 Wegzug,2006,5,Schweizer,M,3,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BE,NA,2006-5
@@ -352,6 +354,7 @@ Wegzug,2006,5,Schweizer,W,23,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,20
 Wegzug,2006,5,Ausländer,M,23,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Liechtenstein,Ausland,NA,2006-5
 Wegzug,2006,5,Schweizer,W,23,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,AG,NA,2006-5
 Zuzug,2006,5,Schweizer,M,23,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,2006-5
+Zuzug,2006,5,Schweizer,M,23,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,2006-5
 Wegzug,2006,5,Schweizer,W,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2006-5
 Wegzug,2006,5,Schweizer,M,24,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,BL,NA,2006-5
 Wegzug,2006,5,Schweizer,W,24,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2006-5
@@ -407,6 +410,7 @@ Wegzug,2006,5,Schweizer,M,24,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,20
 Wegzug,2006,5,Ausländer,W,24,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unbekannt,NA,2006-5
 Wegzug,2006,5,Ausländer,W,24,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Frankreich,Ausland,NA,2006-5
 Wegzug,2006,5,Schweizer,W,24,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,2006-5
+Zuzug,2006,5,Schweizer,W,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2006-5
 Zuzug,2006,5,Schweizer,W,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2006-5
 Wegzug,2006,5,Schweizer,M,25,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,LU,NA,2006-5
 Wegzug,2006,5,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,Asien,Jordanien,Ausland,NA,2006-5
@@ -734,6 +738,7 @@ Wegzug,2006,5,Schweizer,W,29,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,ZH,NA,200
 Wegzug,2006,5,Ausländer,W,29,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BE,NA,2006-5
 Wegzug,2006,5,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,2006-5
 Zuzug,2006,5,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2006-5
+Zuzug,2006,5,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2006-5
 Wegzug,2006,5,Schweizer,W,30,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2006-5
 Wegzug,2006,5,Ausländer,W,30,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2006-5
 Wegzug,2006,5,Schweizer,W,30,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,AG,NA,2006-5
@@ -862,6 +867,7 @@ Wegzug,2006,5,Schweizer,M,31,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,GR,NA,200
 Wegzug,2006,5,Schweizer,M,31,Schweiz,Schweiz,BS,Bachletten,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2006-5
 Wegzug,2006,5,Schweizer,W,31,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BE,NA,2006-5
 Wegzug,2006,5,Schweizer,W,31,Schweiz,Schweiz,BS,Clara,Afrika,Kenia,Ausland,NA,2006-5
+Wegzug,2006,5,Ausländer,M,31,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2006-5
 Wegzug,2006,5,Ausländer,M,31,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2006-5
 Wegzug,2006,5,Ausländer,W,32,Schweiz,Schweiz,BS,Gotthelf,unbekannt,unbekannt,unbekannt,NA,2006-5
 Wegzug,2006,5,Schweizer,M,32,Schweiz,Schweiz,BS,St. Johann,Ozeanien,Australien,Ausland,NA,2006-5
@@ -1135,6 +1141,7 @@ Wegzug,2006,5,Schweizer,M,36,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,SO,NA,2
 Wegzug,2006,5,Ausländer,W,36,Schweiz,Schweiz,BS,Iselin,Asien,Sri Lanka,Ausland,NA,2006-5
 Wegzug,2006,5,Schweizer,M,36,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BE,NA,2006-5
 Zuzug,2006,5,Schweizer,W,36,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Bruderholz,2006-5
+Zuzug,2006,5,Schweizer,W,36,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Bruderholz,2006-5
 Wegzug,2006,5,Ausländer,W,37,Schweiz,Schweiz,BS,Bruderholz,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2006-5
 Wegzug,2006,5,Ausländer,W,37,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,TI,NA,2006-5
 Wegzug,2006,5,Ausländer,W,37,Schweiz,Schweiz,BS,Vorstädte,unbekannt,unbekannt,unbekannt,NA,2006-5
@@ -1265,6 +1272,7 @@ Zuzug,2006,5,Ausländer,W,40,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schwe
 Zuzug,2006,5,Schweizer,M,40,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2006-5
 Wegzug,2006,5,Schweizer,W,40,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,AG,NA,2006-5
 Wegzug,2006,5,Ausländer,M,40,Schweiz,Schweiz,BS,Clara,unbekannt,unbekannt,unbekannt,NA,2006-5
+Zuzug,2006,5,Ausländer,M,40,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2006-5
 Zuzug,2006,5,Ausländer,M,40,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2006-5
 Wegzug,2006,5,Schweizer,W,41,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BE,NA,2006-5
 Wegzug,2006,5,Ausländer,M,41,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Italien,Ausland,NA,2006-5
@@ -1456,6 +1464,7 @@ Wegzug,2006,5,Schweizer,W,46,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SO,
 Wegzug,2006,5,Ausländer,M,46,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,ZH,NA,2006-5
 Wegzug,2006,5,Ausländer,W,46,Schweiz,Schweiz,BS,St. Johann,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2006-5
 Wegzug,2006,5,Schweizer,W,46,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2006-5
+Zuzug,2006,5,Ausländer,M,46,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,2006-5
 Zuzug,2006,5,Ausländer,M,46,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,2006-5
 Wegzug,2006,5,Ausländer,M,47,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2006-5
 Wegzug,2006,5,Schweizer,W,47,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,SO,NA,2006-5

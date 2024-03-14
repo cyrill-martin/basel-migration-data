@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2011,3,Schweizer,M,0,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2011-3
 Zuzug,2011,3,Schweizer,W,0,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2011-3
 Zuzug,2011,3,Ausländer,W,0,Schweiz,Schweiz,GR,NA,Schweiz,Schweiz,BS,Matthäus,2011-3
@@ -44,6 +44,9 @@ Wegzug,2011,3,Ausländer,W,1,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,NE,NA,201
 Zuzug,2011,3,Ausländer,M,1,Europa (ohne Schweiz),Belgien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2011-3
 Zuzug,2011,3,Ausländer,M,1,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2011-3
 Wegzug,2011,3,Ausländer,M,1,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2011-3
+Zuzug,2011,3,Ausländer,M,1,Europa (ohne Schweiz),Belgien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2011-3
+Zuzug,2011,3,Ausländer,M,1,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2011-3
+Wegzug,2011,3,Ausländer,M,1,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2011-3
 Wegzug,2011,3,Ausländer,M,2,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2011-3
 Wegzug,2011,3,Ausländer,M,2,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Frankreich,Ausland,NA,2011-3
 Wegzug,2011,3,Ausländer,M,2,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-3
@@ -71,6 +74,8 @@ Wegzug,2011,3,Ausländer,W,2,Schweiz,Schweiz,BS,St. Johann,Asien,Indien,Ausland,
 Wegzug,2011,3,Ausländer,M,2,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,2011-3
 Wegzug,2011,3,Ausländer,M,2,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,2011-3
 Wegzug,2011,3,Ausländer,M,2,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2011-3
+Zuzug,2011,3,Ausländer,W,2,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2011-3
+Zuzug,2011,3,Ausländer,W,2,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2011-3
 Zuzug,2011,3,Ausländer,W,2,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2011-3
 Zuzug,2011,3,Ausländer,W,2,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2011-3
 Wegzug,2011,3,Schweizer,W,3,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,2011-3
@@ -187,6 +192,7 @@ Zuzug,2011,3,Ausländer,W,14,Europa (ohne Schweiz),Türkei,Unbekannt,NA,Schweiz,
 Zuzug,2011,3,Schweizer,M,14,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Bruderholz,2011-3
 Zuzug,2011,3,Ausländer,M,14,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2011-3
 Zuzug,2011,3,Schweizer,W,14,Afrika,Kamerun,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-3
+Wegzug,2011,3,Schweizer,W,14,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,AG,NA,2011-3
 Wegzug,2011,3,Schweizer,W,14,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,AG,NA,2011-3
 Wegzug,2011,3,Ausländer,M,15,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2011-3
 Zuzug,2011,3,Ausländer,W,15,Asien,China,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2011-3
@@ -574,6 +580,7 @@ Wegzug,2011,3,Schweizer,W,25,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,201
 Wegzug,2011,3,Schweizer,W,25,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,AG,NA,2011-3
 Wegzug,2011,3,Schweizer,M,25,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2011-3
 Wegzug,2011,3,Schweizer,W,25,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-3
+Zuzug,2011,3,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2011-3
 Zuzug,2011,3,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2011-3
 Wegzug,2011,3,Schweizer,M,26,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2011-3
 Wegzug,2011,3,Schweizer,M,26,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,AG,NA,2011-3
@@ -1921,6 +1928,8 @@ Wegzug,2011,3,Ausländer,W,64,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz)
 Wegzug,2011,3,Schweizer,W,64,Schweiz,Schweiz,BS,Vorstädte,unbekannt,unbekannt,unbekannt,NA,2011-3
 Wegzug,2011,3,Schweizer,W,64,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,AG,NA,2011-3
 Wegzug,2011,3,Schweizer,W,64,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,AG,NA,2011-3
+Wegzug,2011,3,Ausländer,W,64,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Schweden,Ausland,NA,2011-3
+Wegzug,2011,3,Ausländer,W,64,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Schweden,Ausland,NA,2011-3
 Wegzug,2011,3,Ausländer,W,64,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Schweden,Ausland,NA,2011-3
 Wegzug,2011,3,Ausländer,W,64,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Schweden,Ausland,NA,2011-3
 Wegzug,2011,3,Ausländer,M,65,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Kroatien,Ausland,NA,2011-3

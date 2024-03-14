@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,1992,5,Schweizer,W,0,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Schweizer,M,0,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1992-5
 Wegzug,1992,5,Ausländer,W,0,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-5
@@ -146,6 +146,7 @@ Zuzug,1992,5,Ausländer,M,15,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,W
 Zuzug,1992,5,Schweizer,W,15,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-5
 Zuzug,1992,5,Ausländer,M,15,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
 Wegzug,1992,5,Ausländer,W,15,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
+Wegzug,1992,5,Ausländer,W,15,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Ausländer,M,16,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
 Wegzug,1992,5,Ausländer,M,16,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,16,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-5
@@ -230,6 +231,7 @@ Wegzug,1992,5,Ausländer,W,20,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,M,20,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,20,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,M,20,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
+Wegzug,1992,5,Ausländer,M,20,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,M,21,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,W,21,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,21,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1992-5
@@ -273,6 +275,12 @@ Zuzug,1992,5,Ausländer,M,21,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,S
 Zuzug,1992,5,Ausländer,W,21,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1992-5
 Wegzug,1992,5,Schweizer,M,21,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,21,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
+Zuzug,1992,5,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1992-5
+Zuzug,1992,5,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1992-5
+Zuzug,1992,5,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1992-5
+Zuzug,1992,5,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-5
+Zuzug,1992,5,Ausländer,M,21,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-5
 Zuzug,1992,5,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
 Zuzug,1992,5,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1992-5
 Zuzug,1992,5,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1992-5
@@ -354,6 +362,11 @@ Wegzug,1992,5,Ausländer,M,22,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,N
 Zuzug,1992,5,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
 Zuzug,1992,5,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
 Zuzug,1992,5,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
+Zuzug,1992,5,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
+Wegzug,1992,5,Ausländer,M,22,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
+Zuzug,1992,5,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
+Zuzug,1992,5,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
 Wegzug,1992,5,Schweizer,M,23,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,23,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Schweizer,M,23,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1992-5
@@ -425,6 +438,11 @@ Wegzug,1992,5,Ausländer,W,23,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992
 Zuzug,1992,5,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
 Zuzug,1992,5,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1992-5
 Wegzug,1992,5,Schweizer,W,23,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
+Wegzug,1992,5,Ausländer,W,23,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
+Zuzug,1992,5,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1992-5
+Wegzug,1992,5,Schweizer,W,23,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,24,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,24,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,24,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1992-5
@@ -481,6 +499,10 @@ Wegzug,1992,5,Schweizer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,
 Wegzug,1992,5,Schweizer,M,24,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,24,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
+Zuzug,1992,5,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
+Zuzug,1992,5,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1992-5
+Wegzug,1992,5,Ausländer,W,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
 Zuzug,1992,5,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
 Zuzug,1992,5,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1992-5
@@ -543,6 +565,11 @@ Wegzug,1992,5,Schweizer,W,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,19
 Wegzug,1992,5,Ausländer,M,25,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,25,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,25,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,W,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1992-5
+Wegzug,1992,5,Ausländer,W,25,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-5
+Wegzug,1992,5,Schweizer,M,25,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-5
+Wegzug,1992,5,Schweizer,W,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Schweizer,W,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1992-5
 Wegzug,1992,5,Ausländer,W,25,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-5
@@ -612,6 +639,10 @@ Wegzug,1992,5,Schweizer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,19
 Wegzug,1992,5,Ausländer,M,26,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,W,26,Schweiz,Schweiz,BS,Bettingen,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,26,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,1992-5
+Wegzug,1992,5,Ausländer,M,26,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
+Zuzug,1992,5,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
 Zuzug,1992,5,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,1992-5
 Wegzug,1992,5,Ausländer,M,26,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
@@ -695,6 +726,9 @@ Wegzug,1992,5,Schweizer,W,27,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,1
 Zuzug,1992,5,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
 Wegzug,1992,5,Ausländer,M,27,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1992-5
+Zuzug,1992,5,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
+Wegzug,1992,5,Ausländer,M,27,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1992-5
 Zuzug,1992,5,Ausländer,W,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1992-5
 Zuzug,1992,5,Ausländer,W,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
 Zuzug,1992,5,Ausländer,W,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,1992-5
@@ -757,6 +791,10 @@ Zuzug,1992,5,Ausländer,W,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,G
 Wegzug,1992,5,Schweizer,M,28,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Ausländer,W,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
 Wegzug,1992,5,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Ausländer,W,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
+Wegzug,1992,5,Schweizer,M,28,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Ausländer,W,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
+Wegzug,1992,5,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,M,29,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,M,29,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-5
@@ -815,6 +853,7 @@ Wegzug,1992,5,Schweizer,M,29,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,19
 Wegzug,1992,5,Ausländer,W,29,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,29,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,29,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1992-5
+Wegzug,1992,5,Ausländer,W,29,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,W,29,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,W,30,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Ausländer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1992-5
@@ -970,6 +1009,9 @@ Wegzug,1992,5,Schweizer,W,32,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,19
 Zuzug,1992,5,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
 Zuzug,1992,5,Ausländer,M,32,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
 Zuzug,1992,5,Schweizer,W,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-5
+Zuzug,1992,5,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
+Zuzug,1992,5,Ausländer,M,32,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-5
+Zuzug,1992,5,Schweizer,W,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-5
 Wegzug,1992,5,Schweizer,W,33,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Schweizer,M,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1992-5
 Zuzug,1992,5,Schweizer,M,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1992-5
@@ -1008,6 +1050,9 @@ Wegzug,1992,5,Ausländer,W,33,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992
 Wegzug,1992,5,Ausländer,M,33,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,M,33,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,33,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Schweizer,M,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1992-5
+Zuzug,1992,5,Ausländer,M,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1992-5
+Wegzug,1992,5,Ausländer,M,33,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Schweizer,M,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1992-5
 Zuzug,1992,5,Ausländer,M,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1992-5
 Wegzug,1992,5,Ausländer,M,33,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-5
@@ -1061,6 +1106,7 @@ Wegzug,1992,5,Schweizer,W,35,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA
 Wegzug,1992,5,Schweizer,W,35,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,35,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-5
 Zuzug,1992,5,Schweizer,M,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1992-5
+Zuzug,1992,5,Schweizer,M,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1992-5
 Wegzug,1992,5,Ausländer,M,36,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Ausländer,M,36,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,36,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-5
@@ -1094,6 +1140,7 @@ Zuzug,1992,5,Schweizer,W,36,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1
 Wegzug,1992,5,Ausländer,W,36,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,36,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,36,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Ausländer,M,36,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Breite,1992-5
 Zuzug,1992,5,Ausländer,M,36,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Breite,1992-5
 Wegzug,1992,5,Schweizer,W,37,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,37,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1992-5
@@ -1148,6 +1195,8 @@ Wegzug,1992,5,Ausländer,M,38,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,19
 Wegzug,1992,5,Ausländer,W,38,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,38,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,W,38,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Ausländer,M,38,Lateinamerika und Karibik,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-5
+Zuzug,1992,5,Schweizer,M,38,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1992-5
 Zuzug,1992,5,Ausländer,M,38,Lateinamerika und Karibik,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-5
 Zuzug,1992,5,Schweizer,M,38,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1992-5
 Wegzug,1992,5,Ausländer,M,39,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1992-5
@@ -1205,6 +1254,7 @@ Zuzug,1992,5,Ausländer,M,41,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,M
 Zuzug,1992,5,Ausländer,M,41,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Clara,1992-5
 Zuzug,1992,5,Schweizer,M,41,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-5
 Wegzug,1992,5,Schweizer,W,41,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-5
+Zuzug,1992,5,Ausländer,M,41,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
 Zuzug,1992,5,Ausländer,M,41,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-5
 Wegzug,1992,5,Schweizer,M,42,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-5
 Wegzug,1992,5,Schweizer,M,42,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-5

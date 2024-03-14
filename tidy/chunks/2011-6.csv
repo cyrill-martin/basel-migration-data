@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2011,6,Schweizer,M,0,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2011-6
 Zuzug,2011,6,Schweizer,M,0,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2011-6
 Wegzug,2011,6,Schweizer,M,0,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BL,NA,2011-6
@@ -102,6 +102,7 @@ Wegzug,2011,6,Schweizer,W,4,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,201
 Wegzug,2011,6,Ausländer,W,4,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-6
 Wegzug,2011,6,Schweizer,M,4,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,AG,NA,2011-6
 Wegzug,2011,6,Ausländer,W,4,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-6
+Wegzug,2011,6,Ausländer,W,4,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-6
 Wegzug,2011,6,Ausländer,W,5,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2011-6
 Zuzug,2011,6,Schweizer,M,5,Ozeanien,Australien,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2011-6
 Zuzug,2011,6,Ausländer,M,5,Ozeanien,Australien,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2011-6
@@ -124,6 +125,7 @@ Wegzug,2011,6,Ausländer,M,5,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz)
 Wegzug,2011,6,Ausländer,W,5,Schweiz,Schweiz,BS,Bruderholz,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2011-6
 Wegzug,2011,6,Ausländer,W,5,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2011-6
 Wegzug,2011,6,Schweizer,M,5,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2011-6
+Wegzug,2011,6,Ausländer,W,5,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2011-6
 Wegzug,2011,6,Ausländer,W,5,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2011-6
 Wegzug,2011,6,Ausländer,M,6,Schweiz,Schweiz,BS,St. Johann,Asien,Singapur,Ausland,NA,2011-6
 Wegzug,2011,6,Ausländer,M,6,Schweiz,Schweiz,BS,Bruderholz,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2011-6
@@ -159,6 +161,7 @@ Wegzug,2011,6,Ausländer,M,7,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,N
 Wegzug,2011,6,Ausländer,W,7,Schweiz,Schweiz,BS,Clara,Asien,Indien,Ausland,NA,2011-6
 Zuzug,2011,6,Ausländer,W,7,Asien,Jordanien,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2011-6
 Zuzug,2011,6,Ausländer,M,7,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,2011-6
+Zuzug,2011,6,Ausländer,M,7,Afrika,Eritrea,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2011-6
 Zuzug,2011,6,Ausländer,M,7,Afrika,Eritrea,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2011-6
 Zuzug,2011,6,Ausländer,M,7,Afrika,Eritrea,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2011-6
 Wegzug,2011,6,Ausländer,M,8,Schweiz,Schweiz,BS,Matthäus,Nordamerika,Kanada,Ausland,NA,2011-6
@@ -733,6 +736,8 @@ Wegzug,2011,6,Schweizer,M,26,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,ZH,NA,
 Wegzug,2011,6,Schweizer,W,26,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BE,NA,2011-6
 Zuzug,2011,6,Schweizer,W,26,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,2011-6
 Wegzug,2011,6,Ausländer,W,26,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-6
+Zuzug,2011,6,Schweizer,W,26,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,2011-6
+Wegzug,2011,6,Ausländer,W,26,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-6
 Wegzug,2011,6,Ausländer,W,27,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-6
 Wegzug,2011,6,Schweizer,M,27,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,SO,NA,2011-6
 Wegzug,2011,6,Schweizer,M,27,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2011-6
@@ -889,6 +894,9 @@ Wegzug,2011,6,Ausländer,M,28,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2
 Wegzug,2011,6,Ausländer,W,28,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2011-6
 Wegzug,2011,6,Ausländer,W,28,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-6
 Wegzug,2011,6,Schweizer,M,28,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,NA,2011-6
+Zuzug,2011,6,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-6
+Zuzug,2011,6,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-6
+Wegzug,2011,6,Ausländer,W,28,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-6
 Zuzug,2011,6,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-6
 Zuzug,2011,6,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-6
 Wegzug,2011,6,Ausländer,W,28,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-6
@@ -1072,6 +1080,7 @@ Wegzug,2011,6,Ausländer,W,30,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),De
 Wegzug,2011,6,Ausländer,W,30,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-6
 Wegzug,2011,6,Schweizer,M,30,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,2011-6
 Wegzug,2011,6,Schweizer,M,30,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2011-6
+Zuzug,2011,6,Ausländer,M,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-6
 Zuzug,2011,6,Ausländer,M,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-6
 Wegzug,2011,6,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,2011-6
 Wegzug,2011,6,Ausländer,M,31,Schweiz,Schweiz,BS,Vorstädte,Afrika,Nigeria,Ausland,NA,2011-6
@@ -1703,6 +1712,8 @@ Wegzug,2011,6,Schweizer,M,42,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,ZH,NA,201
 Wegzug,2011,6,Ausländer,M,42,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2011-6
 Wegzug,2011,6,Ausländer,M,42,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2011-6
 Wegzug,2011,6,Ausländer,M,42,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2011-6
+Zuzug,2011,6,Ausländer,M,42,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-6
+Zuzug,2011,6,Ausländer,M,42,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-6
 Zuzug,2011,6,Ausländer,M,42,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-6
 Zuzug,2011,6,Ausländer,M,42,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-6
 Wegzug,2011,6,Schweizer,M,43,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2011-6

@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2023,2,Ausländer,W,0,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2023-2
 Wegzug,2023,2,Schweizer,M,0,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2023-2
 Zuzug,2023,2,Schweizer,M,1,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bruderholz,2023-2
@@ -90,6 +90,7 @@ Wegzug,2023,2,Ausländer,M,7,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Ukr
 Zuzug,2023,2,Ausländer,W,7,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2023-2
 Zuzug,2023,2,Ausländer,M,7,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2023-2
 Zuzug,2023,2,Ausländer,W,7,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2023-2
+Zuzug,2023,2,Ausländer,W,7,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2023-2
 Zuzug,2023,2,Ausländer,M,8,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Breite,2023-2
 Wegzug,2023,2,Schweizer,W,8,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,JU,NA,2023-2
 Wegzug,2023,2,Ausländer,M,8,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2023-2
@@ -130,6 +131,7 @@ Zuzug,2023,2,Schweizer,M,12,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,2023
 Zuzug,2023,2,Schweizer,M,12,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Iselin,2023-2
 Zuzug,2023,2,Ausländer,W,12,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2023-2
 Wegzug,2023,2,Schweizer,M,12,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,2023-2
+Wegzug,2023,2,Schweizer,M,12,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Nordmazedonien,Ausland,NA,2023-2
 Wegzug,2023,2,Schweizer,M,12,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Nordmazedonien,Ausland,NA,2023-2
 Zuzug,2023,2,Schweizer,M,13,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,2023-2
 Wegzug,2023,2,Ausländer,W,13,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-2
@@ -244,6 +246,10 @@ Zuzug,2023,2,Ausländer,W,21,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schw
 Zuzug,2023,2,Ausländer,W,21,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2023-2
 Zuzug,2023,2,Ausländer,W,21,Asien,China,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2023-2
 Zuzug,2023,2,Ausländer,M,21,Europa (ohne Schweiz),Irland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2023-2
+Zuzug,2023,2,Ausländer,W,21,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2023-2
+Zuzug,2023,2,Ausländer,W,21,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2023-2
+Zuzug,2023,2,Ausländer,W,21,Asien,China,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2023-2
+Zuzug,2023,2,Ausländer,M,21,Europa (ohne Schweiz),Irland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2023-2
 Zuzug,2023,2,Ausländer,M,22,Europa (ohne Schweiz),Slowakische Republik,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2023-2
 Zuzug,2023,2,Schweizer,W,22,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Klybeck,2023-2
 Zuzug,2023,2,Ausländer,W,22,Asien,Iran,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2023-2
@@ -291,6 +297,7 @@ Wegzug,2023,2,Ausländer,M,22,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz
 Wegzug,2023,2,Ausländer,W,22,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,ZH,NA,2023-2
 Wegzug,2023,2,Ausländer,W,22,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,TI,NA,2023-2
 Wegzug,2023,2,Schweizer,M,22,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,ZH,NA,2023-2
+Wegzug,2023,2,Ausländer,W,22,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-2
 Wegzug,2023,2,Ausländer,W,22,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-2
 Zuzug,2023,2,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2023-2
 Zuzug,2023,2,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2023-2
@@ -356,6 +363,8 @@ Zuzug,2023,2,Ausländer,W,23,Afrika,Marokko,Unbekannt,NA,Schweiz,Schweiz,BS,Matt
 Wegzug,2023,2,Schweizer,M,23,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,AG,NA,2023-2
 Wegzug,2023,2,Schweizer,W,23,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2023-2
 Wegzug,2023,2,Ausländer,W,23,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,AG,NA,2023-2
+Wegzug,2023,2,Ausländer,M,23,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-2
+Wegzug,2023,2,Ausländer,M,23,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-2
 Wegzug,2023,2,Ausländer,M,23,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-2
 Wegzug,2023,2,Ausländer,M,23,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-2
 Zuzug,2023,2,Ausländer,M,24,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-2
@@ -435,6 +444,7 @@ Wegzug,2023,2,Schweizer,W,24,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,AG,NA,20
 Wegzug,2023,2,Schweizer,M,24,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2023-2
 Wegzug,2023,2,Schweizer,W,24,Schweiz,Schweiz,BS,Gundeldingen,Afrika,Südafrika,Ausland,NA,2023-2
 Wegzug,2023,2,Schweizer,W,24,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2023-2
+Zuzug,2023,2,Ausländer,W,24,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2023-2
 Zuzug,2023,2,Ausländer,W,24,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2023-2
 Zuzug,2023,2,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2023-2
 Zuzug,2023,2,Ausländer,W,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2023-2
@@ -608,6 +618,7 @@ Wegzug,2023,2,Schweizer,M,26,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,GR,NA,
 Wegzug,2023,2,Ausländer,M,26,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-2
 Wegzug,2023,2,Schweizer,M,26,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BE,NA,2023-2
 Wegzug,2023,2,Ausländer,W,26,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-2
+Zuzug,2023,2,Ausländer,W,26,Asien,China,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2023-2
 Zuzug,2023,2,Ausländer,W,26,Asien,China,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2023-2
 Zuzug,2023,2,Ausländer,W,27,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2023-2
 Zuzug,2023,2,Ausländer,W,27,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2023-2
@@ -844,6 +855,9 @@ Wegzug,2023,2,Schweizer,W,29,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,202
 Wegzug,2023,2,Ausländer,W,29,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Deutschland,Ausland,NA,2023-2
 Wegzug,2023,2,Schweizer,M,29,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,2023-2
 Wegzug,2023,2,Schweizer,M,29,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,2023-2
+Zuzug,2023,2,Ausländer,W,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-2
+Zuzug,2023,2,Ausländer,W,29,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2023-2
+Zuzug,2023,2,Ausländer,M,29,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2023-2
 Zuzug,2023,2,Ausländer,W,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2023-2
 Zuzug,2023,2,Ausländer,W,29,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2023-2
 Zuzug,2023,2,Ausländer,M,29,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2023-2
@@ -1552,6 +1566,8 @@ Zuzug,2023,2,Ausländer,M,44,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,
 Wegzug,2023,2,Ausländer,M,44,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,LU,NA,2023-2
 Wegzug,2023,2,Ausländer,W,44,Schweiz,Schweiz,BS,Bruderholz,unbekannt,unbekannt,unbekannt,NA,2023-2
 Wegzug,2023,2,Schweizer,W,44,Schweiz,Schweiz,BS,Bachletten,Asien,Thailand,Ausland,NA,2023-2
+Wegzug,2023,2,Ausländer,M,44,Schweiz,Schweiz,BS,Altstadt Grossbasel,Europa (ohne Schweiz),Russland,Ausland,NA,2023-2
+Zuzug,2023,2,Ausländer,W,44,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2023-2
 Wegzug,2023,2,Ausländer,M,44,Schweiz,Schweiz,BS,Altstadt Grossbasel,Europa (ohne Schweiz),Russland,Ausland,NA,2023-2
 Zuzug,2023,2,Ausländer,W,44,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2023-2
 Zuzug,2023,2,Ausländer,M,45,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2023-2

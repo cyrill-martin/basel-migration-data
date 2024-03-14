@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,1994,10,Schweizer,W,0,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,0,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,0,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1994-10
@@ -38,6 +38,7 @@ Wegzug,1994,10,Schweizer,M,1,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-1
 Wegzug,1994,10,Schweizer,M,1,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,1,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,1,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1994-10
+Wegzug,1994,10,Schweizer,W,1,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,1,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,W,2,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,2,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1994-10
@@ -120,6 +121,7 @@ Wegzug,1994,10,Schweizer,M,6,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,19
 Wegzug,1994,10,Schweizer,M,6,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,6,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,6,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1994-10
+Wegzug,1994,10,Schweizer,M,6,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1994-10
 Zuzug,1994,10,Ausländer,M,7,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
 Zuzug,1994,10,Ausländer,M,7,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1994-10
 Zuzug,1994,10,Schweizer,M,7,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1994-10
@@ -199,6 +201,7 @@ Zuzug,1994,10,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossb
 Zuzug,1994,10,Ausländer,W,18,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1994-10
 Zuzug,1994,10,Ausländer,M,18,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1994-10
 Zuzug,1994,10,Ausländer,W,18,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1994-10
+Zuzug,1994,10,Ausländer,W,18,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1994-10
 Wegzug,1994,10,Ausländer,M,19,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1994-10
 Zuzug,1994,10,Ausländer,W,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Clara,1994-10
 Zuzug,1994,10,Schweizer,W,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1994-10
@@ -236,6 +239,8 @@ Zuzug,1994,10,Schweizer,M,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinb
 Zuzug,1994,10,Schweizer,M,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,1994-10
 Wegzug,1994,10,Ausländer,M,19,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,19,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,M,19,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
+Zuzug,1994,10,Schweizer,W,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1994-10
 Zuzug,1994,10,Schweizer,M,19,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
 Zuzug,1994,10,Schweizer,W,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1994-10
 Wegzug,1994,10,Schweizer,W,20,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1994-10
@@ -295,6 +300,7 @@ Zuzug,1994,10,Ausländer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1994-1
 Zuzug,1994,10,Schweizer,M,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1994-10
 Wegzug,1994,10,Schweizer,W,20,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,W,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1994-10
 Zuzug,1994,10,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1994-10
 Wegzug,1994,10,Schweizer,M,21,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,21,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
@@ -367,6 +373,11 @@ Zuzug,1994,10,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,19
 Zuzug,1994,10,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,1994-10
 Zuzug,1994,10,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
 Zuzug,1994,10,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1994-10
+Zuzug,1994,10,Ausländer,M,21,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Clara,1994-10
+Zuzug,1994,10,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
+Zuzug,1994,10,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,1994-10
+Zuzug,1994,10,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
+Zuzug,1994,10,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1994-10
 Wegzug,1994,10,Ausländer,M,22,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,22,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,22,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1994-10
@@ -434,6 +445,10 @@ Wegzug,1994,10,Schweizer,M,22,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1
 Wegzug,1994,10,Schweizer,W,22,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,22,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
+Zuzug,1994,10,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1994-10
+Zuzug,1994,10,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
+Wegzug,1994,10,Schweizer,W,22,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-10
 Zuzug,1994,10,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
 Zuzug,1994,10,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1994-10
 Zuzug,1994,10,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
@@ -511,6 +526,18 @@ Wegzug,1994,10,Ausländer,M,23,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,199
 Wegzug,1994,10,Schweizer,W,23,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,23,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,23,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1994-10
+Zuzug,1994,10,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1994-10
+Zuzug,1994,10,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1994-10
+Zuzug,1994,10,Ausländer,W,23,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1994-10
+Wegzug,1994,10,Schweizer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
+Wegzug,1994,10,Ausländer,M,23,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
+Wegzug,1994,10,Schweizer,W,23,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1994-10
+Wegzug,1994,10,Schweizer,W,23,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1994-10
+Zuzug,1994,10,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1994-10
+Zuzug,1994,10,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
+Zuzug,1994,10,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
 Zuzug,1994,10,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1994-10
 Zuzug,1994,10,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1994-10
 Zuzug,1994,10,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1994-10
@@ -614,6 +641,11 @@ Zuzug,1994,10,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1994
 Zuzug,1994,10,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
 Zuzug,1994,10,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
 Zuzug,1994,10,Ausländer,M,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1994-10
+Zuzug,1994,10,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1994-10
+Zuzug,1994,10,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1994-10
+Zuzug,1994,10,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
+Zuzug,1994,10,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
+Zuzug,1994,10,Ausländer,M,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1994-10
 Wegzug,1994,10,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,W,25,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
@@ -698,6 +730,7 @@ Wegzug,1994,10,Schweizer,M,25,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-
 Wegzug,1994,10,Ausländer,W,25,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,25,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
 Zuzug,1994,10,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
 Wegzug,1994,10,Schweizer,M,26,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,26,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1994-10
@@ -799,6 +832,8 @@ Wegzug,1994,10,Ausländer,M,26,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994
 Wegzug,1994,10,Schweizer,W,26,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1994-10
 Zuzug,1994,10,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Clara,1994-10
 Wegzug,1994,10,Schweizer,W,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Clara,1994-10
+Wegzug,1994,10,Schweizer,W,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,27,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,27,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
@@ -889,6 +924,10 @@ Zuzug,1994,10,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994
 Wegzug,1994,10,Ausländer,M,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
 Zuzug,1994,10,Ausländer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1994-10
 Zuzug,1994,10,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
+Zuzug,1994,10,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
+Wegzug,1994,10,Ausländer,M,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Ausländer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1994-10
+Zuzug,1994,10,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
 Wegzug,1994,10,Ausländer,M,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
@@ -948,6 +987,8 @@ Wegzug,1994,10,Ausländer,M,28,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,
 Wegzug,1994,10,Ausländer,W,28,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,28,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1994-10
+Wegzug,1994,10,Schweizer,W,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
 Wegzug,1994,10,Schweizer,W,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
 Zuzug,1994,10,Schweizer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1994-10
 Wegzug,1994,10,Schweizer,M,29,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1994-10
@@ -1048,6 +1089,9 @@ Wegzug,1994,10,Schweizer,W,29,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1
 Wegzug,1994,10,Ausländer,W,29,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-10
 Zuzug,1994,10,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
 Zuzug,1994,10,Ausländer,W,29,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
+Wegzug,1994,10,Ausländer,W,29,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
+Zuzug,1994,10,Ausländer,W,29,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
 Wegzug,1994,10,Schweizer,W,30,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,30,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,30,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1994-10
@@ -1128,6 +1172,7 @@ Wegzug,1994,10,Schweizer,M,30,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1
 Wegzug,1994,10,Schweizer,W,30,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,30,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,30,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1994-10
+Wegzug,1994,10,Ausländer,M,30,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,31,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,31,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1994-10
@@ -1183,6 +1228,9 @@ Wegzug,1994,10,Schweizer,W,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA
 Zuzug,1994,10,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
 Zuzug,1994,10,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1994-10
 Zuzug,1994,10,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1994-10
+Zuzug,1994,10,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
+Zuzug,1994,10,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1994-10
+Zuzug,1994,10,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1994-10
 Wegzug,1994,10,Ausländer,W,32,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,32,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,32,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1994-10
@@ -1233,6 +1281,7 @@ Wegzug,1994,10,Ausländer,W,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1
 Wegzug,1994,10,Schweizer,M,32,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,32,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,32,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1994-10
 Zuzug,1994,10,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1994-10
 Wegzug,1994,10,Ausländer,M,33,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,W,33,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1994-10
@@ -1377,6 +1426,7 @@ Wegzug,1994,10,Ausländer,W,35,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1
 Wegzug,1994,10,Schweizer,M,35,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,35,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-10
 Zuzug,1994,10,Schweizer,M,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
+Zuzug,1994,10,Schweizer,M,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1994-10
 Wegzug,1994,10,Ausländer,M,36,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1994-10
 Zuzug,1994,10,Schweizer,M,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1994-10
 Zuzug,1994,10,Ausländer,W,36,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1994-10
@@ -1405,6 +1455,7 @@ Wegzug,1994,10,Ausländer,M,36,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,19
 Wegzug,1994,10,Ausländer,M,36,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,36,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,36,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Schweizer,M,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1994-10
 Zuzug,1994,10,Schweizer,M,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1994-10
 Wegzug,1994,10,Ausländer,M,37,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,M,37,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,1994-10
@@ -1526,6 +1577,7 @@ Zuzug,1994,10,Schweizer,W,41,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,B
 Wegzug,1994,10,Schweizer,M,41,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Ausländer,M,41,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,41,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1994-10
+Zuzug,1994,10,Ausländer,M,41,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1994-10
 Zuzug,1994,10,Ausländer,M,41,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1994-10
 Wegzug,1994,10,Ausländer,M,42,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1994-10
 Wegzug,1994,10,Schweizer,W,42,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1994-10

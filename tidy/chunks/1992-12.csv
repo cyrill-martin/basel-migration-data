@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,1992,12,Schweizer,M,0,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,0,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,0,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
@@ -24,6 +24,11 @@ Wegzug,1992,12,Schweizer,W,0,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-
 Wegzug,1992,12,Schweizer,W,0,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,0,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,0,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,0,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,0,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,0,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,0,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,0,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,0,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,0,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,0,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
@@ -73,6 +78,7 @@ Wegzug,1992,12,Schweizer,W,2,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,199
 Wegzug,1992,12,Schweizer,W,2,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,2,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,2,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,2,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,3,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,3,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,3,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
@@ -102,6 +108,7 @@ Zuzug,1992,12,Ausländer,W,4,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,G
 Wegzug,1992,12,Schweizer,M,4,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,4,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,4,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Ausländer,W,4,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
 Zuzug,1992,12,Ausländer,W,4,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
 Wegzug,1992,12,Ausländer,W,5,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,5,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1992-12
@@ -278,6 +285,14 @@ Zuzug,1992,12,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,19
 Zuzug,1992,12,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
 Zuzug,1992,12,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
 Zuzug,1992,12,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Wegzug,1992,12,Ausländer,M,18,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,18,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1992-12
+Zuzug,1992,12,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Zuzug,1992,12,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Zuzug,1992,12,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Zuzug,1992,12,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Zuzug,1992,12,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
 Wegzug,1992,12,Schweizer,M,19,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,19,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,19,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
@@ -325,6 +340,8 @@ Wegzug,1992,12,Schweizer,W,19,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992
 Wegzug,1992,12,Schweizer,W,19,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,19,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,19,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,19,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,W,19,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,19,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,19,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,20,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
@@ -397,6 +414,21 @@ Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1
 Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,20,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,20,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,M,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,20,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
@@ -493,6 +525,27 @@ Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,
 Wegzug,1992,12,Ausländer,W,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,21,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,21,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,21,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,21,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,21,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
@@ -624,6 +677,23 @@ Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992
 Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,22,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,22,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,22,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,23,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,23,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
@@ -729,6 +799,51 @@ Wegzug,1992,12,Ausländer,W,23,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,
 Wegzug,1992,12,Ausländer,W,23,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,23,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,23,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,W,23,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Zuzug,1992,12,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,23,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,23,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1992-12
+Wegzug,1992,12,Schweizer,W,23,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,23,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
@@ -933,6 +1048,50 @@ Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1
 Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,24,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,24,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,24,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1992-12
+Wegzug,1992,12,Ausländer,W,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,24,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1992-12
+Wegzug,1992,12,Schweizer,W,24,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,24,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,25,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,25,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1992-12
@@ -1047,6 +1206,46 @@ Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992
 Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,25,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,25,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,25,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,25,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Wegzug,1992,12,Schweizer,M,25,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,25,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,25,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,25,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
@@ -1246,6 +1445,39 @@ Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,
 Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,26,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,27,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
@@ -1375,6 +1607,40 @@ Wegzug,1992,12,Schweizer,M,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992
 Wegzug,1992,12,Schweizer,W,27,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,27,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,27,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
@@ -1556,6 +1822,34 @@ Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1
 Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,28,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,28,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,28,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,28,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,29,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,29,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,29,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
@@ -1672,6 +1966,33 @@ Wegzug,1992,12,Schweizer,M,29,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,19
 Wegzug,1992,12,Schweizer,M,29,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,29,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,29,Schweiz,Schweiz,BS,Bettingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,29,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,29,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Ausländer,M,29,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Zuzug,1992,12,Ausländer,M,29,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1992-12
+Zuzug,1992,12,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
@@ -1843,6 +2164,31 @@ Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992
 Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,30,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,30,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,30,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
@@ -1941,6 +2287,39 @@ Wegzug,1992,12,Schweizer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,19
 Wegzug,1992,12,Schweizer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,31,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,W,31,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,31,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,31,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
@@ -2091,6 +2470,34 @@ Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,19
 Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Schweizer,M,32,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,32,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,33,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,33,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,33,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
@@ -2182,6 +2589,17 @@ Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-
 Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Zuzug,1992,12,Schweizer,M,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1992-12
+Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,33,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,34,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,34,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,34,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
@@ -2243,6 +2661,18 @@ Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,19
 Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,34,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,34,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
@@ -2338,6 +2768,15 @@ Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,
 Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,35,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,36,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,36,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1992-12
@@ -2404,6 +2843,13 @@ Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,199
 Wegzug,1992,12,Schweizer,W,36,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,36,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,36,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,36,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
@@ -2482,6 +2928,21 @@ Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,
 Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
@@ -2528,6 +2989,14 @@ Wegzug,1992,12,Ausländer,W,38,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,
 Wegzug,1992,12,Schweizer,M,38,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,38,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,38,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,38,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
@@ -2591,6 +3060,10 @@ Wegzug,1992,12,Ausländer,M,39,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992
 Wegzug,1992,12,Ausländer,M,39,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,39,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,39,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,39,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,39,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,39,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,39,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,40,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
@@ -2650,6 +3123,13 @@ Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,
 Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,40,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,41,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,41,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,41,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
@@ -2684,6 +3164,12 @@ Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,
 Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,41,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
@@ -2733,6 +3219,7 @@ Wegzug,1992,12,Ausländer,M,42,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,N
 Wegzug,1992,12,Schweizer,M,42,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,42,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,42,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,42,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,43,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,43,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
@@ -2776,6 +3263,14 @@ Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1
 Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,43,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,44,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,44,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,44,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1992-12
@@ -2809,6 +3304,7 @@ Wegzug,1992,12,Ausländer,M,44,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1
 Wegzug,1992,12,Ausländer,W,44,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,44,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,44,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,44,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,45,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,45,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,45,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
@@ -2837,6 +3333,10 @@ Zuzug,1992,12,Schweizer,M,45,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,199
 Wegzug,1992,12,Schweizer,W,45,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,45,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,45,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,45,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,45,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,45,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,45,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,45,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,45,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,45,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
@@ -2882,6 +3382,10 @@ Wegzug,1992,12,Ausländer,M,46,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,N
 Wegzug,1992,12,Ausländer,M,46,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,46,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,46,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,46,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,46,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,46,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,46,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,47,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,47,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,47,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
@@ -2907,6 +3411,9 @@ Wegzug,1992,12,Ausländer,M,47,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,
 Wegzug,1992,12,Ausländer,M,47,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,47,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,47,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,47,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,47,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,47,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,47,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,47,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,47,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
@@ -2937,6 +3444,8 @@ Wegzug,1992,12,Ausländer,M,48,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1
 Wegzug,1992,12,Schweizer,W,48,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,48,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,48,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,48,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,48,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,49,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Zuzug,1992,12,Schweizer,M,49,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1992-12
 Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
@@ -2953,6 +3462,10 @@ Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,199
 Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,49,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
@@ -3034,6 +3547,7 @@ Wegzug,1992,12,Schweizer,W,54,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-
 Wegzug,1992,12,Schweizer,M,54,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,54,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,54,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,54,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,M,55,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,55,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,55,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
@@ -3071,6 +3585,7 @@ Wegzug,1992,12,Ausländer,M,57,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,
 Wegzug,1992,12,Ausländer,W,57,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Schweizer,W,57,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,57,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1992-12
+Wegzug,1992,12,Ausländer,M,57,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,57,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,M,58,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1992-12
 Wegzug,1992,12,Ausländer,W,58,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1992-12

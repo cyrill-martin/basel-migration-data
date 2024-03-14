@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2011,5,Ausländer,M,0,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SO,NA,2011-5
 Wegzug,2011,5,Ausländer,W,0,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Griechenland,Ausland,NA,2011-5
 Zuzug,2011,5,Schweizer,W,0,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,St. Johann,2011-5
@@ -37,6 +37,7 @@ Wegzug,2011,5,Ausländer,M,1,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Deu
 Wegzug,2011,5,Ausländer,M,1,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Griechenland,Ausland,NA,2011-5
 Wegzug,2011,5,Ausländer,W,1,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2011-5
 Wegzug,2011,5,Ausländer,M,1,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Griechenland,Ausland,NA,2011-5
+Wegzug,2011,5,Ausländer,M,1,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Griechenland,Ausland,NA,2011-5
 Wegzug,2011,5,Ausländer,M,2,Schweiz,Schweiz,BS,Iselin,Asien,Indien,Ausland,NA,2011-5
 Wegzug,2011,5,Schweizer,W,2,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2011-5
 Zuzug,2011,5,Ausländer,W,2,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2011-5
@@ -65,6 +66,7 @@ Wegzug,2011,5,Ausländer,W,2,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,
 Wegzug,2011,5,Ausländer,M,2,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,SO,NA,2011-5
 Wegzug,2011,5,Ausländer,W,2,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Frankreich,Ausland,NA,2011-5
 Wegzug,2011,5,Ausländer,M,2,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,SG,NA,2011-5
+Wegzug,2011,5,Ausländer,W,2,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2011-5
 Wegzug,2011,5,Ausländer,W,2,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2011-5
 Zuzug,2011,5,Ausländer,M,3,Europa (ohne Schweiz),Türkei,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2011-5
 Zuzug,2011,5,Ausländer,W,3,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2011-5
@@ -606,6 +608,8 @@ Wegzug,2011,5,Schweizer,W,26,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,201
 Wegzug,2011,5,Schweizer,W,26,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SG,NA,2011-5
 Zuzug,2011,5,Ausländer,M,26,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2011-5
 Zuzug,2011,5,Ausländer,M,26,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2011-5
+Zuzug,2011,5,Ausländer,M,26,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2011-5
+Zuzug,2011,5,Ausländer,M,26,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2011-5
 Wegzug,2011,5,Schweizer,M,27,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2011-5
 Wegzug,2011,5,Schweizer,W,27,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,2011-5
 Wegzug,2011,5,Schweizer,M,27,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,TI,NA,2011-5
@@ -684,6 +688,8 @@ Wegzug,2011,5,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,
 Wegzug,2011,5,Ausländer,W,27,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2011-5
 Wegzug,2011,5,Schweizer,W,27,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SO,NA,2011-5
 Wegzug,2011,5,Schweizer,W,27,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2011-5
+Zuzug,2011,5,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2011-5
+Zuzug,2011,5,Ausländer,M,27,Asien,China,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2011-5
 Zuzug,2011,5,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2011-5
 Zuzug,2011,5,Ausländer,M,27,Asien,China,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2011-5
 Wegzug,2011,5,Ausländer,M,28,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2011-5
@@ -837,6 +843,7 @@ Wegzug,2011,5,Ausländer,W,29,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Ita
 Wegzug,2011,5,Schweizer,W,29,Schweiz,Schweiz,BS,Rosental,unbekannt,unbekannt,unbekannt,NA,2011-5
 Wegzug,2011,5,Schweizer,W,29,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2011-5
 Zuzug,2011,5,Ausländer,W,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-5
+Zuzug,2011,5,Ausländer,W,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2011-5
 Wegzug,2011,5,Ausländer,W,30,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,unbekannt,unbekannt,NA,2011-5
 Wegzug,2011,5,Ausländer,W,30,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2011-5
 Zuzug,2011,5,Ausländer,M,30,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Matthäus,2011-5
@@ -925,6 +932,7 @@ Wegzug,2011,5,Ausländer,M,30,Schweiz,Schweiz,BS,Hirzbrunnen,Asien,Indien,Auslan
 Wegzug,2011,5,Ausländer,M,30,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,ZH,NA,2011-5
 Wegzug,2011,5,Ausländer,M,30,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,AG,NA,2011-5
 Wegzug,2011,5,Schweizer,W,30,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2011-5
+Zuzug,2011,5,Schweizer,W,30,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2011-5
 Zuzug,2011,5,Schweizer,W,30,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2011-5
 Wegzug,2011,5,Ausländer,W,31,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,AG,NA,2011-5
 Zuzug,2011,5,Ausländer,W,31,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,St. Johann,2011-5
@@ -1287,6 +1295,7 @@ Wegzug,2011,5,Ausländer,W,36,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,20
 Wegzug,2011,5,Ausländer,W,36,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,VD,NA,2011-5
 Wegzug,2011,5,Ausländer,M,36,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-5
 Zuzug,2011,5,Ausländer,M,36,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2011-5
+Zuzug,2011,5,Ausländer,M,36,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2011-5
 Wegzug,2011,5,Schweizer,M,37,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2011-5
 Wegzug,2011,5,Ausländer,W,37,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-5
 Wegzug,2011,5,Ausländer,M,37,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,2011-5
@@ -1549,6 +1558,7 @@ Wegzug,2011,5,Ausländer,M,43,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz
 Wegzug,2011,5,Ausländer,W,43,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BE,NA,2011-5
 Wegzug,2011,5,Ausländer,W,43,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2011-5
 Wegzug,2011,5,Ausländer,W,43,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Frankreich,Ausland,NA,2011-5
+Zuzug,2011,5,Ausländer,M,43,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2011-5
 Zuzug,2011,5,Ausländer,M,43,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2011-5
 Wegzug,2011,5,Schweizer,M,44,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Frankreich,Ausland,NA,2011-5
 Wegzug,2011,5,Ausländer,W,44,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,JU,NA,2011-5

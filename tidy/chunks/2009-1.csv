@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2009,1,Schweizer,W,1,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2009-1
 Wegzug,2009,1,Schweizer,W,1,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2009-1
 Wegzug,2009,1,Ausländer,W,1,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2009-1
@@ -125,6 +125,7 @@ Zuzug,2009,1,Ausländer,M,5,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt
 Wegzug,2009,1,Ausländer,W,5,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2009-1
 Wegzug,2009,1,Schweizer,M,5,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2009-1
 Zuzug,2009,1,Ausländer,M,5,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2009-1
+Zuzug,2009,1,Ausländer,M,5,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2009-1
 Wegzug,2009,1,Schweizer,M,6,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,VS,NA,2009-1
 Zuzug,2009,1,Schweizer,W,6,Schweiz,Schweiz,UR,NA,Schweiz,Schweiz,BS,Bachletten,2009-1
 Wegzug,2009,1,Schweizer,W,6,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2009-1
@@ -140,6 +141,7 @@ Zuzug,2009,1,Ausländer,M,7,Europa (ohne Schweiz),Belgien,Unbekannt,NA,Schweiz,S
 Zuzug,2009,1,Schweizer,W,7,Afrika,Niger,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2009-1
 Zuzug,2009,1,Schweizer,W,7,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Am Ring,2009-1
 Wegzug,2009,1,Schweizer,W,7,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,2009-1
+Wegzug,2009,1,Schweizer,M,7,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2009-1
 Wegzug,2009,1,Schweizer,M,7,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2009-1
 Wegzug,2009,1,Schweizer,M,7,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2009-1
 Wegzug,2009,1,Ausländer,W,8,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Frankreich,Ausland,NA,2009-1
@@ -594,6 +596,7 @@ Wegzug,2009,1,Ausländer,W,25,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz)
 Wegzug,2009,1,Ausländer,W,25,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Oesterreich,Ausland,NA,2009-1
 Wegzug,2009,1,Schweizer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2009-1
 Wegzug,2009,1,Schweizer,W,25,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unbekannt,NA,2009-1
+Zuzug,2009,1,Ausländer,W,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2009-1
 Zuzug,2009,1,Ausländer,W,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2009-1
 Wegzug,2009,1,Schweizer,W,26,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2009-1
 Wegzug,2009,1,Ausländer,M,26,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,2009-1
@@ -1310,6 +1313,7 @@ Wegzug,2009,1,Ausländer,W,32,Schweiz,Schweiz,BS,St. Alban,unbekannt,unbekannt,u
 Wegzug,2009,1,Ausländer,W,32,Schweiz,Schweiz,BS,St. Johann,Asien,Japan,Ausland,NA,2009-1
 Wegzug,2009,1,Schweizer,W,32,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BE,NA,2009-1
 Zuzug,2009,1,Ausländer,M,32,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2009-1
+Zuzug,2009,1,Ausländer,M,32,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2009-1
 Wegzug,2009,1,Ausländer,M,33,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2009-1
 Wegzug,2009,1,Ausländer,M,33,Schweiz,Schweiz,BS,Gundeldingen,Asien,Kuwait,Ausland,NA,2009-1
 Wegzug,2009,1,Ausländer,W,33,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Frankreich,Ausland,NA,2009-1
@@ -1494,6 +1498,7 @@ Wegzug,2009,1,Ausländer,M,35,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,200
 Wegzug,2009,1,Ausländer,M,35,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2009-1
 Wegzug,2009,1,Ausländer,M,35,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Deutschland,Ausland,NA,2009-1
 Wegzug,2009,1,Schweizer,W,35,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,VD,NA,2009-1
+Zuzug,2009,1,Ausländer,M,35,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2009-1
 Zuzug,2009,1,Ausländer,M,35,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2009-1
 Wegzug,2009,1,Ausländer,M,36,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BE,NA,2009-1
 Wegzug,2009,1,Ausländer,M,36,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,2009-1
@@ -1683,6 +1688,7 @@ Wegzug,2009,1,Ausländer,M,39,Schweiz,Schweiz,BS,Bettingen,Europa (ohne Schweiz)
 Wegzug,2009,1,Schweizer,M,39,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2009-1
 Wegzug,2009,1,Schweizer,W,39,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,ZH,NA,2009-1
 Wegzug,2009,1,Schweizer,W,39,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2009-1
+Zuzug,2009,1,Ausländer,M,39,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2009-1
 Zuzug,2009,1,Ausländer,M,39,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2009-1
 Wegzug,2009,1,Ausländer,M,40,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Italien,Ausland,NA,2009-1
 Wegzug,2009,1,Ausländer,W,40,Schweiz,Schweiz,BS,Rosental,Asien,Indien,Ausland,NA,2009-1
@@ -1950,6 +1956,7 @@ Wegzug,2009,1,Schweizer,M,46,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,unbekan
 Wegzug,2009,1,Ausländer,M,46,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Russland,Ausland,NA,2009-1
 Wegzug,2009,1,Schweizer,M,46,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2009-1
 Wegzug,2009,1,Ausländer,M,46,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2009-1
+Zuzug,2009,1,Ausländer,W,46,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2009-1
 Zuzug,2009,1,Ausländer,W,46,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2009-1
 Wegzug,2009,1,Schweizer,W,47,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,SO,NA,2009-1
 Wegzug,2009,1,Ausländer,M,47,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Bulgarien,Ausland,NA,2009-1

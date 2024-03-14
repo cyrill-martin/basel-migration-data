@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2010,9,Ausländer,M,0,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,GE,NA,2010-9
 Wegzug,2010,9,Schweizer,W,0,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2010-9
 Wegzug,2010,9,Schweizer,M,0,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2010-9
@@ -114,6 +114,7 @@ Wegzug,2010,9,Schweizer,W,4,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2010
 Wegzug,2010,9,Schweizer,M,4,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2010-9
 Wegzug,2010,9,Ausländer,W,4,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,SO,NA,2010-9
 Zuzug,2010,9,Ausländer,M,4,Asien,Vereinigte Arabische Emirate,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2010-9
+Zuzug,2010,9,Ausländer,M,4,Asien,Vereinigte Arabische Emirate,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2010-9
 Wegzug,2010,9,Ausländer,W,5,Schweiz,Schweiz,BS,Rosental,Asien,Indien,Ausland,NA,2010-9
 Wegzug,2010,9,Ausländer,M,5,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2010-9
 Zuzug,2010,9,Ausländer,M,5,Asien,Kirgistan,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2010-9
@@ -133,6 +134,7 @@ Zuzug,2010,9,Ausländer,M,6,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt
 Zuzug,2010,9,Ausländer,M,6,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,2010-9
 Zuzug,2010,9,Schweizer,M,6,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2010-9
 Wegzug,2010,9,Schweizer,W,6,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Frankreich,Ausland,NA,2010-9
+Zuzug,2010,9,Ausländer,M,6,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2010-9
 Zuzug,2010,9,Ausländer,M,6,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2010-9
 Wegzug,2010,9,Schweizer,M,7,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2010-9
 Zuzug,2010,9,Ausländer,M,7,Asien,Vereinigte Arabische Emirate,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2010-9
@@ -171,6 +173,7 @@ Zuzug,2010,9,Ausländer,W,10,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Matthäus,
 Wegzug,2010,9,Ausländer,M,10,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2010-9
 Wegzug,2010,9,Schweizer,M,10,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2010-9
 Wegzug,2010,9,Ausländer,M,10,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,2010-9
+Zuzug,2010,9,Ausländer,W,10,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Matthäus,2010-9
 Zuzug,2010,9,Ausländer,W,10,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Matthäus,2010-9
 Wegzug,2010,9,Ausländer,W,11,Schweiz,Schweiz,BS,Wettstein,Asien,Thailand,Ausland,NA,2010-9
 Wegzug,2010,9,Ausländer,M,11,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,2010-9
@@ -229,6 +232,7 @@ Zuzug,2010,9,Ausländer,M,17,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,
 Zuzug,2010,9,Schweizer,M,17,Schweiz,Schweiz,GR,NA,Schweiz,Schweiz,BS,Breite,2010-9
 Zuzug,2010,9,Schweizer,M,17,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Bachletten,2010-9
 Wegzug,2010,9,Schweizer,M,17,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,2010-9
+Wegzug,2010,9,Ausländer,W,17,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2010-9
 Wegzug,2010,9,Ausländer,W,17,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2010-9
 Wegzug,2010,9,Ausländer,W,18,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,AG,NA,2010-9
 Wegzug,2010,9,Schweizer,W,18,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2010-9
@@ -763,6 +767,8 @@ Wegzug,2010,9,Ausländer,W,23,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,20
 Wegzug,2010,9,Schweizer,W,23,Schweiz,Schweiz,BS,Breite,unbekannt,unbekannt,unbekannt,NA,2010-9
 Zuzug,2010,9,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2010-9
 Zuzug,2010,9,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2010-9
+Zuzug,2010,9,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2010-9
+Zuzug,2010,9,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2010-9
 Wegzug,2010,9,Schweizer,W,24,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Frankreich,Ausland,NA,2010-9
 Wegzug,2010,9,Ausländer,W,24,Schweiz,Schweiz,BS,Rosental,unbekannt,unbekannt,unbekannt,NA,2010-9
 Wegzug,2010,9,Ausländer,W,24,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Deutschland,Ausland,NA,2010-9
@@ -900,6 +906,7 @@ Wegzug,2010,9,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz
 Wegzug,2010,9,Schweizer,W,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2010-9
 Wegzug,2010,9,Schweizer,W,24,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2010-9
 Zuzug,2010,9,Schweizer,M,24,Schweiz,Schweiz,GR,NA,Schweiz,Schweiz,BS,Am Ring,2010-9
+Zuzug,2010,9,Schweizer,M,24,Schweiz,Schweiz,GR,NA,Schweiz,Schweiz,BS,Am Ring,2010-9
 Wegzug,2010,9,Schweizer,W,25,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,AG,NA,2010-9
 Wegzug,2010,9,Ausländer,W,25,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2010-9
 Wegzug,2010,9,Ausländer,M,25,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,TI,NA,2010-9
@@ -1035,6 +1042,7 @@ Wegzug,2010,9,Ausländer,W,25,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz
 Wegzug,2010,9,Schweizer,W,25,Schweiz,Schweiz,BS,Iselin,unbekannt,unbekannt,unbekannt,NA,2010-9
 Wegzug,2010,9,Schweizer,W,25,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,NA,2010-9
 Wegzug,2010,9,Schweizer,W,25,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,SO,NA,2010-9
+Zuzug,2010,9,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2010-9
 Zuzug,2010,9,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2010-9
 Wegzug,2010,9,Schweizer,W,26,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2010-9
 Wegzug,2010,9,Schweizer,W,26,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2010-9
@@ -1267,6 +1275,7 @@ Wegzug,2010,9,Schweizer,M,27,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,
 Wegzug,2010,9,Schweizer,M,27,Schweiz,Schweiz,BS,Matthäus,Ozeanien,Australien,Ausland,NA,2010-9
 Wegzug,2010,9,Schweizer,W,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2010-9
 Zuzug,2010,9,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2010-9
+Zuzug,2010,9,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2010-9
 Wegzug,2010,9,Schweizer,M,28,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,SO,NA,2010-9
 Wegzug,2010,9,Schweizer,W,28,Schweiz,Schweiz,BS,Bettingen,Schweiz,Schweiz,BL,NA,2010-9
 Wegzug,2010,9,Ausländer,M,28,Schweiz,Schweiz,BS,Clara,unbekannt,unbekannt,unbekannt,NA,2010-9
@@ -1461,6 +1470,7 @@ Wegzug,2010,9,Ausländer,M,29,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,20
 Wegzug,2010,9,Ausländer,W,29,Schweiz,Schweiz,BS,St. Alban,Asien,Thailand,Ausland,NA,2010-9
 Wegzug,2010,9,Ausländer,W,29,Schweiz,Schweiz,BS,Kleinhüningen,Europa (ohne Schweiz),Portugal,Ausland,NA,2010-9
 Wegzug,2010,9,Schweizer,W,29,Schweiz,Schweiz,BS,Clara,unbekannt,unbekannt,unbekannt,NA,2010-9
+Zuzug,2010,9,Ausländer,M,29,Afrika,Ghana,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2010-9
 Zuzug,2010,9,Ausländer,M,29,Afrika,Ghana,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2010-9
 Wegzug,2010,9,Ausländer,W,30,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,ZH,NA,2010-9
 Wegzug,2010,9,Ausländer,W,30,Schweiz,Schweiz,BS,Rosental,Asien,Indien,Ausland,NA,2010-9

@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2001,11,Schweizer,M,0,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,0,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,0,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2001-11
@@ -49,6 +49,7 @@ Wegzug,2001,11,Schweizer,W,3,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-1
 Zuzug,2001,11,Ausländer,W,3,Nordamerika,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,2001-11
 Zuzug,2001,11,Ausländer,W,3,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,2001-11
 Wegzug,2001,11,Ausländer,W,3,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2001-11
+Wegzug,2001,11,Ausländer,M,3,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,3,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,4,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,4,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
@@ -185,6 +186,7 @@ Zuzug,2001,11,Schweizer,W,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2001-
 Wegzug,2001,11,Schweizer,W,19,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,19,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,2001-11
 Zuzug,2001,11,Schweizer,W,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2001-11
+Zuzug,2001,11,Schweizer,W,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2001-11
 Wegzug,2001,11,Ausländer,M,20,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,20,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,2001-11
 Zuzug,2001,11,Ausländer,M,20,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2001-11
@@ -219,6 +221,13 @@ Zuzug,2001,11,Ausländer,M,20,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,
 Zuzug,2001,11,Schweizer,M,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2001-11
 Zuzug,2001,11,Schweizer,M,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2001-11
 Wegzug,2001,11,Ausländer,W,20,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
+Zuzug,2001,11,Schweizer,M,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Zuzug,2001,11,Schweizer,M,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2001-11
+Zuzug,2001,11,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2001-11
+Zuzug,2001,11,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2001-11
+Zuzug,2001,11,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Zuzug,2001,11,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Zuzug,2001,11,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Zuzug,2001,11,Schweizer,M,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Zuzug,2001,11,Schweizer,M,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2001-11
 Zuzug,2001,11,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2001-11
@@ -285,6 +294,19 @@ Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2001-11
 Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2001-11
+Zuzug,2001,11,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2001-11
+Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,2001-11
+Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,2001-11
+Zuzug,2001,11,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2001-11
+Zuzug,2001,11,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
+Zuzug,2001,11,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Zuzug,2001,11,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,2001-11
+Zuzug,2001,11,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,2001-11
+Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2001-11
+Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2001-11
+Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Zuzug,2001,11,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2001-11
 Wegzug,2001,11,Schweizer,M,22,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,2001-11
 Zuzug,2001,11,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2001-11
 Zuzug,2001,11,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Clara,2001-11
@@ -338,6 +360,9 @@ Wegzug,2001,11,Schweizer,W,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA
 Zuzug,2001,11,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2001-11
 Zuzug,2001,11,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2001-11
 Zuzug,2001,11,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2001-11
+Zuzug,2001,11,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2001-11
+Zuzug,2001,11,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2001-11
+Zuzug,2001,11,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2001-11
 Wegzug,2001,11,Schweizer,M,23,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,23,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,2001-11
@@ -387,6 +412,8 @@ Wegzug,2001,11,Schweizer,W,23,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,2001-1
 Wegzug,2001,11,Schweizer,W,23,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,23,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,23,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11
+Wegzug,2001,11,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
+Zuzug,2001,11,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,2001-11
 Wegzug,2001,11,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
 Zuzug,2001,11,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,2001-11
 Wegzug,2001,11,Schweizer,W,24,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-11
@@ -457,6 +484,10 @@ Zuzug,2001,11,Ausländer,W,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,
 Zuzug,2001,11,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
 Zuzug,2001,11,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2001-11
 Zuzug,2001,11,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2001-11
+Zuzug,2001,11,Ausländer,W,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2001-11
+Zuzug,2001,11,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
+Zuzug,2001,11,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2001-11
+Zuzug,2001,11,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2001-11
 Wegzug,2001,11,Schweizer,W,25,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,25,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,2001-11
@@ -519,6 +550,7 @@ Wegzug,2001,11,Schweizer,M,25,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,2
 Wegzug,2001,11,Schweizer,W,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,25,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,25,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-11
+Zuzug,2001,11,Schweizer,W,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
 Zuzug,2001,11,Schweizer,W,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
 Wegzug,2001,11,Schweizer,M,26,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,26,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-11
@@ -585,6 +617,9 @@ Wegzug,2001,11,Ausländer,M,26,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,200
 Wegzug,2001,11,Schweizer,W,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,26,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2001-11
+Wegzug,2001,11,Ausländer,W,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
+Zuzug,2001,11,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
+Wegzug,2001,11,Schweizer,W,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,W,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
 Zuzug,2001,11,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
 Wegzug,2001,11,Schweizer,W,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
@@ -659,6 +694,7 @@ Wegzug,2001,11,Schweizer,M,27,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2001-
 Wegzug,2001,11,Schweizer,W,27,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,27,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,27,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-11
+Wegzug,2001,11,Schweizer,W,27,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,28,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,W,28,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,28,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2001-11
@@ -714,6 +750,7 @@ Wegzug,2001,11,Schweizer,W,28,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-
 Wegzug,2001,11,Schweizer,M,28,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,28,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2001-11
+Zuzug,2001,11,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Zuzug,2001,11,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Wegzug,2001,11,Schweizer,M,29,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,29,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,2001-11
@@ -772,6 +809,9 @@ Wegzug,2001,11,Schweizer,M,29,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2001-
 Wegzug,2001,11,Schweizer,M,29,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2001-11
 Zuzug,2001,11,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Zuzug,2001,11,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Wegzug,2001,11,Schweizer,M,29,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2001-11
+Zuzug,2001,11,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Zuzug,2001,11,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Wegzug,2001,11,Schweizer,M,30,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,30,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,30,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,2001-11
@@ -825,6 +865,9 @@ Wegzug,2001,11,Schweizer,W,30,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-
 Zuzug,2001,11,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,2001-11
 Zuzug,2001,11,Schweizer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
 Zuzug,2001,11,Schweizer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2001-11
+Zuzug,2001,11,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,2001-11
+Zuzug,2001,11,Schweizer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
+Zuzug,2001,11,Schweizer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2001-11
 Wegzug,2001,11,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,W,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,31,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,2001-11
@@ -871,6 +914,7 @@ Wegzug,2001,11,Ausländer,M,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,
 Wegzug,2001,11,Schweizer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,31,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,31,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,2001-11
+Wegzug,2001,11,Ausländer,M,31,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,W,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,32,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11
@@ -913,6 +957,10 @@ Wegzug,2001,11,Ausländer,M,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,
 Wegzug,2001,11,Ausländer,W,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,32,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,2001-11
+Zuzug,2001,11,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Zuzug,2001,11,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Zuzug,2001,11,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
+Zuzug,2001,11,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Zuzug,2001,11,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Zuzug,2001,11,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
 Zuzug,2001,11,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2001-11
@@ -1006,6 +1054,7 @@ Wegzug,2001,11,Ausländer,W,34,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001
 Wegzug,2001,11,Schweizer,M,34,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,34,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,2001-11
 Zuzug,2001,11,Schweizer,M,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
+Zuzug,2001,11,Schweizer,M,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2001-11
 Wegzug,2001,11,Ausländer,W,35,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,35,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,35,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
@@ -1054,6 +1103,7 @@ Wegzug,2001,11,Schweizer,W,35,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,2
 Wegzug,2001,11,Ausländer,M,35,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,35,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,35,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11
+Wegzug,2001,11,Ausländer,M,35,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,36,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,36,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,36,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,2001-11
@@ -1088,6 +1138,7 @@ Zuzug,2001,11,Ausländer,M,36,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,
 Wegzug,2001,11,Ausländer,M,36,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,36,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,2001-11
 Zuzug,2001,11,Schweizer,M,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2001-11
+Zuzug,2001,11,Schweizer,M,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2001-11
 Wegzug,2001,11,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
@@ -1120,6 +1171,7 @@ Wegzug,2001,11,Schweizer,M,37,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2
 Wegzug,2001,11,Schweizer,W,37,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,37,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,37,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,2001-11
+Wegzug,2001,11,Ausländer,M,37,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,37,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,W,38,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,38,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,2001-11
@@ -1239,6 +1291,7 @@ Wegzug,2001,11,Ausländer,M,42,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,2
 Wegzug,2001,11,Schweizer,M,42,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,42,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,42,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11
+Wegzug,2001,11,Schweizer,W,42,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,W,43,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,43,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,M,43,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,2001-11
@@ -1256,6 +1309,7 @@ Wegzug,2001,11,Ausländer,M,43,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2
 Wegzug,2001,11,Schweizer,M,43,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,43,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Schweizer,W,43,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,2001-11
+Zuzug,2001,11,Schweizer,W,43,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2001-11
 Zuzug,2001,11,Schweizer,W,43,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2001-11
 Wegzug,2001,11,Schweizer,W,44,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2001-11
 Wegzug,2001,11,Ausländer,M,44,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2001-11

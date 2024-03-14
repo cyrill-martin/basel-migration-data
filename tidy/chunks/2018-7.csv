@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2018,7,Schweizer,M,0,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bettingen,2018-7
 Zuzug,2018,7,Schweizer,W,0,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Breite,2018-7
 Zuzug,2018,7,Ausländer,M,0,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,St. Johann,2018-7
@@ -110,6 +110,7 @@ Wegzug,2018,7,Schweizer,W,3,Schweiz,Schweiz,BS,Hirzbrunnen,Lateinamerika und Kar
 Wegzug,2018,7,Ausländer,M,3,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2018-7
 Wegzug,2018,7,Ausländer,W,3,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,2018-7
 Wegzug,2018,7,Schweizer,M,3,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BE,NA,2018-7
+Wegzug,2018,7,Schweizer,M,3,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BE,NA,2018-7
 Zuzug,2018,7,Schweizer,W,4,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Alban,2018-7
 Zuzug,2018,7,Ausländer,M,4,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2018-7
 Zuzug,2018,7,Schweizer,W,4,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Bachletten,2018-7
@@ -168,6 +169,7 @@ Wegzug,2018,7,Ausländer,W,5,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA
 Wegzug,2018,7,Ausländer,W,5,Schweiz,Schweiz,BS,Wettstein,Asien,Indien,Ausland,NA,2018-7
 Wegzug,2018,7,Schweizer,M,5,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Bulgarien,Ausland,NA,2018-7
 Zuzug,2018,7,Schweizer,W,5,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Breite,2018-7
+Zuzug,2018,7,Schweizer,W,5,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Breite,2018-7
 Zuzug,2018,7,Schweizer,M,6,Schweiz,Schweiz,VS,NA,Schweiz,Schweiz,BS,Riehen,2018-7
 Zuzug,2018,7,Schweizer,W,6,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Iselin,2018-7
 Zuzug,2018,7,Ausländer,W,6,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2018-7
@@ -210,6 +212,7 @@ Wegzug,2018,7,Ausländer,W,6,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,201
 Wegzug,2018,7,Ausländer,W,6,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Deutschland,Ausland,NA,2018-7
 Wegzug,2018,7,Ausländer,W,6,Schweiz,Schweiz,BS,Riehen,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2018-7
 Wegzug,2018,7,Ausländer,M,6,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Frankreich,Ausland,NA,2018-7
+Wegzug,2018,7,Ausländer,M,6,Schweiz,Schweiz,BS,Riehen,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2018-7
 Wegzug,2018,7,Ausländer,M,6,Schweiz,Schweiz,BS,Riehen,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2018-7
 Zuzug,2018,7,Schweizer,M,7,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,2018-7
 Zuzug,2018,7,Ausländer,M,7,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2018-7
@@ -439,6 +442,7 @@ Wegzug,2018,7,Ausländer,M,18,Schweiz,Schweiz,BS,Riehen,Lateinamerika und Karibi
 Wegzug,2018,7,Ausländer,W,18,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Lettland,Ausland,NA,2018-7
 Wegzug,2018,7,Schweizer,W,18,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,AG,NA,2018-7
 Zuzug,2018,7,Ausländer,M,18,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2018-7
+Zuzug,2018,7,Ausländer,M,18,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2018-7
 Zuzug,2018,7,Schweizer,W,19,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Iselin,2018-7
 Zuzug,2018,7,Ausländer,W,19,Europa (ohne Schweiz),Rumänien,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2018-7
 Zuzug,2018,7,Schweizer,W,19,Europa (ohne Schweiz),Kroatien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2018-7
@@ -618,6 +622,7 @@ Wegzug,2018,7,Schweizer,M,22,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,TG,NA,201
 Wegzug,2018,7,Schweizer,M,22,Schweiz,Schweiz,BS,Gotthelf,unbekannt,unbekannt,unbekannt,NA,2018-7
 Wegzug,2018,7,Ausländer,W,22,Schweiz,Schweiz,BS,Am Ring,Asien,Korea (Süd-),Ausland,NA,2018-7
 Wegzug,2018,7,Ausländer,M,22,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unbekannt,NA,2018-7
+Zuzug,2018,7,Ausländer,W,22,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2018-7
 Zuzug,2018,7,Ausländer,W,22,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2018-7
 Zuzug,2018,7,Ausländer,M,23,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,2018-7
 Zuzug,2018,7,Ausländer,W,23,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Rosental,2018-7
@@ -1629,6 +1634,7 @@ Wegzug,2018,7,Schweizer,M,33,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Schweiz,Schw
 Wegzug,2018,7,Ausländer,M,33,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BE,NA,2018-7
 Wegzug,2018,7,Ausländer,M,33,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2018-7
 Wegzug,2018,7,Ausländer,M,33,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,NA,2018-7
+Zuzug,2018,7,Schweizer,M,33,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Am Ring,2018-7
 Zuzug,2018,7,Schweizer,M,33,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Am Ring,2018-7
 Zuzug,2018,7,Ausländer,M,34,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Rosental,2018-7
 Zuzug,2018,7,Ausländer,M,34,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Bachletten,2018-7

@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2020,2,Ausländer,M,0,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,TG,NA,2020-2
 Wegzug,2020,2,Ausländer,M,0,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Italien,Ausland,NA,2020-2
 Zuzug,2020,2,Schweizer,W,0,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Kleinhüningen,2020-2
@@ -35,6 +35,7 @@ Wegzug,2020,2,Schweizer,W,1,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Deu
 Wegzug,2020,2,Ausländer,M,1,Schweiz,Schweiz,BS,Bruderholz,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2020-2
 Wegzug,2020,2,Ausländer,M,1,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2020-2
 Wegzug,2020,2,Schweizer,W,1,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,AG,NA,2020-2
+Zuzug,2020,2,Ausländer,M,1,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,2020-2
 Zuzug,2020,2,Ausländer,M,1,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,2020-2
 Wegzug,2020,2,Schweizer,M,2,Schweiz,Schweiz,BS,Hirzbrunnen,Asien,Japan,Ausland,NA,2020-2
 Wegzug,2020,2,Schweizer,M,2,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2020-2
@@ -466,6 +467,7 @@ Wegzug,2020,2,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz
 Wegzug,2020,2,Ausländer,W,24,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2020-2
 Wegzug,2020,2,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Kroatien,Ausland,NA,2020-2
 Zuzug,2020,2,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2020-2
+Zuzug,2020,2,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2020-2
 Zuzug,2020,2,Schweizer,W,25,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2020-2
 Zuzug,2020,2,Schweizer,W,25,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Rosental,2020-2
 Zuzug,2020,2,Ausländer,W,25,Europa (ohne Schweiz),Montenegro,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2020-2
@@ -673,6 +675,7 @@ Wegzug,2020,2,Ausländer,M,26,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,SO,NA,20
 Wegzug,2020,2,Ausländer,W,26,Schweiz,Schweiz,BS,Am Ring,Asien,China,Ausland,NA,2020-2
 Wegzug,2020,2,Schweizer,M,26,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,NA,2020-2
 Zuzug,2020,2,Schweizer,M,26,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2020-2
+Zuzug,2020,2,Schweizer,M,26,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2020-2
 Zuzug,2020,2,Schweizer,W,27,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Wettstein,2020-2
 Zuzug,2020,2,Schweizer,M,27,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,2020-2
 Zuzug,2020,2,Schweizer,M,27,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,Am Ring,2020-2
@@ -772,6 +775,8 @@ Wegzug,2020,2,Schweizer,M,27,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,AG,NA,
 Wegzug,2020,2,Schweizer,W,27,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,SG,NA,2020-2
 Wegzug,2020,2,Ausländer,W,27,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2020-2
 Wegzug,2020,2,Schweizer,M,27,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2020-2
+Zuzug,2020,2,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2020-2
+Wegzug,2020,2,Schweizer,W,27,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2020-2
 Zuzug,2020,2,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2020-2
 Wegzug,2020,2,Schweizer,W,27,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2020-2
 Zuzug,2020,2,Ausländer,M,28,Europa (ohne Schweiz),Kosovo,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2020-2
@@ -2029,6 +2034,7 @@ Zuzug,2020,2,Schweizer,W,59,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldinge
 Zuzug,2020,2,Schweizer,W,59,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Bettingen,2020-2
 Wegzug,2020,2,Ausländer,M,59,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Spanien,Ausland,NA,2020-2
 Wegzug,2020,2,Ausländer,W,59,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Serbien,Ausland,NA,2020-2
+Wegzug,2020,2,Ausländer,M,59,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Frankreich,Ausland,NA,2020-2
 Wegzug,2020,2,Ausländer,M,59,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Frankreich,Ausland,NA,2020-2
 Wegzug,2020,2,Ausländer,M,60,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2020-2
 Wegzug,2020,2,Schweizer,W,60,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,AG,NA,2020-2

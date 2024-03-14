@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2020,5,Schweizer,M,0,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Riehen,2020-5
 Wegzug,2020,5,Schweizer,W,0,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,SG,NA,2020-5
 Wegzug,2020,5,Schweizer,M,0,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2020-5
@@ -42,6 +42,7 @@ Zuzug,2020,5,Ausländer,W,3,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schwe
 Zuzug,2020,5,Schweizer,W,3,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,2020-5
 Zuzug,2020,5,Ausländer,W,3,Europa (ohne Schweiz),Albanien,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2020-5
 Zuzug,2020,5,Ausländer,W,3,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2020-5
+Wegzug,2020,5,Ausländer,W,3,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2020-5
 Wegzug,2020,5,Ausländer,W,3,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2020-5
 Wegzug,2020,5,Ausländer,W,3,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2020-5
 Zuzug,2020,5,Ausländer,W,4,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Vorstädte,2020-5
@@ -192,6 +193,7 @@ Wegzug,2020,5,Schweizer,M,22,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,
 Wegzug,2020,5,Schweizer,W,22,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,AG,NA,2020-5
 Wegzug,2020,5,Ausländer,M,22,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,2020-5
 Wegzug,2020,5,Schweizer,M,22,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2020-5
+Wegzug,2020,5,Schweizer,M,22,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2020-5
 Zuzug,2020,5,Schweizer,W,23,Schweiz,Schweiz,NW,NA,Schweiz,Schweiz,BS,St. Johann,2020-5
 Zuzug,2020,5,Schweizer,W,23,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Bruderholz,2020-5
 Zuzug,2020,5,Schweizer,W,23,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-5
@@ -225,6 +227,7 @@ Wegzug,2020,5,Schweizer,M,23,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,
 Wegzug,2020,5,Ausländer,W,23,Schweiz,Schweiz,BS,Riehen,Lateinamerika und Karibik,Mexiko,Ausland,NA,2020-5
 Wegzug,2020,5,Schweizer,M,23,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2020-5
 Wegzug,2020,5,Schweizer,W,23,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,ZH,NA,2020-5
+Wegzug,2020,5,Schweizer,W,23,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,LU,NA,2020-5
 Wegzug,2020,5,Schweizer,W,23,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,LU,NA,2020-5
 Zuzug,2020,5,Ausländer,M,24,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2020-5
 Zuzug,2020,5,Ausländer,M,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2020-5
@@ -292,6 +295,7 @@ Wegzug,2020,5,Ausländer,W,24,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,SO,NA,2
 Wegzug,2020,5,Schweizer,W,24,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,FR,NA,2020-5
 Wegzug,2020,5,Ausländer,W,24,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2020-5
 Wegzug,2020,5,Schweizer,W,24,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BE,NA,2020-5
+Zuzug,2020,5,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2020-5
 Zuzug,2020,5,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2020-5
 Zuzug,2020,5,Schweizer,M,25,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2020-5
 Zuzug,2020,5,Schweizer,M,25,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Riehen,2020-5
@@ -559,6 +563,7 @@ Wegzug,2020,5,Schweizer,M,29,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,ZH,NA,2
 Wegzug,2020,5,Ausländer,W,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2020-5
 Wegzug,2020,5,Ausländer,W,29,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Deutschland,Ausland,NA,2020-5
 Wegzug,2020,5,Schweizer,W,29,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BE,NA,2020-5
+Wegzug,2020,5,Ausländer,M,29,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2020-5
 Wegzug,2020,5,Ausländer,M,29,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2020-5
 Zuzug,2020,5,Ausländer,M,30,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Matthäus,2020-5
 Zuzug,2020,5,Ausländer,W,30,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2020-5

@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2010,12,Schweizer,M,0,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,AG,NA,2010-12
 Wegzug,2010,12,Ausländer,W,0,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2010-12
 Wegzug,2010,12,Schweizer,W,0,Schweiz,Schweiz,BS,St. Johann,Afrika,Tansania,Ausland,NA,2010-12
@@ -30,6 +30,9 @@ Wegzug,2010,12,Schweizer,M,0,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,AG,NA
 Wegzug,2010,12,Ausländer,M,0,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,ZH,NA,2010-12
 Wegzug,2010,12,Schweizer,W,0,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2010-12
 Wegzug,2010,12,Ausländer,W,0,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Portugal,Ausland,NA,2010-12
+Wegzug,2010,12,Schweizer,M,0,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,AG,NA,2010-12
+Wegzug,2010,12,Schweizer,M,0,Schweiz,Schweiz,BS,Vorstädte,unbekannt,unbekannt,unbekannt,NA,2010-12
+Wegzug,2010,12,Schweizer,M,0,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,AG,NA,2010-12
 Wegzug,2010,12,Schweizer,M,0,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,AG,NA,2010-12
 Wegzug,2010,12,Schweizer,M,0,Schweiz,Schweiz,BS,Vorstädte,unbekannt,unbekannt,unbekannt,NA,2010-12
 Wegzug,2010,12,Schweizer,M,0,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,AG,NA,2010-12
@@ -117,6 +120,7 @@ Wegzug,2010,12,Ausländer,M,4,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,AG,NA,
 Wegzug,2010,12,Ausländer,W,4,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,SO,NA,2010-12
 Wegzug,2010,12,Ausländer,M,4,Schweiz,Schweiz,BS,Matthäus,Asien,Saudi-Arabien,Ausland,NA,2010-12
 Wegzug,2010,12,Schweizer,W,4,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2010-12
+Wegzug,2010,12,Ausländer,M,4,Schweiz,Schweiz,BS,Matthäus,Asien,Saudi-Arabien,Ausland,NA,2010-12
 Wegzug,2010,12,Ausländer,M,4,Schweiz,Schweiz,BS,Matthäus,Asien,Saudi-Arabien,Ausland,NA,2010-12
 Wegzug,2010,12,Ausländer,M,5,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2010-12
 Wegzug,2010,12,Schweizer,M,5,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,AG,NA,2010-12
@@ -207,6 +211,7 @@ Wegzug,2010,12,Schweizer,M,15,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SO,N
 Wegzug,2010,12,Ausländer,W,15,Schweiz,Schweiz,BS,Bruderholz,Ozeanien,Australien,Ausland,NA,2010-12
 Wegzug,2010,12,Schweizer,W,16,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2010-12
 Zuzug,2010,12,Ausländer,M,16,Lateinamerika und Karibik,Nicaragua,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2010-12
+Zuzug,2010,12,Schweizer,W,16,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2010-12
 Zuzug,2010,12,Schweizer,W,16,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2010-12
 Zuzug,2010,12,Schweizer,W,16,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2010-12
 Wegzug,2010,12,Schweizer,W,17,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Frankreich,Ausland,NA,2010-12
@@ -506,6 +511,7 @@ Wegzug,2010,12,Ausländer,W,24,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,AG,NA,2
 Wegzug,2010,12,Ausländer,W,24,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2010-12
 Wegzug,2010,12,Schweizer,W,24,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BE,NA,2010-12
 Wegzug,2010,12,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2010-12
+Wegzug,2010,12,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2010-12
 Wegzug,2010,12,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2010-12
 Wegzug,2010,12,Schweizer,M,25,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,GR,NA,2010-12
 Wegzug,2010,12,Schweizer,W,25,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2010-12
@@ -692,6 +698,7 @@ Wegzug,2010,12,Schweizer,M,26,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL
 Wegzug,2010,12,Schweizer,M,26,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Frankreich,Ausland,NA,2010-12
 Wegzug,2010,12,Schweizer,W,26,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2010-12
 Wegzug,2010,12,Schweizer,W,26,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SG,NA,2010-12
+Zuzug,2010,12,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2010-12
 Zuzug,2010,12,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2010-12
 Wegzug,2010,12,Schweizer,W,27,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SO,NA,2010-12
 Wegzug,2010,12,Ausländer,W,27,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Finnland,Ausland,NA,2010-12
@@ -944,6 +951,8 @@ Wegzug,2010,12,Schweizer,M,29,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,AG,N
 Wegzug,2010,12,Ausländer,W,29,Schweiz,Schweiz,BS,Gundeldingen,Asien,Singapur,Ausland,NA,2010-12
 Wegzug,2010,12,Ausländer,W,29,Schweiz,Schweiz,BS,Gotthelf,unbekannt,unbekannt,unbekannt,NA,2010-12
 Zuzug,2010,12,Ausländer,W,29,Unbekannt,Unbekannt,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2010-12
+Wegzug,2010,12,Ausländer,W,29,Schweiz,Schweiz,BS,Gotthelf,unbekannt,unbekannt,unbekannt,NA,2010-12
+Zuzug,2010,12,Ausländer,W,29,Unbekannt,Unbekannt,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2010-12
 Wegzug,2010,12,Ausländer,M,30,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,2010-12
 Wegzug,2010,12,Ausländer,M,30,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2010-12
 Wegzug,2010,12,Ausländer,M,30,Schweiz,Schweiz,BS,Clara,unbekannt,unbekannt,unbekannt,NA,2010-12
@@ -1033,6 +1042,7 @@ Wegzug,2010,12,Ausländer,M,30,Schweiz,Schweiz,BS,Iselin,Nordamerika,Kanada,Ausl
 Wegzug,2010,12,Ausländer,M,30,Schweiz,Schweiz,BS,Am Ring,Asien,Indien,Ausland,NA,2010-12
 Wegzug,2010,12,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,NA,2010-12
 Wegzug,2010,12,Ausländer,M,30,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Frankreich,Ausland,NA,2010-12
+Wegzug,2010,12,Ausländer,M,30,Schweiz,Schweiz,BS,Iselin,Nordamerika,Kanada,Ausland,NA,2010-12
 Wegzug,2010,12,Ausländer,M,30,Schweiz,Schweiz,BS,Iselin,Nordamerika,Kanada,Ausland,NA,2010-12
 Wegzug,2010,12,Schweizer,W,31,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,2010-12
 Wegzug,2010,12,Schweizer,W,31,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2010-12

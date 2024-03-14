@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2008,8,Ausländer,M,0,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Spanien,Ausland,NA,2008-8
 Zuzug,2008,8,Schweizer,M,0,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2008-8
 Zuzug,2008,8,Ausländer,W,0,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2008-8
@@ -72,6 +72,7 @@ Wegzug,2008,8,Ausländer,W,2,Schweiz,Schweiz,BS,Clara,Afrika,Nigeria,Ausland,NA,
 Wegzug,2008,8,Schweizer,M,2,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Schweizer,M,2,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Schweizer,M,2,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2008-8
+Wegzug,2008,8,Schweizer,M,2,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Schweizer,M,3,Schweiz,Schweiz,BS,Kleinhüningen,Ozeanien,Neuseeland,Ausland,NA,2008-8
 Wegzug,2008,8,Schweizer,M,3,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BE,NA,2008-8
 Wegzug,2008,8,Ausländer,M,3,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
@@ -106,6 +107,7 @@ Zuzug,2008,8,Ausländer,M,3,Ozeanien,Australien,Unbekannt,NA,Schweiz,Schweiz,BS,
 Zuzug,2008,8,Ausländer,M,3,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2008-8
 Wegzug,2008,8,Ausländer,W,3,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Schweizer,W,3,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,SO,NA,2008-8
+Zuzug,2008,8,Ausländer,M,3,Ozeanien,Australien,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2008-8
 Zuzug,2008,8,Ausländer,M,3,Ozeanien,Australien,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2008-8
 Wegzug,2008,8,Ausländer,M,4,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Schweizer,W,4,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,2008-8
@@ -251,6 +253,7 @@ Wegzug,2008,8,Ausländer,M,10,Schweiz,Schweiz,BS,Bruderholz,Nordamerika,Vereinig
 Wegzug,2008,8,Schweizer,W,10,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,TG,NA,2008-8
 Wegzug,2008,8,Ausländer,W,10,Schweiz,Schweiz,BS,Rosental,unbekannt,unbekannt,unbekannt,NA,2008-8
 Zuzug,2008,8,Ausländer,M,10,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2008-8
+Zuzug,2008,8,Ausländer,M,10,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2008-8
 Wegzug,2008,8,Schweizer,M,11,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Ausländer,M,11,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
 Wegzug,2008,8,Ausländer,M,11,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2008-8
@@ -373,6 +376,7 @@ Zuzug,2008,8,Schweizer,W,16,Schweiz,Schweiz,SZ,NA,Schweiz,Schweiz,BS,Bachletten,
 Zuzug,2008,8,Ausländer,W,16,Asien,Georgien,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2008-8
 Wegzug,2008,8,Ausländer,W,16,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2008-8
 Zuzug,2008,8,Ausländer,W,16,Europa (ohne Schweiz),Oesterreich,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2008-8
+Zuzug,2008,8,Ausländer,W,16,Europa (ohne Schweiz),Oesterreich,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2008-8
 Wegzug,2008,8,Schweizer,M,17,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Schweizer,M,17,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,2008-8
 Zuzug,2008,8,Ausländer,M,17,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,Am Ring,2008-8
@@ -489,6 +493,7 @@ Wegzug,2008,8,Schweizer,W,19,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,ZH,NA
 Wegzug,2008,8,Ausländer,M,19,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,AG,NA,2008-8
 Wegzug,2008,8,Ausländer,W,19,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,unbekannt,unbekannt,NA,2008-8
 Zuzug,2008,8,Ausländer,W,19,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gotthelf,2008-8
+Zuzug,2008,8,Ausländer,W,19,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gotthelf,2008-8
 Wegzug,2008,8,Schweizer,M,20,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,NA,2008-8
 Wegzug,2008,8,Ausländer,W,20,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Ausländer,W,20,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2008-8
@@ -554,6 +559,8 @@ Zuzug,2008,8,Ausländer,W,20,Europa (ohne Schweiz),Kosovo,Unbekannt,NA,Schweiz,S
 Wegzug,2008,8,Schweizer,W,20,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Ausländer,M,20,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Finnland,Ausland,NA,2008-8
 Wegzug,2008,8,Schweizer,M,20,Schweiz,Schweiz,BS,Rosental,unbekannt,unbekannt,unbekannt,NA,2008-8
+Zuzug,2008,8,Ausländer,W,20,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bettingen,2008-8
+Zuzug,2008,8,Ausländer,W,20,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bettingen,2008-8
 Zuzug,2008,8,Ausländer,W,20,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bettingen,2008-8
 Zuzug,2008,8,Ausländer,W,20,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bettingen,2008-8
 Wegzug,2008,8,Schweizer,W,21,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2008-8
@@ -757,6 +764,11 @@ Wegzug,2008,8,Ausländer,W,22,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,unbeka
 Wegzug,2008,8,Ausländer,W,22,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,unbekannt,unbekannt,NA,2008-8
 Wegzug,2008,8,Ausländer,W,22,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,unbekannt,unbekannt,NA,2008-8
 Zuzug,2008,8,Schweizer,W,22,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,2008-8
+Wegzug,2008,8,Schweizer,M,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2008-8
+Wegzug,2008,8,Ausländer,W,22,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,unbekannt,unbekannt,NA,2008-8
+Wegzug,2008,8,Ausländer,W,22,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,unbekannt,unbekannt,NA,2008-8
+Wegzug,2008,8,Ausländer,W,22,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,unbekannt,unbekannt,NA,2008-8
+Zuzug,2008,8,Schweizer,W,22,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,2008-8
 Wegzug,2008,8,Ausländer,M,23,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Spanien,Ausland,NA,2008-8
 Wegzug,2008,8,Ausländer,W,23,Schweiz,Schweiz,BS,Gotthelf,unbekannt,unbekannt,unbekannt,NA,2008-8
 Wegzug,2008,8,Schweizer,W,23,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BE,NA,2008-8
@@ -864,6 +876,7 @@ Wegzug,2008,8,Schweizer,W,23,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BE,NA,
 Wegzug,2008,8,Ausländer,M,23,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
 Wegzug,2008,8,Schweizer,M,23,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Schweizer,M,23,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SO,NA,2008-8
+Zuzug,2008,8,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2008-8
 Zuzug,2008,8,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2008-8
 Wegzug,2008,8,Ausländer,W,24,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,unbekannt,unbekannt,NA,2008-8
 Wegzug,2008,8,Ausländer,M,24,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Serbien,Ausland,NA,2008-8
@@ -975,6 +988,7 @@ Wegzug,2008,8,Ausländer,W,24,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),D
 Wegzug,2008,8,Ausländer,W,24,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,TI,NA,2008-8
 Wegzug,2008,8,Schweizer,M,24,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
 Wegzug,2008,8,Schweizer,W,24,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,ZG,NA,2008-8
+Zuzug,2008,8,Ausländer,W,24,Lateinamerika und Karibik,Brasilien,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2008-8
 Zuzug,2008,8,Ausländer,W,24,Lateinamerika und Karibik,Brasilien,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2008-8
 Wegzug,2008,8,Ausländer,W,25,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,AG,NA,2008-8
 Wegzug,2008,8,Schweizer,M,25,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,AG,NA,2008-8
@@ -1106,6 +1120,7 @@ Wegzug,2008,8,Schweizer,M,25,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,GR,NA,200
 Wegzug,2008,8,Schweizer,W,25,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,2008-8
 Wegzug,2008,8,Schweizer,W,25,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,SG,NA,2008-8
 Zuzug,2008,8,Ausländer,M,25,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2008-8
+Zuzug,2008,8,Ausländer,M,25,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2008-8
 Wegzug,2008,8,Ausländer,W,26,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Frankreich,Ausland,NA,2008-8
 Wegzug,2008,8,Schweizer,W,26,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,NW,NA,2008-8
 Wegzug,2008,8,Ausländer,W,26,Schweiz,Schweiz,BS,Bettingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
@@ -1218,6 +1233,7 @@ Wegzug,2008,8,Schweizer,M,26,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,TG,NA
 Wegzug,2008,8,Schweizer,W,26,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,2008-8
 Wegzug,2008,8,Schweizer,W,26,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,SO,NA,2008-8
 Wegzug,2008,8,Schweizer,W,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2008-8
+Zuzug,2008,8,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2008-8
 Zuzug,2008,8,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2008-8
 Wegzug,2008,8,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
 Wegzug,2008,8,Ausländer,M,27,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
@@ -1552,6 +1568,8 @@ Wegzug,2008,8,Ausländer,W,29,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,20
 Wegzug,2008,8,Schweizer,M,29,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,AG,NA,2008-8
 Wegzug,2008,8,Schweizer,M,29,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BE,NA,2008-8
 Wegzug,2008,8,Schweizer,W,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2008-8
+Zuzug,2008,8,Schweizer,W,29,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2008-8
+Zuzug,2008,8,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2008-8
 Zuzug,2008,8,Schweizer,W,29,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2008-8
 Zuzug,2008,8,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2008-8
 Wegzug,2008,8,Ausländer,W,30,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,VD,NA,2008-8
@@ -1930,6 +1948,8 @@ Wegzug,2008,8,Ausländer,W,34,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2
 Wegzug,2008,8,Ausländer,M,34,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,ZG,NA,2008-8
 Zuzug,2008,8,Ausländer,M,34,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2008-8
 Zuzug,2008,8,Ausländer,W,34,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2008-8
+Zuzug,2008,8,Ausländer,M,34,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2008-8
+Zuzug,2008,8,Ausländer,W,34,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2008-8
 Wegzug,2008,8,Ausländer,M,35,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Schweizer,W,35,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Schweizer,W,35,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Frankreich,Ausland,NA,2008-8
@@ -1980,6 +2000,7 @@ Wegzug,2008,8,Ausländer,W,35,Schweiz,Schweiz,BS,Altstadt Grossbasel,Asien,Singa
 Wegzug,2008,8,Schweizer,W,35,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,ZH,NA,2008-8
 Wegzug,2008,8,Ausländer,W,35,Schweiz,Schweiz,BS,St. Johann,Lateinamerika und Karibik,Brasilien,Ausland,NA,2008-8
 Wegzug,2008,8,Ausländer,M,35,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
+Zuzug,2008,8,Ausländer,W,35,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2008-8
 Zuzug,2008,8,Ausländer,W,35,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2008-8
 Wegzug,2008,8,Schweizer,M,36,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,AG,NA,2008-8
 Wegzug,2008,8,Ausländer,M,36,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
@@ -2233,6 +2254,7 @@ Wegzug,2008,8,Ausländer,M,40,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA
 Wegzug,2008,8,Ausländer,M,40,Schweiz,Schweiz,BS,Riehen,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2008-8
 Wegzug,2008,8,Schweizer,W,40,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,VD,NA,2008-8
 Zuzug,2008,8,Ausländer,M,40,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2008-8
+Zuzug,2008,8,Ausländer,M,40,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2008-8
 Wegzug,2008,8,Ausländer,W,41,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,JU,NA,2008-8
 Wegzug,2008,8,Ausländer,W,41,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BL,NA,2008-8
 Zuzug,2008,8,Schweizer,M,41,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,2008-8
@@ -2328,6 +2350,7 @@ Wegzug,2008,8,Ausländer,W,43,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,TG,NA,20
 Wegzug,2008,8,Ausländer,M,43,Schweiz,Schweiz,BS,Bruderholz,unbekannt,unbekannt,unbekannt,NA,2008-8
 Wegzug,2008,8,Ausländer,M,43,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
 Zuzug,2008,8,Ausländer,W,43,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2008-8
+Zuzug,2008,8,Ausländer,W,43,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2008-8
 Wegzug,2008,8,Ausländer,M,44,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Ausländer,M,44,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,AG,NA,2008-8
 Wegzug,2008,8,Ausländer,W,44,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Finnland,Ausland,NA,2008-8
@@ -2398,6 +2421,7 @@ Wegzug,2008,8,Schweizer,M,45,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,
 Wegzug,2008,8,Ausländer,M,45,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2008-8
 Wegzug,2008,8,Ausländer,W,45,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,2008-8
 Zuzug,2008,8,Schweizer,W,45,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Am Ring,2008-8
+Zuzug,2008,8,Schweizer,W,45,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Am Ring,2008-8
 Wegzug,2008,8,Ausländer,W,46,Schweiz,Schweiz,BS,Am Ring,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2008-8
 Wegzug,2008,8,Schweizer,M,46,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,SO,NA,2008-8
 Wegzug,2008,8,Ausländer,W,46,Schweiz,Schweiz,BS,Gotthelf,Asien,Taiwan (Chinesisches Taipei),Ausland,NA,2008-8
@@ -2465,6 +2489,7 @@ Wegzug,2008,8,Ausländer,W,47,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unb
 Wegzug,2008,8,Ausländer,M,47,Schweiz,Schweiz,BS,Bachletten,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2008-8
 Wegzug,2008,8,Ausländer,W,47,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Deutschland,Ausland,NA,2008-8
 Wegzug,2008,8,Ausländer,W,47,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2008-8
+Zuzug,2008,8,Ausländer,M,47,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2008-8
 Zuzug,2008,8,Ausländer,M,47,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2008-8
 Wegzug,2008,8,Ausländer,M,48,Schweiz,Schweiz,BS,Vorstädte,unbekannt,unbekannt,unbekannt,NA,2008-8
 Wegzug,2008,8,Schweizer,W,48,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,GR,NA,2008-8

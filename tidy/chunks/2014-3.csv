@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2014,3,Ausländer,M,0,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,SO,NA,2014-3
 Wegzug,2014,3,Schweizer,M,0,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,VS,NA,2014-3
 Wegzug,2014,3,Schweizer,W,0,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2014-3
@@ -42,6 +42,7 @@ Wegzug,2014,3,Ausländer,W,1,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,SO,NA,2014
 Wegzug,2014,3,Schweizer,W,1,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,2014-3
 Wegzug,2014,3,Ausländer,M,1,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-3
 Wegzug,2014,3,Ausländer,M,1,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-3
+Zuzug,2014,3,Ausländer,W,1,Asien,Syrien,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2014-3
 Zuzug,2014,3,Ausländer,W,1,Asien,Syrien,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2014-3
 Wegzug,2014,3,Ausländer,M,2,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-3
 Zuzug,2014,3,Ausländer,M,2,Lateinamerika und Karibik,Brasilien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2014-3
@@ -472,6 +473,8 @@ Wegzug,2014,3,Schweizer,W,24,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,SO,NA,20
 Wegzug,2014,3,Schweizer,M,24,Schweiz,Schweiz,BS,Am Ring,Lateinamerika und Karibik,Chile,Ausland,NA,2014-3
 Zuzug,2014,3,Ausländer,M,24,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2014-3
 Zuzug,2014,3,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2014-3
+Zuzug,2014,3,Ausländer,M,24,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2014-3
+Zuzug,2014,3,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2014-3
 Wegzug,2014,3,Ausländer,W,25,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-3
 Wegzug,2014,3,Schweizer,W,25,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2014-3
 Wegzug,2014,3,Ausländer,M,25,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-3
@@ -568,6 +571,7 @@ Wegzug,2014,3,Schweizer,M,25,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schw
 Wegzug,2014,3,Schweizer,W,25,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,2014-3
 Wegzug,2014,3,Schweizer,W,25,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,2014-3
 Zuzug,2014,3,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2014-3
+Zuzug,2014,3,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2014-3
 Wegzug,2014,3,Ausländer,W,26,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Niederlande,Ausland,NA,2014-3
 Wegzug,2014,3,Ausländer,M,26,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-3
 Wegzug,2014,3,Ausländer,M,26,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Italien,Ausland,NA,2014-3
@@ -659,6 +663,7 @@ Wegzug,2014,3,Schweizer,M,26,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,AG,NA
 Wegzug,2014,3,Schweizer,M,26,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,ZH,NA,2014-3
 Wegzug,2014,3,Schweizer,M,26,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2014-3
 Wegzug,2014,3,Schweizer,W,26,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,AG,NA,2014-3
+Zuzug,2014,3,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2014-3
 Zuzug,2014,3,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2014-3
 Wegzug,2014,3,Schweizer,M,27,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,ZH,NA,2014-3
 Wegzug,2014,3,Ausländer,W,27,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-3
@@ -945,6 +950,7 @@ Wegzug,2014,3,Ausländer,M,29,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz
 Wegzug,2014,3,Ausländer,W,29,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,2014-3
 Wegzug,2014,3,Ausländer,W,29,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Frankreich,Ausland,NA,2014-3
 Wegzug,2014,3,Ausländer,W,29,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Nordmazedonien,Ausland,NA,2014-3
+Wegzug,2014,3,Ausländer,M,29,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-3
 Wegzug,2014,3,Ausländer,M,29,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-3
 Wegzug,2014,3,Schweizer,M,30,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2014-3
 Wegzug,2014,3,Schweizer,M,30,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2014-3

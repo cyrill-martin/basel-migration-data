@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2021,12,Ausländer,M,0,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Vorstädte,2021-12
 Zuzug,2021,12,Ausländer,M,0,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2021-12
 Zuzug,2021,12,Ausländer,M,0,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2021-12
@@ -50,6 +50,7 @@ Wegzug,2021,12,Schweizer,M,2,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,2021
 Wegzug,2021,12,Schweizer,M,2,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2021-12
 Wegzug,2021,12,Ausländer,M,2,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Portugal,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,W,2,Schweiz,Schweiz,BS,Gundeldingen,Ozeanien,Australien,Ausland,NA,2021-12
+Wegzug,2021,12,Schweizer,W,2,Schweiz,Schweiz,BS,Gundeldingen,Ozeanien,Australien,Ausland,NA,2021-12
 Zuzug,2021,12,Ausländer,M,3,Lateinamerika und Karibik,Brasilien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2021-12
 Zuzug,2021,12,Ausländer,M,3,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2021-12
 Zuzug,2021,12,Ausländer,W,3,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2021-12
@@ -98,6 +99,7 @@ Zuzug,2021,12,Ausländer,M,7,Europa (ohne Schweiz),Türkei,Unbekannt,NA,Schweiz,
 Wegzug,2021,12,Ausländer,M,7,Schweiz,Schweiz,BS,Am Ring,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,M,8,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2021-12
 Wegzug,2021,12,Ausländer,M,8,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,SG,NA,2021-12
+Wegzug,2021,12,Schweizer,W,8,Schweiz,Schweiz,BS,St. Johann,Lateinamerika und Karibik,Brasilien,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,W,8,Schweiz,Schweiz,BS,St. Johann,Lateinamerika und Karibik,Brasilien,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,W,8,Schweiz,Schweiz,BS,St. Johann,Lateinamerika und Karibik,Brasilien,Ausland,NA,2021-12
 Zuzug,2021,12,Ausländer,W,9,Europa (ohne Schweiz),Nordmazedonien,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2021-12
@@ -467,6 +469,7 @@ Wegzug,2021,12,Ausländer,W,25,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schwei
 Wegzug,2021,12,Schweizer,M,25,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,ZH,NA,2021-12
 Wegzug,2021,12,Schweizer,W,25,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2021-12
 Wegzug,2021,12,Ausländer,W,25,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2021-12
+Wegzug,2021,12,Ausländer,W,25,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2021-12
 Zuzug,2021,12,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2021-12
 Zuzug,2021,12,Ausländer,M,26,Lateinamerika und Karibik,Argentinien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2021-12
 Zuzug,2021,12,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2021-12
@@ -610,6 +613,7 @@ Wegzug,2021,12,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,
 Wegzug,2021,12,Ausländer,M,27,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,ZH,NA,2021-12
 Wegzug,2021,12,Schweizer,M,27,Schweiz,Schweiz,BS,Gotthelf,Afrika,Kenia,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,W,27,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Europa (ohne Schweiz),Deutschland,Ausland,NA,2021-12
+Zuzug,2021,12,Ausländer,W,27,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2021-12
 Zuzug,2021,12,Ausländer,W,27,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2021-12
 Zuzug,2021,12,Ausländer,M,28,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Vorstädte,2021-12
 Zuzug,2021,12,Schweizer,M,28,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,2021-12
@@ -962,6 +966,7 @@ Wegzug,2021,12,Schweizer,M,33,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA
 Wegzug,2021,12,Ausländer,W,33,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,BL,NA,2021-12
 Wegzug,2021,12,Ausländer,M,33,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Russland,Ausland,NA,2021-12
 Wegzug,2021,12,Ausländer,M,33,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2021-12
+Wegzug,2021,12,Ausländer,W,33,Schweiz,Schweiz,BS,Vorstädte,unbekannt,unbekannt,unbekannt,NA,2021-12
 Wegzug,2021,12,Ausländer,W,33,Schweiz,Schweiz,BS,Vorstädte,unbekannt,unbekannt,unbekannt,NA,2021-12
 Zuzug,2021,12,Ausländer,M,34,Europa (ohne Schweiz),Belgien,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2021-12
 Zuzug,2021,12,Ausländer,M,34,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Clara,2021-12
@@ -1479,6 +1484,7 @@ Zuzug,2021,12,Ausländer,W,50,Europa (ohne Schweiz),Griechenland,Unbekannt,NA,Sc
 Wegzug,2021,12,Schweizer,W,50,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BE,NA,2021-12
 Wegzug,2021,12,Ausländer,M,50,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,AG,NA,2021-12
 Wegzug,2021,12,Ausländer,M,50,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,BL,NA,2021-12
+Wegzug,2021,12,Ausländer,M,50,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,BL,NA,2021-12
 Zuzug,2021,12,Ausländer,M,51,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2021-12
 Zuzug,2021,12,Ausländer,W,51,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2021-12
 Zuzug,2021,12,Ausländer,W,51,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2021-12
@@ -1659,6 +1665,7 @@ Wegzug,2021,12,Ausländer,W,61,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schw
 Wegzug,2021,12,Ausländer,M,61,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Schweden,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,M,61,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Portugal,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,W,61,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Italien,Ausland,NA,2021-12
+Wegzug,2021,12,Schweizer,W,61,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Italien,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,M,62,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SZ,NA,2021-12
 Zuzug,2021,12,Schweizer,W,62,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,2021-12
 Zuzug,2021,12,Schweizer,W,62,Schweiz,Schweiz,JU,NA,Schweiz,Schweiz,BS,Breite,2021-12
@@ -1676,6 +1683,7 @@ Zuzug,2021,12,Schweizer,W,63,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Iselin,202
 Wegzug,2021,12,Ausländer,M,63,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,AG,NA,2021-12
 Wegzug,2021,12,Ausländer,W,63,Schweiz,Schweiz,BS,Altstadt Grossbasel,Europa (ohne Schweiz),Deutschland,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,M,63,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SG,NA,2021-12
+Wegzug,2021,12,Schweizer,M,63,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Italien,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,M,63,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Italien,Ausland,NA,2021-12
 Wegzug,2021,12,Schweizer,M,63,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Italien,Ausland,NA,2021-12
 Zuzug,2021,12,Schweizer,W,64,Schweiz,Schweiz,GE,NA,Schweiz,Schweiz,BS,Vorstädte,2021-12

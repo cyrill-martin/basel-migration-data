@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2019,5,Ausländer,W,0,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,Bruderholz,2019-5
 Wegzug,2019,5,Ausländer,W,0,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Frankreich,Ausland,NA,2019-5
 Wegzug,2019,5,Ausländer,W,0,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,2019-5
@@ -12,6 +12,7 @@ Zuzug,2019,5,Ausländer,W,0,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt
 Wegzug,2019,5,Schweizer,M,0,Schweiz,Schweiz,BS,Rosental,Afrika,Mauretanien,Ausland,NA,2019-5
 Wegzug,2019,5,Ausländer,M,0,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2019-5
 Wegzug,2019,5,Ausländer,W,0,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Kroatien,Ausland,NA,2019-5
+Wegzug,2019,5,Ausländer,W,0,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,2019-5
 Wegzug,2019,5,Ausländer,W,0,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,2019-5
 Zuzug,2019,5,Schweizer,M,1,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Gundeldingen,2019-5
 Zuzug,2019,5,Ausländer,M,1,Asien,Vereinigte Arabische Emirate,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2019-5
@@ -64,6 +65,7 @@ Zuzug,2019,5,Ausländer,W,2,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt
 Zuzug,2019,5,Ausländer,M,2,Europa (ohne Schweiz),Niederlande,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2019-5
 Wegzug,2019,5,Schweizer,M,2,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2019-5
 Wegzug,2019,5,Schweizer,W,2,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,ZH,NA,2019-5
+Wegzug,2019,5,Schweizer,W,2,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2019-5
 Wegzug,2019,5,Schweizer,W,2,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2019-5
 Zuzug,2019,5,Ausländer,W,3,Europa (ohne Schweiz),Belgien,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2019-5
 Wegzug,2019,5,Schweizer,M,3,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2019-5
@@ -186,6 +188,7 @@ Wegzug,2019,5,Schweizer,W,18,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,
 Wegzug,2019,5,Ausländer,W,18,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2019-5
 Wegzug,2019,5,Ausländer,M,18,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2019-5
 Zuzug,2019,5,Schweizer,M,18,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,2019-5
+Zuzug,2019,5,Schweizer,M,18,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,2019-5
 Wegzug,2019,5,Ausländer,W,19,Schweiz,Schweiz,BS,St. Alban,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2019-5
 Wegzug,2019,5,Ausländer,W,19,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2019-5
 Wegzug,2019,5,Schweizer,M,19,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2019-5
@@ -195,6 +198,7 @@ Zuzug,2019,5,Schweizer,W,19,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Iselin,2019
 Zuzug,2019,5,Schweizer,M,19,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Matthäus,2019-5
 Zuzug,2019,5,Ausländer,W,19,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,Riehen,2019-5
 Zuzug,2019,5,Ausländer,M,19,Europa (ohne Schweiz),Rumänien,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2019-5
+Wegzug,2019,5,Ausländer,W,19,Schweiz,Schweiz,BS,St. Alban,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2019-5
 Wegzug,2019,5,Ausländer,W,19,Schweiz,Schweiz,BS,St. Alban,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2019-5
 Zuzug,2019,5,Ausländer,M,20,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2019-5
 Zuzug,2019,5,Schweizer,M,20,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,St. Johann,2019-5
@@ -274,6 +278,7 @@ Wegzug,2019,5,Ausländer,M,22,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),It
 Wegzug,2019,5,Ausländer,M,22,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Frankreich,Ausland,NA,2019-5
 Wegzug,2019,5,Ausländer,W,22,Schweiz,Schweiz,BS,Am Ring,Asien,China,Ausland,NA,2019-5
 Wegzug,2019,5,Schweizer,M,22,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,LU,NA,2019-5
+Zuzug,2019,5,Schweizer,W,22,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2019-5
 Zuzug,2019,5,Schweizer,W,22,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2019-5
 Zuzug,2019,5,Ausländer,M,23,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2019-5
 Zuzug,2019,5,Schweizer,M,23,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Wettstein,2019-5
@@ -586,6 +591,9 @@ Wegzug,2019,5,Schweizer,W,27,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BL,N
 Zuzug,2019,5,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2019-5
 Zuzug,2019,5,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2019-5
 Zuzug,2019,5,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2019-5
+Zuzug,2019,5,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2019-5
+Zuzug,2019,5,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2019-5
+Zuzug,2019,5,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2019-5
 Zuzug,2019,5,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2019-5
 Zuzug,2019,5,Ausländer,M,28,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Matthäus,2019-5
 Zuzug,2019,5,Schweizer,M,28,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,2019-5
@@ -769,6 +777,7 @@ Wegzug,2019,5,Ausländer,W,29,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,ZH,NA,2
 Wegzug,2019,5,Schweizer,M,29,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2019-5
 Wegzug,2019,5,Schweizer,M,29,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2019-5
 Wegzug,2019,5,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,SG,NA,2019-5
+Wegzug,2019,5,Ausländer,M,29,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,SG,NA,2019-5
 Zuzug,2019,5,Ausländer,W,30,Schweiz,Schweiz,TI,NA,Schweiz,Schweiz,BS,Rosental,2019-5
 Zuzug,2019,5,Ausländer,W,30,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Bachletten,2019-5
 Zuzug,2019,5,Schweizer,M,30,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,2019-5
@@ -842,6 +851,7 @@ Wegzug,2019,5,Ausländer,W,30,Schweiz,Schweiz,BS,Am Ring,Asien,China,Ausland,NA,
 Wegzug,2019,5,Ausländer,M,30,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Griechenland,Ausland,NA,2019-5
 Wegzug,2019,5,Ausländer,M,30,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,ZH,NA,2019-5
 Wegzug,2019,5,Ausländer,W,30,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2019-5
+Wegzug,2019,5,Schweizer,W,30,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,LU,NA,2019-5
 Wegzug,2019,5,Schweizer,W,30,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,LU,NA,2019-5
 Zuzug,2019,5,Ausländer,M,31,Nordamerika,Kanada,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2019-5
 Zuzug,2019,5,Ausländer,W,31,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2019-5
@@ -1377,6 +1387,7 @@ Wegzug,2019,5,Schweizer,M,40,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz)
 Wegzug,2019,5,Ausländer,W,40,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2019-5
 Wegzug,2019,5,Ausländer,W,40,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2019-5
 Zuzug,2019,5,Ausländer,M,40,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2019-5
+Zuzug,2019,5,Ausländer,M,40,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2019-5
 Zuzug,2019,5,Ausländer,M,41,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2019-5
 Zuzug,2019,5,Ausländer,M,41,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Rosental,2019-5
 Zuzug,2019,5,Ausländer,W,41,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Am Ring,2019-5
@@ -1409,6 +1420,7 @@ Wegzug,2019,5,Ausländer,M,41,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,
 Wegzug,2019,5,Schweizer,M,41,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,SG,NA,2019-5
 Wegzug,2019,5,Schweizer,M,41,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,2019-5
 Wegzug,2019,5,Ausländer,M,41,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Deutschland,Ausland,NA,2019-5
+Zuzug,2019,5,Ausländer,M,41,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2019-5
 Zuzug,2019,5,Ausländer,M,41,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2019-5
 Zuzug,2019,5,Ausländer,M,42,Europa (ohne Schweiz),Norwegen,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2019-5
 Zuzug,2019,5,Ausländer,M,42,Afrika,Aegypten,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2019-5
@@ -1524,6 +1536,7 @@ Wegzug,2019,5,Ausländer,M,45,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,NE,NA
 Wegzug,2019,5,Ausländer,M,45,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2019-5
 Wegzug,2019,5,Ausländer,M,45,Schweiz,Schweiz,BS,Riehen,Asien,Myanmar,Ausland,NA,2019-5
 Wegzug,2019,5,Schweizer,W,45,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2019-5
+Zuzug,2019,5,Ausländer,M,45,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2019-5
 Zuzug,2019,5,Ausländer,M,45,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2019-5
 Zuzug,2019,5,Schweizer,M,46,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Breite,2019-5
 Zuzug,2019,5,Schweizer,W,46,Lateinamerika und Karibik,Brasilien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2019-5

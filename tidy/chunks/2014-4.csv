@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2014,4,Schweizer,M,0,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Frankreich,Ausland,NA,2014-4
 Wegzug,2014,4,Schweizer,W,0,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2014-4
 Wegzug,2014,4,Schweizer,W,0,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,AG,NA,2014-4
@@ -58,6 +58,7 @@ Wegzug,2014,4,Ausländer,W,2,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,N
 Wegzug,2014,4,Ausländer,W,2,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,2014-4
 Wegzug,2014,4,Ausländer,W,2,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,2014-4
 Wegzug,2014,4,Schweizer,M,2,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2014-4
+Zuzug,2014,4,Ausländer,M,2,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2014-4
 Zuzug,2014,4,Ausländer,M,2,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2014-4
 Wegzug,2014,4,Ausländer,M,3,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Frankreich,Ausland,NA,2014-4
 Wegzug,2014,4,Schweizer,M,3,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2014-4
@@ -170,6 +171,7 @@ Wegzug,2014,4,Schweizer,M,11,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA
 Wegzug,2014,4,Ausländer,M,11,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Frankreich,Ausland,NA,2014-4
 Wegzug,2014,4,Schweizer,W,11,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2014-4
 Wegzug,2014,4,Ausländer,M,11,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2014-4
+Wegzug,2014,4,Ausländer,M,11,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Frankreich,Ausland,NA,2014-4
 Wegzug,2014,4,Ausländer,M,11,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Frankreich,Ausland,NA,2014-4
 Zuzug,2014,4,Schweizer,M,12,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Clara,2014-4
 Wegzug,2014,4,Schweizer,M,12,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2014-4
@@ -403,6 +405,8 @@ Wegzug,2014,4,Schweizer,M,24,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,201
 Wegzug,2014,4,Ausländer,W,24,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-4
 Wegzug,2014,4,Ausländer,M,24,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-4
 Zuzug,2014,4,Ausländer,M,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2014-4
+Wegzug,2014,4,Ausländer,M,24,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-4
+Zuzug,2014,4,Ausländer,M,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2014-4
 Wegzug,2014,4,Ausländer,M,25,Schweiz,Schweiz,BS,Gotthelf,Lateinamerika und Karibik,Brasilien,Ausland,NA,2014-4
 Wegzug,2014,4,Ausländer,W,25,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2014-4
 Wegzug,2014,4,Ausländer,W,25,Schweiz,Schweiz,BS,Rosental,unbekannt,unbekannt,unbekannt,NA,2014-4
@@ -580,6 +584,7 @@ Wegzug,2014,4,Ausländer,W,26,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG
 Wegzug,2014,4,Schweizer,M,26,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,SO,NA,2014-4
 Wegzug,2014,4,Schweizer,W,26,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2014-4
 Zuzug,2014,4,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2014-4
+Zuzug,2014,4,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2014-4
 Wegzug,2014,4,Schweizer,W,27,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2014-4
 Wegzug,2014,4,Schweizer,W,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2014-4
 Wegzug,2014,4,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Portugal,Ausland,NA,2014-4
@@ -656,6 +661,7 @@ Wegzug,2014,4,Ausländer,M,27,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz
 Wegzug,2014,4,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-4
 Wegzug,2014,4,Ausländer,W,27,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2014-4
 Wegzug,2014,4,Schweizer,M,27,Schweiz,Schweiz,BS,Riehen,unbekannt,unbekannt,unbekannt,NA,2014-4
+Zuzug,2014,4,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2014-4
 Zuzug,2014,4,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2014-4
 Wegzug,2014,4,Ausländer,W,28,Schweiz,Schweiz,BS,Rosental,Asien,Indien,Ausland,NA,2014-4
 Wegzug,2014,4,Schweizer,W,28,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BE,NA,2014-4
@@ -1632,6 +1638,7 @@ Wegzug,2014,4,Ausländer,M,44,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,AG,NA
 Wegzug,2014,4,Ausländer,M,44,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,BL,NA,2014-4
 Wegzug,2014,4,Ausländer,M,44,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2014-4
 Zuzug,2014,4,Ausländer,M,44,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2014-4
+Zuzug,2014,4,Ausländer,M,44,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2014-4
 Wegzug,2014,4,Ausländer,W,45,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,2014-4
 Zuzug,2014,4,Ausländer,W,45,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2014-4
 Zuzug,2014,4,Ausländer,M,45,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2014-4
@@ -1902,6 +1909,7 @@ Zuzug,2014,4,Ausländer,W,60,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten
 Wegzug,2014,4,Ausländer,M,60,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Frankreich,Ausland,NA,2014-4
 Wegzug,2014,4,Ausländer,W,60,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Spanien,Ausland,NA,2014-4
 Zuzug,2014,4,Schweizer,M,60,Asien,Philippinen,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2014-4
+Zuzug,2014,4,Schweizer,W,60,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2014-4
 Zuzug,2014,4,Schweizer,W,60,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2014-4
 Zuzug,2014,4,Schweizer,W,60,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2014-4
 Wegzug,2014,4,Schweizer,M,61,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,JU,NA,2014-4

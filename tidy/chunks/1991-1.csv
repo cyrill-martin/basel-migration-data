@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,1991,1,Ausländer,W,0,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Schweizer,M,1,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Schweizer,W,1,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
@@ -23,6 +23,8 @@ Zuzug,1991,1,Ausländer,W,1,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gu
 Zuzug,1991,1,Ausländer,W,1,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Wegzug,1991,1,Schweizer,M,1,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,M,1,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,W,1,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Wegzug,1991,1,Ausländer,M,1,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1991-1
 Zuzug,1991,1,Schweizer,W,1,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Wegzug,1991,1,Ausländer,M,1,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1991-1
 Zuzug,1991,1,Ausländer,W,2,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
@@ -65,6 +67,7 @@ Zuzug,1991,1,Ausländer,M,3,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Ma
 Zuzug,1991,1,Schweizer,W,3,Asien,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
 Zuzug,1991,1,Ausländer,W,3,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
 Zuzug,1991,1,Schweizer,W,3,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1991-1
+Zuzug,1991,1,Schweizer,W,3,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1991-1
 Zuzug,1991,1,Schweizer,M,4,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,M,4,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
 Zuzug,1991,1,Schweizer,W,4,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
@@ -99,6 +102,8 @@ Zuzug,1991,1,Schweizer,M,5,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1991-1
 Zuzug,1991,1,Ausländer,W,5,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
 Zuzug,1991,1,Ausländer,M,5,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Ausländer,W,5,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,5,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,5,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1991-1
 Zuzug,1991,1,Schweizer,W,5,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Schweizer,M,5,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1991-1
 Zuzug,1991,1,Schweizer,M,6,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
@@ -177,6 +182,7 @@ Zuzug,1991,1,Ausländer,M,13,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991
 Zuzug,1991,1,Ausländer,M,13,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Ausländer,M,13,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1991-1
 Zuzug,1991,1,Schweizer,W,13,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
+Zuzug,1991,1,Schweizer,W,13,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
 Zuzug,1991,1,Ausländer,M,14,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Ausländer,W,14,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Rosental,1991-1
 Zuzug,1991,1,Ausländer,M,14,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Rosental,1991-1
@@ -203,6 +209,7 @@ Zuzug,1991,1,Ausländer,W,16,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,M
 Zuzug,1991,1,Schweizer,W,16,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
 Zuzug,1991,1,Ausländer,M,16,Lateinamerika und Karibik,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Ausländer,M,16,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,16,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
 Zuzug,1991,1,Schweizer,W,16,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
 Zuzug,1991,1,Ausländer,M,17,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Ausländer,M,17,Lateinamerika und Karibik,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
@@ -274,6 +281,7 @@ Wegzug,1991,1,Ausländer,M,19,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA
 Wegzug,1991,1,Schweizer,M,19,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,M,19,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1991-1
 Zuzug,1991,1,Schweizer,W,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
+Zuzug,1991,1,Schweizer,W,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
 Zuzug,1991,1,Ausländer,M,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
 Zuzug,1991,1,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
@@ -313,6 +321,7 @@ Zuzug,1991,1,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinba
 Wegzug,1991,1,Ausländer,M,20,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Ausländer,W,20,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Ausländer,W,20,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Ausländer,M,20,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Ausländer,M,20,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Ausländer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Clara,1991-1
@@ -360,6 +369,11 @@ Zuzug,1991,1,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-
 Zuzug,1991,1,Ausländer,M,21,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Clara,1991-1
 Wegzug,1991,1,Ausländer,M,21,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,M,21,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
+Wegzug,1991,1,Schweizer,M,21,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
+Zuzug,1991,1,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
 Zuzug,1991,1,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Wegzug,1991,1,Schweizer,M,21,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1991-1
 Zuzug,1991,1,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
@@ -422,6 +436,20 @@ Wegzug,1991,1,Schweizer,W,22,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,19
 Wegzug,1991,1,Schweizer,M,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,M,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,W,22,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1991-1
+Zuzug,1991,1,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
+Zuzug,1991,1,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
+Zuzug,1991,1,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
+Zuzug,1991,1,Ausländer,M,22,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
+Zuzug,1991,1,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
+Zuzug,1991,1,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
+Zuzug,1991,1,Ausländer,M,22,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1991-1
 Zuzug,1991,1,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
@@ -518,6 +546,12 @@ Zuzug,1991,1,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
 Zuzug,1991,1,Ausländer,M,23,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Ausländer,M,23,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,1991-1
+Zuzug,1991,1,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
+Zuzug,1991,1,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
+Zuzug,1991,1,Ausländer,M,23,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Ausländer,M,23,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,1991-1
 Zuzug,1991,1,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1991-1
 Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1991-1
@@ -599,6 +633,23 @@ Wegzug,1991,1,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA
 Wegzug,1991,1,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,W,24,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,W,24,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Wegzug,1991,1,Schweizer,W,24,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
+Zuzug,1991,1,Ausländer,M,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
@@ -708,6 +759,16 @@ Zuzug,1991,1,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
 Zuzug,1991,1,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
 Wegzug,1991,1,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,M,25,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
+Zuzug,1991,1,Schweizer,W,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1991-1
+Zuzug,1991,1,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
+Zuzug,1991,1,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
+Zuzug,1991,1,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
+Zuzug,1991,1,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
+Wegzug,1991,1,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1991-1
+Wegzug,1991,1,Schweizer,M,25,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1991-1
 Zuzug,1991,1,Ausländer,W,26,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Ausländer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
 Zuzug,1991,1,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1991-1
@@ -788,6 +849,21 @@ Wegzug,1991,1,Schweizer,W,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,19
 Wegzug,1991,1,Schweizer,M,26,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Ausländer,M,26,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Ausländer,W,26,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Clara,1991-1
+Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1991-1
+Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
+Zuzug,1991,1,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
+Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
+Zuzug,1991,1,Ausländer,W,26,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
 Zuzug,1991,1,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Clara,1991-1
@@ -896,6 +972,17 @@ Zuzug,1991,1,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
 Zuzug,1991,1,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Wegzug,1991,1,Schweizer,W,27,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1991-1
+Zuzug,1991,1,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,1991-1
+Zuzug,1991,1,Ausländer,M,27,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Wegzug,1991,1,Ausländer,M,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
+Zuzug,1991,1,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
+Zuzug,1991,1,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
+Zuzug,1991,1,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Wegzug,1991,1,Schweizer,W,27,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1991-1
 Zuzug,1991,1,Ausländer,M,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Ausländer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,M,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
@@ -973,6 +1060,17 @@ Wegzug,1991,1,Schweizer,W,28,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,199
 Wegzug,1991,1,Schweizer,W,28,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Ausländer,M,28,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,W,28,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Ausländer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
+Zuzug,1991,1,Schweizer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
+Zuzug,1991,1,Schweizer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
+Zuzug,1991,1,Schweizer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
+Zuzug,1991,1,Ausländer,M,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Ausländer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
@@ -1072,6 +1170,13 @@ Zuzug,1991,1,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
 Zuzug,1991,1,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
+Zuzug,1991,1,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
+Zuzug,1991,1,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
 Zuzug,1991,1,Ausländer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Schweizer,M,30,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1991-1
@@ -1132,6 +1237,10 @@ Wegzug,1991,1,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA
 Wegzug,1991,1,Schweizer,W,30,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,M,30,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,W,30,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
+Zuzug,1991,1,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
+Zuzug,1991,1,Schweizer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
 Zuzug,1991,1,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
 Zuzug,1991,1,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
 Zuzug,1991,1,Schweizer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
@@ -1203,6 +1312,13 @@ Zuzug,1991,1,Ausländer,M,31,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,
 Zuzug,1991,1,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,1991-1
 Zuzug,1991,1,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
+Zuzug,1991,1,Schweizer,M,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
+Zuzug,1991,1,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1991-1
+Zuzug,1991,1,Ausländer,M,31,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,1991-1
+Zuzug,1991,1,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,W,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Ausländer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1991-1
 Zuzug,1991,1,Ausländer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Schweizer,M,32,Nordamerika,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
@@ -1249,6 +1365,9 @@ Zuzug,1991,1,Ausländer,M,32,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,A
 Zuzug,1991,1,Ausländer,W,32,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Ausländer,M,32,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
 Wegzug,1991,1,Schweizer,M,32,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
+Zuzug,1991,1,Schweizer,W,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
 Zuzug,1991,1,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
 Zuzug,1991,1,Schweizer,W,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
@@ -1312,6 +1431,10 @@ Zuzug,1991,1,Schweizer,W,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,W,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Ausländer,M,33,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,M,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
+Zuzug,1991,1,Schweizer,W,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Ausländer,M,33,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,M,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Ausländer,M,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
 Zuzug,1991,1,Ausländer,M,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,M,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1991-1
@@ -1353,6 +1476,11 @@ Zuzug,1991,1,Schweizer,W,34,Nordamerika,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,19
 Zuzug,1991,1,Ausländer,M,34,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
 Zuzug,1991,1,Ausländer,M,34,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Schweizer,M,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
+Zuzug,1991,1,Schweizer,W,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
+Wegzug,1991,1,Ausländer,M,34,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,W,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
+Zuzug,1991,1,Schweizer,M,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Schweizer,W,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Wegzug,1991,1,Ausländer,M,34,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
 Zuzug,1991,1,Schweizer,W,34,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
@@ -1406,6 +1534,9 @@ Wegzug,1991,1,Schweizer,M,35,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,19
 Zuzug,1991,1,Schweizer,W,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,W,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1991-1
 Zuzug,1991,1,Schweizer,W,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
+Zuzug,1991,1,Schweizer,W,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
+Zuzug,1991,1,Schweizer,W,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1991-1
+Zuzug,1991,1,Schweizer,W,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,M,36,Nordamerika,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,M,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Schweizer,M,36,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
@@ -1446,6 +1577,7 @@ Zuzug,1991,1,Schweizer,M,36,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am
 Wegzug,1991,1,Ausländer,M,36,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Ausländer,W,36,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,W,36,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,M,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Schweizer,M,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Ausländer,M,37,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1991-1
 Zuzug,1991,1,Ausländer,W,37,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
@@ -1562,6 +1694,8 @@ Wegzug,1991,1,Ausländer,W,41,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,N
 Wegzug,1991,1,Ausländer,W,41,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1991-1
 Zuzug,1991,1,Schweizer,M,41,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Schweizer,M,41,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
+Zuzug,1991,1,Schweizer,M,41,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
+Zuzug,1991,1,Schweizer,M,41,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1991-1
 Zuzug,1991,1,Ausländer,M,42,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
 Zuzug,1991,1,Ausländer,W,42,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Ausländer,M,42,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
@@ -1600,6 +1734,8 @@ Zuzug,1991,1,Ausländer,W,43,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,A
 Zuzug,1991,1,Ausländer,M,43,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Wegzug,1991,1,Schweizer,W,43,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Ausländer,M,43,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,W,43,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
+Zuzug,1991,1,Schweizer,W,43,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,W,43,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,W,43,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,M,44,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1991-1
@@ -1679,6 +1815,7 @@ Zuzug,1991,1,Schweizer,M,49,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,W,49,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,1991-1
 Zuzug,1991,1,Ausländer,M,49,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1991-1
 Zuzug,1991,1,Schweizer,M,49,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
+Zuzug,1991,1,Schweizer,M,49,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1991-1
 Zuzug,1991,1,Schweizer,W,50,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1991-1
 Zuzug,1991,1,Ausländer,M,50,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
 Zuzug,1991,1,Schweizer,M,50,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
@@ -1696,6 +1833,7 @@ Zuzug,1991,1,Ausländer,W,51,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,S
 Wegzug,1991,1,Schweizer,W,51,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,M,51,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1991-1
 Wegzug,1991,1,Schweizer,W,51,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,M,51,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
 Zuzug,1991,1,Schweizer,M,51,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1991-1
 Zuzug,1991,1,Schweizer,M,52,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1991-1
 Zuzug,1991,1,Schweizer,W,52,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1991-1
@@ -1759,6 +1897,8 @@ Zuzug,1991,1,Ausländer,W,63,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991
 Zuzug,1991,1,Schweizer,W,63,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
 Zuzug,1991,1,Ausländer,M,63,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
 Wegzug,1991,1,Ausländer,M,63,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1991-1
+Zuzug,1991,1,Schweizer,W,63,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
+Zuzug,1991,1,Schweizer,W,63,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
 Zuzug,1991,1,Schweizer,W,63,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1
 Zuzug,1991,1,Schweizer,W,63,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1991-1
 Zuzug,1991,1,Schweizer,M,64,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1991-1

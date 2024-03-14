@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2005,3,Ausländer,W,0,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Rosental,2005-3
 Wegzug,2005,3,Schweizer,W,0,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,M,0,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2005-3
@@ -22,6 +22,7 @@ Wegzug,2005,3,Schweizer,W,1,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,1,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,1,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Ausländer,M,1,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,2005-3
+Wegzug,2005,3,Ausländer,W,1,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Ausländer,W,1,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Schweizer,M,2,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2005-3
 Zuzug,2005,3,Ausländer,M,2,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2005-3
@@ -59,6 +60,7 @@ Zuzug,2005,3,Schweizer,W,3,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,2005-3
 Wegzug,2005,3,Schweizer,W,3,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,M,3,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Ausländer,M,3,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,2005-3
+Wegzug,2005,3,Schweizer,M,3,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,M,3,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Ausländer,M,4,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,2005-3
 Zuzug,2005,3,Ausländer,W,4,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,2005-3
@@ -142,6 +144,7 @@ Wegzug,2005,3,Ausländer,M,14,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,
 Wegzug,2005,3,Ausländer,M,14,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Ausländer,M,14,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,14,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2005-3
+Wegzug,2005,3,Schweizer,W,14,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Ausländer,W,15,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Ausländer,M,15,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Rosental,2005-3
 Zuzug,2005,3,Schweizer,W,15,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
@@ -208,6 +211,9 @@ Zuzug,2005,3,Ausländer,W,20,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,H
 Zuzug,2005,3,Ausländer,M,20,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,2005-3
 Zuzug,2005,3,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
 Wegzug,2005,3,Ausländer,W,20,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,2005-3
+Zuzug,2005,3,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Zuzug,2005,3,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
 Zuzug,2005,3,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,2005-3
 Zuzug,2005,3,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
 Zuzug,2005,3,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
@@ -287,6 +293,10 @@ Zuzug,2005,3,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,200
 Zuzug,2005,3,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,2005-3
 Zuzug,2005,3,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2005-3
 Zuzug,2005,3,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Zuzug,2005,3,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Zuzug,2005,3,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,2005-3
+Zuzug,2005,3,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2005-3
+Zuzug,2005,3,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
 Zuzug,2005,3,Ausländer,W,23,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,2005-3
 Zuzug,2005,3,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,2005-3
 Zuzug,2005,3,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
@@ -338,6 +348,13 @@ Wegzug,2005,3,Schweizer,W,23,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2005-
 Wegzug,2005,3,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,23,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,23,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Zuzug,2005,3,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Zuzug,2005,3,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Zuzug,2005,3,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Zuzug,2005,3,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Zuzug,2005,3,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
+Zuzug,2005,3,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
 Zuzug,2005,3,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
 Zuzug,2005,3,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
 Zuzug,2005,3,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
@@ -404,6 +421,9 @@ Wegzug,2005,3,Schweizer,W,24,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,2
 Wegzug,2005,3,Schweizer,W,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,M,24,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2005-3
+Zuzug,2005,3,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2005-3
+Zuzug,2005,3,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,2005-3
 Zuzug,2005,3,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2005-3
 Zuzug,2005,3,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2005-3
 Zuzug,2005,3,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,2005-3
@@ -478,6 +498,9 @@ Wegzug,2005,3,Schweizer,W,25,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,2005-
 Zuzug,2005,3,Ausländer,W,25,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2005-3
 Zuzug,2005,3,Ausländer,M,25,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
 Wegzug,2005,3,Ausländer,W,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Ausländer,W,25,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,2005-3
+Zuzug,2005,3,Ausländer,M,25,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
+Wegzug,2005,3,Ausländer,W,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
 Zuzug,2005,3,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
 Zuzug,2005,3,Ausländer,W,26,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2005-3
@@ -548,6 +571,10 @@ Zuzug,2005,3,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,200
 Zuzug,2005,3,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
 Wegzug,2005,3,Ausländer,W,26,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2005-3
+Zuzug,2005,3,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Zuzug,2005,3,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
+Wegzug,2005,3,Ausländer,W,26,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2005-3
 Zuzug,2005,3,Ausländer,M,27,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Riehen,2005-3
 Zuzug,2005,3,Ausländer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,2005-3
 Zuzug,2005,3,Ausländer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
@@ -614,6 +641,8 @@ Wegzug,2005,3,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2
 Wegzug,2005,3,Ausländer,W,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,27,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
+Wegzug,2005,3,Schweizer,W,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Schweizer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
 Wegzug,2005,3,Schweizer,W,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Ausländer,W,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Riehen,2005-3
@@ -692,6 +721,7 @@ Wegzug,2005,3,Schweizer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,20
 Wegzug,2005,3,Schweizer,W,28,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,28,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Schweizer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2005-3
+Zuzug,2005,3,Schweizer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2005-3
 Zuzug,2005,3,Ausländer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
 Zuzug,2005,3,Ausländer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2005-3
 Zuzug,2005,3,Ausländer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2005-3
@@ -761,6 +791,8 @@ Wegzug,2005,3,Ausländer,W,29,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2005-
 Wegzug,2005,3,Schweizer,M,29,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,29,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Wegzug,2005,3,Schweizer,W,29,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Schweizer,W,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
 Zuzug,2005,3,Ausländer,W,30,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,2005-3
 Zuzug,2005,3,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2005-3
 Zuzug,2005,3,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,2005-3
@@ -826,6 +858,10 @@ Wegzug,2005,3,Ausländer,W,30,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2005-
 Wegzug,2005,3,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,M,30,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,M,30,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2005-3
+Zuzug,2005,3,Ausländer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,2005-3
+Wegzug,2005,3,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
+Wegzug,2005,3,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Schweizer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2005-3
 Zuzug,2005,3,Ausländer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,2005-3
 Wegzug,2005,3,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
@@ -954,6 +990,8 @@ Wegzug,2005,3,Ausländer,W,32,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2005-
 Wegzug,2005,3,Ausländer,M,32,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Ausländer,W,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Ausländer,M,32,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2005-3
+Wegzug,2005,3,Ausländer,W,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Ausländer,M,32,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2005-3
 Zuzug,2005,3,Ausländer,M,33,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,2005-3
 Zuzug,2005,3,Ausländer,M,33,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2005-3
 Zuzug,2005,3,Ausländer,M,33,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,2005-3
@@ -1060,6 +1098,7 @@ Wegzug,2005,3,Ausländer,W,34,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA
 Wegzug,2005,3,Ausländer,W,34,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,34,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,34,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2005-3
+Wegzug,2005,3,Schweizer,W,34,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Ausländer,M,35,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2005-3
 Zuzug,2005,3,Ausländer,M,35,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
 Zuzug,2005,3,Ausländer,W,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,2005-3
@@ -1104,6 +1143,8 @@ Wegzug,2005,3,Ausländer,M,35,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,N
 Wegzug,2005,3,Ausländer,M,35,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Ausländer,M,35,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Schweizer,W,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,2005-3
+Wegzug,2005,3,Ausländer,M,35,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Schweizer,W,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,2005-3
 Zuzug,2005,3,Ausländer,W,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,2005-3
 Zuzug,2005,3,Ausländer,W,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Clara,2005-3
 Zuzug,2005,3,Ausländer,W,36,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
@@ -1145,6 +1186,8 @@ Wegzug,2005,3,Ausländer,M,36,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,20
 Wegzug,2005,3,Schweizer,M,36,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Ausländer,M,36,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
 Zuzug,2005,3,Ausländer,M,36,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2005-3
+Zuzug,2005,3,Ausländer,M,36,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,2005-3
+Zuzug,2005,3,Ausländer,M,36,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2005-3
 Zuzug,2005,3,Ausländer,M,37,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
 Zuzug,2005,3,Ausländer,M,37,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,2005-3
 Zuzug,2005,3,Ausländer,M,37,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2005-3
@@ -1180,6 +1223,7 @@ Wegzug,2005,3,Ausländer,M,37,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,2005-
 Wegzug,2005,3,Ausländer,M,37,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,M,37,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,37,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Ausländer,M,37,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,2005-3
 Zuzug,2005,3,Ausländer,M,37,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,2005-3
 Zuzug,2005,3,Ausländer,M,38,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2005-3
 Zuzug,2005,3,Ausländer,W,38,Nordamerika,NA,NA,NA,Schweiz,Schweiz,BS,Breite,2005-3
@@ -1325,6 +1369,7 @@ Wegzug,2005,3,Ausländer,W,41,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,2005
 Wegzug,2005,3,Ausländer,M,41,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,M,41,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,W,41,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,2005-3
+Wegzug,2005,3,Schweizer,M,41,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Schweizer,M,41,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,2005-3
 Zuzug,2005,3,Ausländer,W,42,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,2005-3
 Zuzug,2005,3,Ausländer,W,42,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2005-3
@@ -1486,6 +1531,7 @@ Zuzug,2005,3,Schweizer,M,48,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,2005-
 Zuzug,2005,3,Ausländer,W,48,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,2005-3
 Zuzug,2005,3,Ausländer,M,48,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
 Wegzug,2005,3,Ausländer,W,48,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Schweizer,W,48,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,2005-3
 Zuzug,2005,3,Schweizer,W,48,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,2005-3
 Zuzug,2005,3,Ausländer,M,49,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
 Zuzug,2005,3,Ausländer,W,49,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,2005-3
@@ -1667,6 +1713,7 @@ Wegzug,2005,3,Schweizer,W,76,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,20
 Zuzug,2005,3,Schweizer,W,76,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,2005-3
 Wegzug,2005,3,Schweizer,W,76,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,2005-3
 Wegzug,2005,3,Ausländer,W,76,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,2005-3
+Zuzug,2005,3,Schweizer,W,77,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,2005-3
 Zuzug,2005,3,Schweizer,W,77,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,2005-3
 Zuzug,2005,3,Schweizer,W,77,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bruderholz,2005-3
 Zuzug,2005,3,Schweizer,W,78,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,2005-3

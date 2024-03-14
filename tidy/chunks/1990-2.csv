@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,1990,2,Schweizer,W,0,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Schweizer,M,0,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1990-2
 Zuzug,1990,2,Ausländer,W,1,Nordamerika,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
@@ -129,6 +129,7 @@ Zuzug,1990,2,Ausländer,W,18,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,M
 Zuzug,1990,2,Ausländer,M,18,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
 Wegzug,1990,2,Ausländer,M,18,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1990-2
 Zuzug,1990,2,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
+Zuzug,1990,2,Schweizer,W,18,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
 Zuzug,1990,2,Ausländer,M,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
 Zuzug,1990,2,Ausländer,W,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
 Zuzug,1990,2,Schweizer,M,19,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1990-2
@@ -180,6 +181,11 @@ Zuzug,1990,2,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,199
 Zuzug,1990,2,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1990-2
 Zuzug,1990,2,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1990-2
 Zuzug,1990,2,Ausländer,M,20,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2
+Zuzug,1990,2,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1990-2
+Zuzug,1990,2,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
+Zuzug,1990,2,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1990-2
+Zuzug,1990,2,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1990-2
+Zuzug,1990,2,Ausländer,M,20,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2
 Zuzug,1990,2,Ausländer,M,21,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
 Zuzug,1990,2,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
 Zuzug,1990,2,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1990-2
@@ -219,6 +225,9 @@ Wegzug,1990,2,Schweizer,M,21,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,19
 Wegzug,1990,2,Ausländer,M,21,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Schweizer,W,21,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Ausländer,M,21,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1990-2
+Zuzug,1990,2,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
+Zuzug,1990,2,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
+Zuzug,1990,2,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
 Zuzug,1990,2,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
 Zuzug,1990,2,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
 Zuzug,1990,2,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
@@ -272,6 +281,11 @@ Wegzug,1990,2,Schweizer,W,22,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA
 Wegzug,1990,2,Ausländer,W,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Schweizer,M,22,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Ausländer,M,22,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1990-2
+Zuzug,1990,2,Ausländer,W,22,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Rosental,1990-2
+Zuzug,1990,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
+Zuzug,1990,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
+Zuzug,1990,2,Ausländer,M,22,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1990-2
+Zuzug,1990,2,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,1990-2
 Zuzug,1990,2,Ausländer,W,22,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Rosental,1990-2
 Zuzug,1990,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
 Zuzug,1990,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
@@ -336,6 +350,10 @@ Zuzug,1990,2,Ausländer,M,23,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,M
 Zuzug,1990,2,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
 Zuzug,1990,2,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
 Zuzug,1990,2,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
+Zuzug,1990,2,Ausländer,M,23,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
+Zuzug,1990,2,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
+Zuzug,1990,2,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
+Zuzug,1990,2,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
 Zuzug,1990,2,Ausländer,M,24,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
 Zuzug,1990,2,Schweizer,M,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
 Zuzug,1990,2,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,1990-2
@@ -396,6 +414,9 @@ Wegzug,1990,2,Schweizer,W,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,199
 Wegzug,1990,2,Schweizer,W,24,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Ausländer,M,24,Schweiz,Schweiz,BS,Kleinhüningen,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Schweizer,M,24,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1990-2
+Wegzug,1990,2,Schweizer,W,24,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1990-2
+Zuzug,1990,2,Ausländer,M,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,1990-2
+Zuzug,1990,2,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
 Wegzug,1990,2,Schweizer,W,24,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1990-2
 Zuzug,1990,2,Ausländer,M,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,1990-2
 Zuzug,1990,2,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1990-2
@@ -480,6 +501,8 @@ Wegzug,1990,2,Schweizer,M,25,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,19
 Wegzug,1990,2,Ausländer,M,25,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Schweizer,M,25,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1990-2
+Zuzug,1990,2,Ausländer,M,25,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2
+Zuzug,1990,2,Ausländer,M,25,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2
 Zuzug,1990,2,Ausländer,M,25,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2
 Zuzug,1990,2,Ausländer,M,25,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2
 Zuzug,1990,2,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
@@ -602,6 +625,9 @@ Wegzug,1990,2,Ausländer,W,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA
 Wegzug,1990,2,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1990-2
 Zuzug,1990,2,Ausländer,M,27,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1990-2
 Zuzug,1990,2,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
+Wegzug,1990,2,Ausländer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1990-2
+Zuzug,1990,2,Ausländer,M,27,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1990-2
+Zuzug,1990,2,Schweizer,W,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
 Zuzug,1990,2,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
 Zuzug,1990,2,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1990-2
 Zuzug,1990,2,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
@@ -661,6 +687,7 @@ Wegzug,1990,2,Ausländer,W,28,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1
 Wegzug,1990,2,Schweizer,W,28,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Schweizer,M,28,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1990-2
+Wegzug,1990,2,Schweizer,M,28,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1990-2
 Zuzug,1990,2,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
 Zuzug,1990,2,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1990-2
 Zuzug,1990,2,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1990-2
@@ -714,6 +741,8 @@ Wegzug,1990,2,Schweizer,W,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,199
 Wegzug,1990,2,Schweizer,M,29,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Schweizer,W,29,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Ausländer,M,29,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1990-2
+Zuzug,1990,2,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
+Zuzug,1990,2,Ausländer,M,29,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2
 Zuzug,1990,2,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1990-2
 Zuzug,1990,2,Ausländer,M,29,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2
 Zuzug,1990,2,Ausländer,M,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1990-2
@@ -805,6 +834,7 @@ Wegzug,1990,2,Schweizer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,
 Wegzug,1990,2,Schweizer,W,31,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Schweizer,M,31,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1990-2
 Zuzug,1990,2,Ausländer,M,31,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2
+Zuzug,1990,2,Ausländer,M,31,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2
 Zuzug,1990,2,Ausländer,M,32,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,1990-2
 Zuzug,1990,2,Ausländer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,1990-2
 Zuzug,1990,2,Schweizer,M,32,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1990-2
@@ -827,6 +857,7 @@ Wegzug,1990,2,Schweizer,W,32,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1990-
 Wegzug,1990,2,Schweizer,W,32,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Ausländer,M,32,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Ausländer,W,32,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,1990-2
+Wegzug,1990,2,Schweizer,W,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Schweizer,W,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1990-2
 Wegzug,1990,2,Schweizer,W,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1990-2
 Zuzug,1990,2,Ausländer,M,33,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1990-2

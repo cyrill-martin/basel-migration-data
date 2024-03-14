@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,1995,2,Ausländer,W,0,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1995-2
 Wegzug,1995,2,Schweizer,W,0,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Ausländer,M,0,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1995-2
@@ -17,6 +17,8 @@ Zuzug,1995,2,Ausländer,W,1,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Ma
 Wegzug,1995,2,Ausländer,M,1,Schweiz,Schweiz,BS,Rosental,unbekannt,NA,NA,NA,1995-2
 Zuzug,1995,2,Schweizer,W,1,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1995-2
 Wegzug,1995,2,Schweizer,M,1,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1995-2
+Zuzug,1995,2,Schweizer,W,1,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1995-2
+Wegzug,1995,2,Schweizer,M,1,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Ausländer,W,2,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,W,2,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1995-2
 Zuzug,1995,2,Ausländer,M,2,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
@@ -31,6 +33,8 @@ Zuzug,1995,2,Schweizer,W,2,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbas
 Zuzug,1995,2,Ausländer,M,2,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Rosental,1995-2
 Zuzug,1995,2,Schweizer,M,2,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1995-2
 Wegzug,1995,2,Schweizer,W,2,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1995-2
+Wegzug,1995,2,Schweizer,M,2,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1995-2
+Zuzug,1995,2,Schweizer,M,2,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1995-2
 Wegzug,1995,2,Schweizer,M,2,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1995-2
 Zuzug,1995,2,Schweizer,M,2,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1995-2
 Wegzug,1995,2,Schweizer,M,3,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1995-2
@@ -228,6 +232,7 @@ Wegzug,1995,2,Ausländer,W,21,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1995-
 Wegzug,1995,2,Ausländer,M,21,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,W,21,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1995-2
 Zuzug,1995,2,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Rosental,1995-2
+Zuzug,1995,2,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Rosental,1995-2
 Wegzug,1995,2,Ausländer,W,22,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Ausländer,W,22,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,W,22,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1995-2
@@ -264,6 +269,11 @@ Wegzug,1995,2,Schweizer,W,22,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1995-
 Wegzug,1995,2,Schweizer,W,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,W,22,Schweiz,Schweiz,BS,Hirzbrunnen,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,22,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1995-2
+Zuzug,1995,2,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
+Zuzug,1995,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1995-2
+Zuzug,1995,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1995-2
+Zuzug,1995,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1995-2
+Zuzug,1995,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
 Zuzug,1995,2,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
 Zuzug,1995,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1995-2
 Zuzug,1995,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1995-2
@@ -312,6 +322,8 @@ Wegzug,1995,2,Ausländer,M,23,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1995
 Wegzug,1995,2,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1995-2
 Zuzug,1995,2,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
 Wegzug,1995,2,Schweizer,M,23,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1995-2
+Zuzug,1995,2,Schweizer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
+Wegzug,1995,2,Schweizer,M,23,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,24,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,W,24,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1995-2
@@ -351,6 +363,9 @@ Wegzug,1995,2,Schweizer,M,24,Schweiz,Schweiz,BS,Bruderholz,unbekannt,NA,NA,NA,19
 Wegzug,1995,2,Ausländer,M,24,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Ausländer,W,24,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,W,24,Schweiz,Schweiz,BS,Wettstein,unbekannt,NA,NA,NA,1995-2
+Zuzug,1995,2,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1995-2
+Zuzug,1995,2,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1995-2
+Zuzug,1995,2,Ausländer,M,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
 Zuzug,1995,2,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1995-2
 Zuzug,1995,2,Schweizer,M,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1995-2
 Zuzug,1995,2,Ausländer,M,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
@@ -400,6 +415,7 @@ Wegzug,1995,2,Ausländer,M,25,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA
 Wegzug,1995,2,Ausländer,W,25,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,25,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1995-2
 Zuzug,1995,2,Ausländer,W,25,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1995-2
+Zuzug,1995,2,Ausländer,W,25,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Matthäus,1995-2
 Wegzug,1995,2,Ausländer,W,26,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,26,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,W,26,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1995-2
@@ -439,6 +455,8 @@ Wegzug,1995,2,Schweizer,M,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,
 Wegzug,1995,2,Ausländer,M,26,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,26,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,W,26,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1995-2
+Zuzug,1995,2,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
+Zuzug,1995,2,Ausländer,W,26,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1995-2
 Zuzug,1995,2,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
 Zuzug,1995,2,Ausländer,W,26,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1995-2
 Wegzug,1995,2,Ausländer,M,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1995-2
@@ -501,6 +519,8 @@ Wegzug,1995,2,Schweizer,M,27,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,19
 Wegzug,1995,2,Schweizer,W,27,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Ausländer,M,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1995-2
 Zuzug,1995,2,Ausländer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1995-2
+Wegzug,1995,2,Ausländer,M,27,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1995-2
+Zuzug,1995,2,Ausländer,M,27,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1995-2
 Wegzug,1995,2,Ausländer,M,28,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Ausländer,M,28,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Ausländer,W,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1995-2
@@ -560,6 +580,10 @@ Zuzug,1995,2,Ausländer,M,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,G
 Zuzug,1995,2,Ausländer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1995-2
 Zuzug,1995,2,Schweizer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1995-2
 Wegzug,1995,2,Schweizer,M,28,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1995-2
+Zuzug,1995,2,Ausländer,M,28,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1995-2
+Zuzug,1995,2,Ausländer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1995-2
+Zuzug,1995,2,Schweizer,W,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1995-2
+Wegzug,1995,2,Schweizer,M,28,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,29,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,29,Schweiz,Schweiz,BS,Riehen,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,W,29,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1995-2
@@ -613,6 +637,7 @@ Wegzug,1995,2,Schweizer,W,29,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,199
 Wegzug,1995,2,Schweizer,M,29,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,29,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,W,29,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1995-2
+Zuzug,1995,2,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1995-2
 Zuzug,1995,2,Schweizer,M,29,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1995-2
 Wegzug,1995,2,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Ausländer,M,30,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1995-2
@@ -708,6 +733,7 @@ Wegzug,1995,2,Schweizer,W,31,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,19
 Wegzug,1995,2,Schweizer,W,31,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Ausländer,M,31,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,31,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1995-2
+Wegzug,1995,2,Schweizer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,31,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1995-2
 Wegzug,1995,2,Schweizer,M,32,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1995-2

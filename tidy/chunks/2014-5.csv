@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2014,5,Ausländer,W,0,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Rosental,2014-5
 Zuzug,2014,5,Schweizer,W,0,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2014-5
 Wegzug,2014,5,Schweizer,W,0,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-5
@@ -31,6 +31,8 @@ Wegzug,2014,5,Ausländer,M,1,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,LU,NA,20
 Wegzug,2014,5,Ausländer,M,1,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-5
 Wegzug,2014,5,Ausländer,W,1,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2014-5
 Wegzug,2014,5,Schweizer,M,1,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2014-5
+Wegzug,2014,5,Schweizer,M,1,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BE,NA,2014-5
+Wegzug,2014,5,Schweizer,M,1,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BE,NA,2014-5
 Wegzug,2014,5,Schweizer,M,1,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BE,NA,2014-5
 Wegzug,2014,5,Schweizer,M,1,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BE,NA,2014-5
 Zuzug,2014,5,Ausländer,M,2,Europa (ohne Schweiz),Finnland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2014-5
@@ -101,6 +103,7 @@ Wegzug,2014,5,Schweizer,W,5,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),
 Wegzug,2014,5,Schweizer,M,5,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2014-5
 Wegzug,2014,5,Ausländer,M,5,Schweiz,Schweiz,BS,Kleinhüningen,Asien,Indien,Ausland,NA,2014-5
 Wegzug,2014,5,Ausländer,M,5,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Niederlande,Ausland,NA,2014-5
+Wegzug,2014,5,Ausländer,M,5,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Niederlande,Ausland,NA,2014-5
 Zuzug,2014,5,Schweizer,W,6,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2014-5
 Zuzug,2014,5,Ausländer,M,6,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2014-5
 Wegzug,2014,5,Ausländer,W,6,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Irland,Ausland,NA,2014-5
@@ -126,6 +129,7 @@ Zuzug,2014,5,Ausländer,W,9,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2
 Zuzug,2014,5,Ausländer,W,9,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2014-5
 Zuzug,2014,5,Ausländer,M,10,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2014-5
 Zuzug,2014,5,Schweizer,M,10,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2014-5
+Zuzug,2014,5,Ausländer,W,10,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2014-5
 Zuzug,2014,5,Ausländer,W,10,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2014-5
 Zuzug,2014,5,Ausländer,W,10,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2014-5
 Wegzug,2014,5,Ausländer,M,11,Schweiz,Schweiz,BS,Klybeck,unbekannt,unbekannt,unbekannt,NA,2014-5
@@ -382,6 +386,7 @@ Wegzug,2014,5,Schweizer,W,24,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,ZH,NA,20
 Wegzug,2014,5,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,AG,NA,2014-5
 Wegzug,2014,5,Schweizer,W,24,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,AG,NA,2014-5
 Zuzug,2014,5,Ausländer,W,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2014-5
+Zuzug,2014,5,Ausländer,W,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2014-5
 Wegzug,2014,5,Schweizer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2014-5
 Wegzug,2014,5,Schweizer,M,25,Schweiz,Schweiz,BS,Iselin,unbekannt,unbekannt,unbekannt,NA,2014-5
 Wegzug,2014,5,Ausländer,M,25,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,GE,NA,2014-5
@@ -630,6 +635,7 @@ Wegzug,2014,5,Schweizer,W,27,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,20
 Wegzug,2014,5,Ausländer,W,27,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2014-5
 Wegzug,2014,5,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,LU,NA,2014-5
 Wegzug,2014,5,Ausländer,W,27,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-5
+Zuzug,2014,5,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2014-5
 Zuzug,2014,5,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2014-5
 Wegzug,2014,5,Schweizer,W,28,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,2014-5
 Wegzug,2014,5,Ausländer,M,28,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2014-5
@@ -1027,6 +1033,7 @@ Wegzug,2014,5,Ausländer,W,32,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH
 Wegzug,2014,5,Ausländer,W,32,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2014-5
 Wegzug,2014,5,Ausländer,W,32,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-5
 Zuzug,2014,5,Ausländer,M,32,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2014-5
+Zuzug,2014,5,Ausländer,M,32,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2014-5
 Wegzug,2014,5,Schweizer,W,33,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,SZ,NA,2014-5
 Wegzug,2014,5,Ausländer,M,33,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2014-5
 Wegzug,2014,5,Ausländer,M,33,Schweiz,Schweiz,BS,Rosental,Asien,Indien,Ausland,NA,2014-5
@@ -1406,6 +1413,7 @@ Wegzug,2014,5,Schweizer,W,40,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BE,NA
 Wegzug,2014,5,Schweizer,W,40,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,SO,NA,2014-5
 Wegzug,2014,5,Schweizer,M,40,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2014-5
 Wegzug,2014,5,Ausländer,M,40,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2014-5
+Zuzug,2014,5,Ausländer,M,40,Afrika,Eritrea,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2014-5
 Zuzug,2014,5,Ausländer,M,40,Afrika,Eritrea,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2014-5
 Wegzug,2014,5,Ausländer,M,41,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Europa (ohne Schweiz),Oesterreich,Ausland,NA,2014-5
 Wegzug,2014,5,Ausländer,M,41,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Niederlande,Ausland,NA,2014-5

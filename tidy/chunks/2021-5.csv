@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2021,5,Schweizer,M,0,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2021-5
 Wegzug,2021,5,Schweizer,W,0,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,AG,NA,2021-5
 Wegzug,2021,5,Schweizer,M,0,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,NA,2021-5
@@ -137,6 +137,7 @@ Zuzug,2021,5,Schweizer,M,9,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Riehen,2021-
 Zuzug,2021,5,Ausländer,M,9,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Gundeldingen,2021-5
 Zuzug,2021,5,Ausländer,M,9,Schweiz,Schweiz,VD,NA,Schweiz,Schweiz,BS,Iselin,2021-5
 Zuzug,2021,5,Ausländer,M,9,Schweiz,Schweiz,VD,NA,Schweiz,Schweiz,BS,Iselin,2021-5
+Zuzug,2021,5,Ausländer,M,9,Schweiz,Schweiz,VD,NA,Schweiz,Schweiz,BS,Iselin,2021-5
 Zuzug,2021,5,Ausländer,M,10,Asien,Libanon,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2021-5
 Wegzug,2021,5,Ausländer,W,10,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2021-5
 Wegzug,2021,5,Ausländer,W,10,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,AG,NA,2021-5
@@ -174,6 +175,7 @@ Wegzug,2021,5,Ausländer,M,15,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,
 Wegzug,2021,5,Schweizer,M,15,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2021-5
 Wegzug,2021,5,Schweizer,W,15,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,SO,NA,2021-5
 Zuzug,2021,5,Schweizer,W,15,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,2021-5
+Zuzug,2021,5,Ausländer,M,15,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2021-5
 Zuzug,2021,5,Ausländer,M,15,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2021-5
 Zuzug,2021,5,Ausländer,M,15,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2021-5
 Zuzug,2021,5,Ausländer,M,16,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2021-5
@@ -315,6 +317,7 @@ Zuzug,2021,5,Ausländer,M,23,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schwe
 Zuzug,2021,5,Schweizer,M,23,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Iselin,2021-5
 Wegzug,2021,5,Schweizer,W,23,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SO,NA,2021-5
 Wegzug,2021,5,Ausländer,W,23,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Norwegen,Ausland,NA,2021-5
+Zuzug,2021,5,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2021-5
 Zuzug,2021,5,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2021-5
 Zuzug,2021,5,Ausländer,M,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2021-5
 Zuzug,2021,5,Ausländer,W,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2021-5
@@ -567,6 +570,7 @@ Wegzug,2021,5,Ausländer,M,27,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2
 Wegzug,2021,5,Schweizer,M,27,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BE,NA,2021-5
 Wegzug,2021,5,Ausländer,W,27,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,LU,NA,2021-5
 Zuzug,2021,5,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2021-5
+Zuzug,2021,5,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2021-5
 Zuzug,2021,5,Ausländer,W,28,Schweiz,Schweiz,FR,NA,Schweiz,Schweiz,BS,St. Alban,2021-5
 Zuzug,2021,5,Ausländer,W,28,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2021-5
 Zuzug,2021,5,Schweizer,M,28,Schweiz,Schweiz,NE,NA,Schweiz,Schweiz,BS,Klybeck,2021-5
@@ -643,6 +647,7 @@ Wegzug,2021,5,Ausländer,M,28,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL
 Wegzug,2021,5,Schweizer,M,28,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BE,NA,2021-5
 Wegzug,2021,5,Schweizer,M,28,Schweiz,Schweiz,BS,St. Alban,unbekannt,unbekannt,unbekannt,NA,2021-5
 Wegzug,2021,5,Schweizer,W,28,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,VS,NA,2021-5
+Wegzug,2021,5,Schweizer,W,28,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,VS,NA,2021-5
 Zuzug,2021,5,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2021-5
 Zuzug,2021,5,Ausländer,W,29,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2021-5
 Zuzug,2021,5,Ausländer,W,29,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,2021-5
@@ -707,6 +712,7 @@ Wegzug,2021,5,Schweizer,M,29,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,SO,NA,202
 Wegzug,2021,5,Ausländer,W,29,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2021-5
 Wegzug,2021,5,Ausländer,W,29,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,ZH,NA,2021-5
 Wegzug,2021,5,Ausländer,W,29,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Oesterreich,Ausland,NA,2021-5
+Zuzug,2021,5,Ausländer,W,29,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2021-5
 Zuzug,2021,5,Ausländer,W,29,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2021-5
 Zuzug,2021,5,Ausländer,W,30,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,St. Johann,2021-5
 Zuzug,2021,5,Schweizer,M,30,Unbekannt,Unbekannt,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2021-5
@@ -776,6 +782,7 @@ Wegzug,2021,5,Schweizer,W,30,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,202
 Wegzug,2021,5,Schweizer,W,30,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2021-5
 Wegzug,2021,5,Schweizer,W,30,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,ZH,NA,2021-5
 Wegzug,2021,5,Schweizer,M,30,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2021-5
+Wegzug,2021,5,Ausländer,W,30,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2021-5
 Wegzug,2021,5,Ausländer,W,30,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2021-5
 Zuzug,2021,5,Ausländer,M,31,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2021-5
 Zuzug,2021,5,Schweizer,M,31,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,2021-5
@@ -1177,6 +1184,7 @@ Wegzug,2021,5,Ausländer,M,36,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL
 Wegzug,2021,5,Ausländer,M,36,Schweiz,Schweiz,BS,Vorstädte,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2021-5
 Wegzug,2021,5,Ausländer,M,36,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,AG,NA,2021-5
 Wegzug,2021,5,Schweizer,M,36,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2021-5
+Wegzug,2021,5,Schweizer,M,36,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,2021-5
 Wegzug,2021,5,Schweizer,M,36,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,2021-5
 Zuzug,2021,5,Ausländer,M,37,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2021-5
 Zuzug,2021,5,Ausländer,W,37,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,2021-5

@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2018,10,Ausländer,W,0,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2018-10
 Zuzug,2018,10,Schweizer,M,0,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,St. Alban,2018-10
 Zuzug,2018,10,Schweizer,M,0,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Bachletten,2018-10
@@ -83,6 +83,7 @@ Zuzug,2018,10,Ausländer,M,3,Afrika,Kenia,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen
 Zuzug,2018,10,Schweizer,M,3,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2018-10
 Zuzug,2018,10,Schweizer,M,3,Lateinamerika und Karibik,Dominikanische Republik,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2018-10
 Wegzug,2018,10,Schweizer,M,3,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2018-10
+Wegzug,2018,10,Ausländer,W,3,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2018-10
 Wegzug,2018,10,Ausländer,W,3,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2018-10
 Zuzug,2018,10,Ausländer,W,4,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2018-10
 Zuzug,2018,10,Ausländer,M,4,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,2018-10
@@ -172,6 +173,7 @@ Wegzug,2018,10,Ausländer,M,12,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,ZH,NA,2
 Zuzug,2018,10,Ausländer,W,12,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Ausländer,M,12,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2018-10
 Wegzug,2018,10,Ausländer,W,12,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Oesterreich,Ausland,NA,2018-10
+Zuzug,2018,10,Ausländer,W,12,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Ausländer,W,12,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Wegzug,2018,10,Schweizer,M,13,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2018-10
 Zuzug,2018,10,Schweizer,W,13,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Breite,2018-10
@@ -412,6 +414,7 @@ Wegzug,2018,10,Schweizer,W,22,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekann
 Wegzug,2018,10,Ausländer,M,22,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,2018-10
 Wegzug,2018,10,Ausländer,W,22,Schweiz,Schweiz,BS,Bruderholz,unbekannt,unbekannt,unbekannt,NA,2018-10
 Zuzug,2018,10,Ausländer,M,22,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
+Zuzug,2018,10,Ausländer,M,22,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Ausländer,M,23,Unbekannt,Unbekannt,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Ausländer,M,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Ausländer,M,23,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
@@ -506,6 +509,12 @@ Wegzug,2018,10,Ausländer,W,23,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schwei
 Wegzug,2018,10,Ausländer,W,23,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Deutschland,Ausland,NA,2018-10
 Wegzug,2018,10,Ausländer,W,23,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Deutschland,Ausland,NA,2018-10
 Zuzug,2018,10,Ausländer,M,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2018-10
+Zuzug,2018,10,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2018-10
+Wegzug,2018,10,Ausländer,W,23,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2018-10
+Wegzug,2018,10,Ausländer,W,23,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2018-10
+Wegzug,2018,10,Ausländer,W,23,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Deutschland,Ausland,NA,2018-10
+Wegzug,2018,10,Ausländer,W,23,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Deutschland,Ausland,NA,2018-10
+Zuzug,2018,10,Ausländer,M,23,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2018-10
 Zuzug,2018,10,Ausländer,M,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Ausländer,M,24,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Ausländer,W,24,Schweiz,Schweiz,VS,NA,Schweiz,Schweiz,BS,Iselin,2018-10
@@ -589,6 +598,7 @@ Wegzug,2018,10,Schweizer,W,24,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,20
 Wegzug,2018,10,Schweizer,M,24,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2018-10
 Wegzug,2018,10,Schweizer,M,24,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,AG,NA,2018-10
 Wegzug,2018,10,Ausländer,W,24,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2018-10
+Zuzug,2018,10,Ausländer,M,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Ausländer,M,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2018-10
 Zuzug,2018,10,Ausländer,M,25,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Clara,2018-10
@@ -697,6 +707,8 @@ Wegzug,2018,10,Schweizer,M,25,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL
 Wegzug,2018,10,Schweizer,W,25,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,AG,NA,2018-10
 Zuzug,2018,10,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2018-10
 Zuzug,2018,10,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2018-10
+Zuzug,2018,10,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2018-10
+Zuzug,2018,10,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2018-10
 Zuzug,2018,10,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2018-10
 Zuzug,2018,10,Ausländer,M,26,Schweiz,Schweiz,ZG,NA,Schweiz,Schweiz,BS,Gundeldingen,2018-10
 Zuzug,2018,10,Schweizer,M,26,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Iselin,2018-10
@@ -801,6 +813,8 @@ Wegzug,2018,10,Ausländer,M,26,Schweiz,Schweiz,BS,Altstadt Grossbasel,Europa (oh
 Wegzug,2018,10,Ausländer,W,26,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2018-10
 Wegzug,2018,10,Schweizer,M,26,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BE,NA,2018-10
 Wegzug,2018,10,Schweizer,M,26,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,ZH,NA,2018-10
+Zuzug,2018,10,Ausländer,M,26,Asien,Iran,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2018-10
+Zuzug,2018,10,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2018-10
 Zuzug,2018,10,Ausländer,M,26,Asien,Iran,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2018-10
 Zuzug,2018,10,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2018-10
 Zuzug,2018,10,Ausländer,M,27,Europa (ohne Schweiz),Niederlande,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2018-10
@@ -996,6 +1010,8 @@ Wegzug,2018,10,Schweizer,W,28,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL
 Wegzug,2018,10,Schweizer,W,28,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2018-10
 Zuzug,2018,10,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2018-10
 Zuzug,2018,10,Ausländer,M,28,Europa (ohne Schweiz),Rumänien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2018-10
+Zuzug,2018,10,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2018-10
+Zuzug,2018,10,Ausländer,M,28,Europa (ohne Schweiz),Rumänien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2018-10
 Zuzug,2018,10,Ausländer,W,29,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2018-10
 Zuzug,2018,10,Ausländer,W,29,Asien,China,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2018-10
 Zuzug,2018,10,Ausländer,W,29,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Matthäus,2018-10
@@ -1163,6 +1179,7 @@ Wegzug,2018,10,Schweizer,M,30,Schweiz,Schweiz,BS,Bettingen,unbekannt,unbekannt,u
 Wegzug,2018,10,Schweizer,W,30,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,NA,2018-10
 Wegzug,2018,10,Schweizer,W,30,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,BL,NA,2018-10
 Wegzug,2018,10,Ausländer,W,30,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,2018-10
+Zuzug,2018,10,Ausländer,W,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2018-10
 Zuzug,2018,10,Ausländer,W,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2018-10
 Zuzug,2018,10,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2018-10
 Zuzug,2018,10,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2018-10
@@ -1602,6 +1619,7 @@ Wegzug,2018,10,Ausländer,W,37,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schw
 Wegzug,2018,10,Ausländer,W,37,Schweiz,Schweiz,BS,Am Ring,Lateinamerika und Karibik,Brasilien,Ausland,NA,2018-10
 Wegzug,2018,10,Schweizer,M,37,Schweiz,Schweiz,BS,Gotthelf,unbekannt,unbekannt,unbekannt,NA,2018-10
 Zuzug,2018,10,Ausländer,W,37,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
+Zuzug,2018,10,Ausländer,W,37,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Ausländer,M,38,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2018-10
 Zuzug,2018,10,Ausländer,M,38,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Am Ring,2018-10
 Zuzug,2018,10,Schweizer,M,38,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2018-10
@@ -2031,6 +2049,7 @@ Zuzug,2018,10,Schweizer,W,53,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundelding
 Zuzug,2018,10,Ausländer,W,53,Europa (ohne Schweiz),Niederlande,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Wegzug,2018,10,Schweizer,M,53,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,VS,NA,2018-10
 Zuzug,2018,10,Schweizer,W,53,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2018-10
+Zuzug,2018,10,Schweizer,W,53,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2018-10
 Zuzug,2018,10,Ausländer,M,54,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,2018-10
 Zuzug,2018,10,Ausländer,W,54,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2018-10
 Zuzug,2018,10,Ausländer,W,54,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2018-10
@@ -2161,6 +2180,7 @@ Wegzug,2018,10,Schweizer,W,64,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,N
 Zuzug,2018,10,Schweizer,W,64,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Schweizer,W,64,Europa (ohne Schweiz),Türkei,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2018-10
 Wegzug,2018,10,Schweizer,W,64,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2018-10
+Zuzug,2018,10,Schweizer,W,64,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Schweizer,W,64,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2018-10
 Zuzug,2018,10,Schweizer,W,65,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Gundeldingen,2018-10
 Wegzug,2018,10,Ausländer,M,65,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Deutschland,Ausland,NA,2018-10

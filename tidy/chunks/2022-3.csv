@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2022,3,Ausländer,M,0,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2022-3
 Wegzug,2022,3,Schweizer,W,0,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2022-3
 Wegzug,2022,3,Ausländer,W,0,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Frankreich,Ausland,NA,2022-3
@@ -58,6 +58,8 @@ Wegzug,2022,3,Ausländer,W,1,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),
 Wegzug,2022,3,Schweizer,M,1,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2022-3
 Zuzug,2022,3,Ausländer,M,1,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,2022-3
 Wegzug,2022,3,Ausländer,M,1,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2022-3
+Zuzug,2022,3,Ausländer,M,1,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,2022-3
+Wegzug,2022,3,Ausländer,M,1,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2022-3
 Zuzug,2022,3,Ausländer,M,2,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Iselin,2022-3
 Zuzug,2022,3,Schweizer,M,2,Schweiz,Schweiz,NE,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,W,2,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
@@ -96,6 +98,7 @@ Zuzug,2022,3,Schweizer,W,2,Europa (ohne Schweiz),Norwegen,Unbekannt,NA,Schweiz,S
 Zuzug,2022,3,Ausländer,W,2,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
 Wegzug,2022,3,Schweizer,W,2,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,VD,NA,2022-3
 Zuzug,2022,3,Ausländer,W,2,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
+Zuzug,2022,3,Ausländer,W,2,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Zuzug,2022,3,Schweizer,W,3,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,2022-3
 Zuzug,2022,3,Ausländer,M,3,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,M,3,Unbekannt,Unbekannt,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
@@ -127,6 +130,7 @@ Zuzug,2022,3,Ausländer,W,3,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,S
 Wegzug,2022,3,Schweizer,W,3,Schweiz,Schweiz,BS,Iselin,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2022-3
 Wegzug,2022,3,Ausländer,M,3,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2022-3
 Wegzug,2022,3,Ausländer,M,3,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SO,NA,2022-3
+Wegzug,2022,3,Schweizer,W,3,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2022-3
 Wegzug,2022,3,Schweizer,W,3,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2022-3
 Zuzug,2022,3,Ausländer,M,4,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
 Zuzug,2022,3,Ausländer,M,4,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
@@ -173,6 +177,8 @@ Wegzug,2022,3,Schweizer,W,4,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,SO,NA,202
 Wegzug,2022,3,Ausländer,M,4,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Europa (ohne Schweiz),Deutschland,Ausland,NA,2022-3
 Wegzug,2022,3,Ausländer,M,4,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2022-3
 Wegzug,2022,3,Schweizer,M,4,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,SO,NA,2022-3
+Zuzug,2022,3,Ausländer,M,4,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,2022-3
+Zuzug,2022,3,Ausländer,M,4,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
 Zuzug,2022,3,Ausländer,M,4,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,2022-3
 Zuzug,2022,3,Ausländer,M,4,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
 Zuzug,2022,3,Ausländer,W,5,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
@@ -262,6 +268,7 @@ Zuzug,2022,3,Ausländer,W,6,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schwe
 Wegzug,2022,3,Schweizer,W,6,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SO,NA,2022-3
 Wegzug,2022,3,Ausländer,W,6,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2022-3
 Wegzug,2022,3,Schweizer,M,6,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,SO,NA,2022-3
+Zuzug,2022,3,Ausländer,M,6,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
 Zuzug,2022,3,Ausländer,M,6,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
 Zuzug,2022,3,Ausländer,W,7,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,2022-3
 Zuzug,2022,3,Ausländer,M,7,Europa (ohne Schweiz),Kosovo,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2022-3
@@ -362,6 +369,7 @@ Zuzug,2022,3,Ausländer,M,8,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,S
 Zuzug,2022,3,Ausländer,M,8,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2022-3
 Zuzug,2022,3,Ausländer,M,8,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Wegzug,2022,3,Schweizer,W,8,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,AG,NA,2022-3
+Wegzug,2022,3,Schweizer,W,8,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,AG,NA,2022-3
 Zuzug,2022,3,Ausländer,W,9,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2022-3
 Zuzug,2022,3,Ausländer,M,9,Europa (ohne Schweiz),Russland,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2022-3
 Zuzug,2022,3,Ausländer,W,9,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2022-3
@@ -444,6 +452,7 @@ Zuzug,2022,3,Ausländer,W,10,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,
 Zuzug,2022,3,Ausländer,W,10,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2022-3
 Wegzug,2022,3,Schweizer,W,10,Schweiz,Schweiz,BS,Am Ring,Asien,Israel,Ausland,NA,2022-3
 Zuzug,2022,3,Ausländer,M,10,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
+Zuzug,2022,3,Ausländer,M,10,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,M,11,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,W,11,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2022-3
 Zuzug,2022,3,Ausländer,M,11,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
@@ -476,6 +485,7 @@ Wegzug,2022,3,Ausländer,M,11,Schweiz,Schweiz,BS,St. Alban,unbekannt,unbekannt,u
 Wegzug,2022,3,Ausländer,M,11,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Spanien,Ausland,NA,2022-3
 Wegzug,2022,3,Ausländer,W,11,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2022-3
 Zuzug,2022,3,Ausländer,W,11,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2022-3
+Zuzug,2022,3,Ausländer,W,11,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2022-3
 Zuzug,2022,3,Ausländer,M,12,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2022-3
 Zuzug,2022,3,Ausländer,M,12,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
 Zuzug,2022,3,Ausländer,W,12,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
@@ -501,6 +511,7 @@ Zuzug,2022,3,Ausländer,W,12,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,
 Wegzug,2022,3,Ausländer,M,12,Schweiz,Schweiz,BS,St. Alban,unbekannt,unbekannt,unbekannt,NA,2022-3
 Wegzug,2022,3,Ausländer,M,12,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,AG,NA,2022-3
 Wegzug,2022,3,Ausländer,W,12,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SO,NA,2022-3
+Zuzug,2022,3,Ausländer,M,12,Unbekannt,Unbekannt,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,M,12,Unbekannt,Unbekannt,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,M,13,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2022-3
 Zuzug,2022,3,Ausländer,M,13,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2022-3
@@ -684,6 +695,8 @@ Zuzug,2022,3,Ausländer,W,18,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,
 Zuzug,2022,3,Ausländer,W,18,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,W,18,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,M,18,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
+Zuzug,2022,3,Ausländer,W,18,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
+Zuzug,2022,3,Ausländer,M,18,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
 Zuzug,2022,3,Schweizer,M,19,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Matthäus,2022-3
 Zuzug,2022,3,Ausländer,M,19,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2022-3
 Zuzug,2022,3,Schweizer,W,19,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
@@ -717,6 +730,7 @@ Zuzug,2022,3,Ausländer,W,19,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,
 Zuzug,2022,3,Ausländer,W,19,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2022-3
 Wegzug,2022,3,Schweizer,M,19,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2022-3
 Zuzug,2022,3,Ausländer,W,19,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
+Zuzug,2022,3,Ausländer,W,19,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
 Zuzug,2022,3,Ausländer,W,20,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
 Zuzug,2022,3,Schweizer,M,20,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Riehen,2022-3
 Zuzug,2022,3,Schweizer,W,20,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
@@ -745,6 +759,8 @@ Zuzug,2022,3,Ausländer,W,20,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,
 Zuzug,2022,3,Ausländer,M,20,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
 Wegzug,2022,3,Schweizer,W,20,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BE,NA,2022-3
 Wegzug,2022,3,Ausländer,M,20,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Spanien,Ausland,NA,2022-3
+Zuzug,2022,3,Schweizer,W,20,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
+Zuzug,2022,3,Ausländer,W,20,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Zuzug,2022,3,Schweizer,W,20,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
 Zuzug,2022,3,Ausländer,W,20,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Zuzug,2022,3,Schweizer,M,21,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Matthäus,2022-3
@@ -820,6 +836,7 @@ Zuzug,2022,3,Ausländer,W,22,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,
 Zuzug,2022,3,Ausländer,W,22,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,M,22,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Wegzug,2022,3,Ausländer,M,22,Schweiz,Schweiz,BS,Iselin,unbekannt,unbekannt,unbekannt,NA,2022-3
+Wegzug,2022,3,Ausländer,M,22,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,2022-3
 Wegzug,2022,3,Ausländer,M,22,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,2022-3
 Zuzug,2022,3,Ausländer,M,23,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Klybeck,2022-3
 Zuzug,2022,3,Ausländer,W,23,Europa (ohne Schweiz),Türkei,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2022-3
@@ -947,6 +964,7 @@ Wegzug,2022,3,Ausländer,W,24,Schweiz,Schweiz,BS,Clara,Asien,Irak,Ausland,NA,202
 Wegzug,2022,3,Ausländer,M,24,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unbekannt,NA,2022-3
 Wegzug,2022,3,Schweizer,W,24,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SG,NA,2022-3
 Zuzug,2022,3,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
+Zuzug,2022,3,Ausländer,W,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Zuzug,2022,3,Ausländer,M,25,Afrika,Südafrika,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
 Zuzug,2022,3,Ausländer,M,25,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2022-3
@@ -1027,6 +1045,7 @@ Wegzug,2022,3,Ausländer,M,25,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,N
 Wegzug,2022,3,Ausländer,M,25,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Deutschland,Ausland,NA,2022-3
 Wegzug,2022,3,Schweizer,M,25,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,AG,NA,2022-3
 Wegzug,2022,3,Schweizer,W,25,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,GR,NA,2022-3
+Zuzug,2022,3,Ausländer,W,25,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2022-3
 Zuzug,2022,3,Ausländer,W,25,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2022-3
 Zuzug,2022,3,Ausländer,M,26,Europa (ohne Schweiz),Dänemark,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Zuzug,2022,3,Ausländer,W,26,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,2022-3
@@ -1144,6 +1163,8 @@ Wegzug,2022,3,Ausländer,W,26,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,
 Wegzug,2022,3,Schweizer,W,26,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,AG,NA,2022-3
 Zuzug,2022,3,Ausländer,W,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2022-3
 Zuzug,2022,3,Schweizer,W,26,Schweiz,Schweiz,ZG,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
+Zuzug,2022,3,Ausländer,W,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2022-3
+Zuzug,2022,3,Schweizer,W,26,Schweiz,Schweiz,ZG,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Zuzug,2022,3,Ausländer,M,27,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,Iselin,2022-3
 Zuzug,2022,3,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2022-3
 Zuzug,2022,3,Ausländer,M,27,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
@@ -1240,6 +1261,9 @@ Wegzug,2022,3,Schweizer,M,27,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BL,N
 Wegzug,2022,3,Schweizer,W,27,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2022-3
 Wegzug,2022,3,Schweizer,W,27,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2022-3
 Wegzug,2022,3,Schweizer,W,27,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2022-3
+Zuzug,2022,3,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2022-3
+Zuzug,2022,3,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2022-3
+Zuzug,2022,3,Ausländer,W,27,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
 Zuzug,2022,3,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2022-3
 Zuzug,2022,3,Ausländer,W,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2022-3
 Zuzug,2022,3,Ausländer,W,27,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
@@ -1616,6 +1640,7 @@ Wegzug,2022,3,Schweizer,M,31,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,VD,
 Wegzug,2022,3,Schweizer,M,31,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,SG,NA,2022-3
 Wegzug,2022,3,Schweizer,M,31,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,NA,2022-3
 Wegzug,2022,3,Ausländer,W,31,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2022-3
+Wegzug,2022,3,Ausländer,W,31,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2022-3
 Zuzug,2022,3,Ausländer,M,32,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2022-3
 Zuzug,2022,3,Ausländer,M,32,Europa (ohne Schweiz),Rumänien,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2022-3
 Zuzug,2022,3,Ausländer,W,32,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Matthäus,2022-3
@@ -1719,6 +1744,7 @@ Wegzug,2022,3,Schweizer,W,32,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SO,NA
 Wegzug,2022,3,Ausländer,M,32,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Frankreich,Ausland,NA,2022-3
 Wegzug,2022,3,Ausländer,W,32,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2022-3
 Wegzug,2022,3,Schweizer,W,32,Schweiz,Schweiz,BS,St. Johann,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2022-3
+Zuzug,2022,3,Ausländer,M,32,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2022-3
 Zuzug,2022,3,Ausländer,M,32,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Clara,2022-3
 Zuzug,2022,3,Ausländer,M,33,Schweiz,Schweiz,ZG,NA,Schweiz,Schweiz,BS,Vorstädte,2022-3
 Zuzug,2022,3,Ausländer,W,33,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
@@ -1902,6 +1928,8 @@ Wegzug,2022,3,Ausländer,M,34,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA
 Wegzug,2022,3,Ausländer,W,34,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Frankreich,Ausland,NA,2022-3
 Wegzug,2022,3,Schweizer,W,34,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2022-3
 Wegzug,2022,3,Ausländer,M,34,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Estland,Ausland,NA,2022-3
+Zuzug,2022,3,Ausländer,W,34,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
+Wegzug,2022,3,Ausländer,W,34,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2022-3
 Zuzug,2022,3,Ausländer,W,34,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Wegzug,2022,3,Ausländer,W,34,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2022-3
 Zuzug,2022,3,Ausländer,M,35,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
@@ -2145,6 +2173,8 @@ Wegzug,2022,3,Ausländer,W,37,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz)
 Wegzug,2022,3,Ausländer,W,37,Schweiz,Schweiz,BS,St. Alban,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2022-3
 Zuzug,2022,3,Ausländer,W,37,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
 Zuzug,2022,3,Ausländer,W,37,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2022-3
+Zuzug,2022,3,Ausländer,W,37,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
+Zuzug,2022,3,Ausländer,W,37,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2022-3
 Zuzug,2022,3,Ausländer,M,38,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2022-3
 Zuzug,2022,3,Ausländer,M,38,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Zuzug,2022,3,Ausländer,M,38,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,2022-3
@@ -2218,6 +2248,9 @@ Wegzug,2022,3,Schweizer,W,38,Schweiz,Schweiz,BS,Bettingen,Schweiz,Schweiz,AG,NA,
 Wegzug,2022,3,Ausländer,W,38,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,TI,NA,2022-3
 Wegzug,2022,3,Schweizer,M,38,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2022-3
 Wegzug,2022,3,Ausländer,M,38,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,NA,2022-3
+Zuzug,2022,3,Ausländer,W,38,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
+Zuzug,2022,3,Ausländer,W,38,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2022-3
+Zuzug,2022,3,Ausländer,W,38,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
 Zuzug,2022,3,Ausländer,W,38,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,W,38,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2022-3
 Zuzug,2022,3,Ausländer,W,38,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
@@ -2312,6 +2345,8 @@ Wegzug,2022,3,Ausländer,M,39,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,
 Wegzug,2022,3,Ausländer,W,39,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SO,NA,2022-3
 Wegzug,2022,3,Schweizer,M,39,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Deutschland,Ausland,NA,2022-3
 Wegzug,2022,3,Ausländer,W,39,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Italien,Ausland,NA,2022-3
+Zuzug,2022,3,Ausländer,W,39,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
+Zuzug,2022,3,Schweizer,W,39,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,W,39,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
 Zuzug,2022,3,Schweizer,W,39,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,M,40,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2022-3
@@ -2417,6 +2452,7 @@ Wegzug,2022,3,Ausländer,W,41,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),S
 Wegzug,2022,3,Schweizer,M,41,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SG,NA,2022-3
 Wegzug,2022,3,Schweizer,M,41,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,2022-3
 Zuzug,2022,3,Ausländer,W,41,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
+Zuzug,2022,3,Ausländer,W,41,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,M,42,Europa (ohne Schweiz),Belgien,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2022-3
 Zuzug,2022,3,Ausländer,W,42,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2022-3
 Zuzug,2022,3,Ausländer,W,42,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
@@ -2470,6 +2506,7 @@ Zuzug,2022,3,Ausländer,W,42,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,
 Zuzug,2022,3,Ausländer,W,42,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2022-3
 Zuzug,2022,3,Ausländer,M,42,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2022-3
 Wegzug,2022,3,Schweizer,M,42,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2022-3
+Wegzug,2022,3,Ausländer,M,42,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2022-3
 Wegzug,2022,3,Ausländer,M,42,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2022-3
 Zuzug,2022,3,Schweizer,W,43,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2022-3
 Zuzug,2022,3,Ausländer,W,43,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2022-3
@@ -2613,6 +2650,7 @@ Wegzug,2022,3,Ausländer,M,45,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz
 Wegzug,2022,3,Schweizer,W,45,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2022-3
 Wegzug,2022,3,Schweizer,W,45,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,LU,NA,2022-3
 Wegzug,2022,3,Ausländer,M,45,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Schweden,Ausland,NA,2022-3
+Wegzug,2022,3,Ausländer,M,45,Schweiz,Schweiz,BS,Klybeck,unbekannt,unbekannt,unbekannt,NA,2022-3
 Wegzug,2022,3,Ausländer,M,45,Schweiz,Schweiz,BS,Klybeck,unbekannt,unbekannt,unbekannt,NA,2022-3
 Zuzug,2022,3,Ausländer,W,46,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2022-3
 Zuzug,2022,3,Ausländer,W,46,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2022-3
@@ -2760,6 +2798,7 @@ Zuzug,2022,3,Ausländer,W,49,Unbekannt,Unbekannt,Unbekannt,NA,Schweiz,Schweiz,BS
 Zuzug,2022,3,Ausländer,W,49,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2022-3
 Wegzug,2022,3,Ausländer,M,49,Schweiz,Schweiz,BS,Clara,unbekannt,unbekannt,unbekannt,NA,2022-3
 Wegzug,2022,3,Schweizer,W,49,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2022-3
+Zuzug,2022,3,Ausländer,W,49,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,W,49,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2022-3
 Zuzug,2022,3,Ausländer,W,50,Unbekannt,Unbekannt,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2022-3
 Zuzug,2022,3,Ausländer,W,50,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2022-3
@@ -3033,6 +3072,7 @@ Wegzug,2022,3,Ausländer,W,60,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),
 Wegzug,2022,3,Ausländer,W,60,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Frankreich,Ausland,NA,2022-3
 Wegzug,2022,3,Ausländer,W,60,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2022-3
 Zuzug,2022,3,Ausländer,W,60,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
+Zuzug,2022,3,Ausländer,W,60,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Zuzug,2022,3,Ausländer,M,61,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Klybeck,2022-3
 Zuzug,2022,3,Schweizer,M,61,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,2022-3
 Zuzug,2022,3,Schweizer,W,61,Schweiz,Schweiz,TG,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2022-3
@@ -3064,6 +3104,7 @@ Zuzug,2022,3,Ausländer,W,61,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,
 Wegzug,2022,3,Ausländer,W,61,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Portugal,Ausland,NA,2022-3
 Wegzug,2022,3,Ausländer,W,61,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,AG,NA,2022-3
 Wegzug,2022,3,Schweizer,W,61,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2022-3
+Zuzug,2022,3,Ausländer,M,61,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2022-3
 Zuzug,2022,3,Ausländer,M,61,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2022-3
 Zuzug,2022,3,Schweizer,M,62,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,2022-3
 Zuzug,2022,3,Ausländer,M,62,Europa (ohne Schweiz),Polen,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2022-3
@@ -3195,6 +3236,7 @@ Zuzug,2022,3,Ausländer,M,67,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Altstadt G
 Zuzug,2022,3,Ausländer,W,67,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2022-3
 Wegzug,2022,3,Ausländer,M,67,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Türkei,Ausland,NA,2022-3
 Wegzug,2022,3,Schweizer,W,67,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2022-3
+Zuzug,2022,3,Ausländer,W,67,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
 Zuzug,2022,3,Ausländer,W,67,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2022-3
 Zuzug,2022,3,Ausländer,M,68,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2022-3
 Zuzug,2022,3,Ausländer,W,68,Europa (ohne Schweiz),Ukraine,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2022-3

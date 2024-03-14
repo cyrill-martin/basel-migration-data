@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Zuzug,2017,6,Ausländer,M,0,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,2017-6
 Zuzug,2017,6,Ausländer,W,0,Schweiz,Schweiz,TG,NA,Schweiz,Schweiz,BS,Gundeldingen,2017-6
 Zuzug,2017,6,Schweizer,M,0,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,2017-6
@@ -33,6 +33,7 @@ Wegzug,2017,6,Schweizer,W,1,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,NE,NA,2
 Wegzug,2017,6,Ausländer,M,1,Schweiz,Schweiz,BS,Rosental,Asien,Indien,Ausland,NA,2017-6
 Wegzug,2017,6,Ausländer,M,1,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Deutschland,Ausland,NA,2017-6
 Wegzug,2017,6,Schweizer,W,1,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,AG,NA,2017-6
+Wegzug,2017,6,Schweizer,W,1,Schweiz,Schweiz,BS,Am Ring,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2017-6
 Wegzug,2017,6,Schweizer,W,1,Schweiz,Schweiz,BS,Am Ring,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2017-6
 Zuzug,2017,6,Ausländer,M,2,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2017-6
 Zuzug,2017,6,Schweizer,W,2,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,2017-6
@@ -142,6 +143,8 @@ Wegzug,2017,6,Ausländer,W,5,Schweiz,Schweiz,BS,Rosental,Asien,Malaysia,Ausland,
 Wegzug,2017,6,Ausländer,W,5,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Frankreich,Ausland,NA,2017-6
 Wegzug,2017,6,Schweizer,M,5,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2017-6
 Wegzug,2017,6,Ausländer,M,5,Schweiz,Schweiz,BS,Matthäus,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2017-6
+Zuzug,2017,6,Ausländer,W,5,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,2017-6
+Wegzug,2017,6,Ausländer,M,5,Schweiz,Schweiz,BS,St. Alban,Afrika,Ghana,Ausland,NA,2017-6
 Zuzug,2017,6,Ausländer,W,5,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,2017-6
 Wegzug,2017,6,Ausländer,M,5,Schweiz,Schweiz,BS,St. Alban,Afrika,Ghana,Ausland,NA,2017-6
 Zuzug,2017,6,Ausländer,M,6,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bruderholz,2017-6
@@ -260,6 +263,7 @@ Zuzug,2017,6,Ausländer,W,14,Europa (ohne Schweiz),Russland,Unbekannt,NA,Schweiz
 Zuzug,2017,6,Ausländer,M,14,Asien,Syrien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2017-6
 Zuzug,2017,6,Ausländer,M,14,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,2017-6
 Wegzug,2017,6,Ausländer,M,14,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,2017-6
+Zuzug,2017,6,Schweizer,W,14,Asien,Pakistan,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2017-6
 Zuzug,2017,6,Schweizer,W,14,Asien,Pakistan,Unbekannt,NA,Schweiz,Schweiz,BS,Kleinhüningen,2017-6
 Wegzug,2017,6,Ausländer,M,15,Schweiz,Schweiz,BS,Bruderholz,Nordamerika,Kanada,Ausland,NA,2017-6
 Wegzug,2017,6,Ausländer,W,15,Schweiz,Schweiz,BS,Gundeldingen,Asien,Indien,Ausland,NA,2017-6
@@ -720,6 +724,7 @@ Wegzug,2017,6,Ausländer,W,26,Schweiz,Schweiz,BS,St. Alban,Asien,Indien,Ausland,
 Wegzug,2017,6,Ausländer,W,26,Schweiz,Schweiz,BS,Iselin,unbekannt,unbekannt,unbekannt,NA,2017-6
 Wegzug,2017,6,Ausländer,M,26,Schweiz,Schweiz,BS,Gundeldingen,Nordamerika,Kanada,Ausland,NA,2017-6
 Zuzug,2017,6,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2017-6
+Zuzug,2017,6,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2017-6
 Zuzug,2017,6,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2017-6
 Zuzug,2017,6,Ausländer,M,27,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2017-6
 Zuzug,2017,6,Ausländer,M,27,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,2017-6
@@ -806,6 +811,7 @@ Wegzug,2017,6,Schweizer,M,27,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,AG,NA,
 Wegzug,2017,6,Schweizer,W,27,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2017-6
 Wegzug,2017,6,Schweizer,W,27,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,BL,NA,2017-6
 Wegzug,2017,6,Ausländer,M,27,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Polen,Ausland,NA,2017-6
+Zuzug,2017,6,Schweizer,M,27,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2017-6
 Zuzug,2017,6,Schweizer,M,27,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2017-6
 Zuzug,2017,6,Ausländer,M,28,Europa (ohne Schweiz),Slowenien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2017-6
 Zuzug,2017,6,Ausländer,W,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2017-6
@@ -1035,6 +1041,7 @@ Wegzug,2017,6,Schweizer,W,30,Schweiz,Schweiz,BS,Am Ring,Ozeanien,Australien,Ausl
 Wegzug,2017,6,Ausländer,W,30,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2017-6
 Wegzug,2017,6,Ausländer,W,30,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,AG,NA,2017-6
 Wegzug,2017,6,Schweizer,W,30,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,AG,NA,2017-6
+Zuzug,2017,6,Ausländer,W,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2017-6
 Zuzug,2017,6,Ausländer,W,30,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2017-6
 Zuzug,2017,6,Ausländer,W,31,Europa (ohne Schweiz),Niederlande,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2017-6
 Zuzug,2017,6,Ausländer,W,31,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Vorstädte,2017-6
@@ -1520,6 +1527,7 @@ Wegzug,2017,6,Ausländer,M,37,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,ZH,NA,
 Wegzug,2017,6,Ausländer,W,37,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2017-6
 Wegzug,2017,6,Schweizer,M,37,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2017-6
 Wegzug,2017,6,Schweizer,W,37,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2017-6
+Zuzug,2017,6,Ausländer,M,37,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2017-6
 Zuzug,2017,6,Ausländer,M,37,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2017-6
 Zuzug,2017,6,Schweizer,M,38,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,2017-6
 Zuzug,2017,6,Schweizer,W,38,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gotthelf,2017-6
@@ -2065,6 +2073,7 @@ Zuzug,2017,6,Schweizer,W,59,Asien,Philippinen,Unbekannt,NA,Schweiz,Schweiz,BS,Kl
 Zuzug,2017,6,Ausländer,M,59,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Gundeldingen,2017-6
 Zuzug,2017,6,Ausländer,W,59,Europa (ohne Schweiz),Ungarn,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2017-6
 Wegzug,2017,6,Ausländer,M,59,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Spanien,Ausland,NA,2017-6
+Zuzug,2017,6,Schweizer,W,59,Asien,Philippinen,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2017-6
 Zuzug,2017,6,Schweizer,W,59,Asien,Philippinen,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2017-6
 Zuzug,2017,6,Schweizer,W,60,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Hirzbrunnen,2017-6
 Zuzug,2017,6,Ausländer,W,60,Schweiz,Schweiz,ZG,NA,Schweiz,Schweiz,BS,Klybeck,2017-6

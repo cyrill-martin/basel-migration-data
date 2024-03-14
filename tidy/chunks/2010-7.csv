@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2010,7,Schweizer,W,0,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2010-7
 Wegzug,2010,7,Schweizer,W,0,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,2010-7
 Wegzug,2010,7,Ausländer,M,0,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Frankreich,Ausland,NA,2010-7
@@ -70,6 +70,7 @@ Wegzug,2010,7,Schweizer,M,2,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BE,NA,
 Wegzug,2010,7,Ausländer,W,2,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Deutschland,Ausland,NA,2010-7
 Wegzug,2010,7,Ausländer,M,2,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,VS,NA,2010-7
 Wegzug,2010,7,Schweizer,M,2,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2010-7
+Wegzug,2010,7,Schweizer,W,2,Schweiz,Schweiz,BS,St. Johann,Afrika,Lesotho,Ausland,NA,2010-7
 Wegzug,2010,7,Schweizer,W,2,Schweiz,Schweiz,BS,St. Johann,Afrika,Lesotho,Ausland,NA,2010-7
 Wegzug,2010,7,Ausländer,W,3,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2010-7
 Wegzug,2010,7,Schweizer,M,3,Schweiz,Schweiz,BS,Bettingen,Schweiz,Schweiz,GR,NA,2010-7
@@ -278,6 +279,7 @@ Wegzug,2010,7,Ausländer,W,15,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,N
 Zuzug,2010,7,Ausländer,W,15,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2010-7
 Zuzug,2010,7,Schweizer,M,15,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,Riehen,2010-7
 Wegzug,2010,7,Schweizer,M,15,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,TI,NA,2010-7
+Zuzug,2010,7,Ausländer,W,15,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2010-7
 Zuzug,2010,7,Ausländer,W,15,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2010-7
 Wegzug,2010,7,Ausländer,M,16,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2010-7
 Wegzug,2010,7,Schweizer,M,16,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2010-7
@@ -507,6 +509,8 @@ Wegzug,2010,7,Schweizer,W,22,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,u
 Wegzug,2010,7,Schweizer,W,22,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2010-7
 Wegzug,2010,7,Ausländer,W,22,Schweiz,Schweiz,BS,Wettstein,unbekannt,unbekannt,unbekannt,NA,2010-7
 Zuzug,2010,7,Ausländer,W,22,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2010-7
+Wegzug,2010,7,Ausländer,W,22,Schweiz,Schweiz,BS,Wettstein,unbekannt,unbekannt,unbekannt,NA,2010-7
+Zuzug,2010,7,Ausländer,W,22,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2010-7
 Wegzug,2010,7,Ausländer,M,23,Schweiz,Schweiz,BS,Vorstädte,unbekannt,unbekannt,unbekannt,NA,2010-7
 Wegzug,2010,7,Ausländer,W,23,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Deutschland,Ausland,NA,2010-7
 Wegzug,2010,7,Schweizer,M,23,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2010-7
@@ -600,6 +604,8 @@ Wegzug,2010,7,Ausländer,W,23,Schweiz,Schweiz,BS,St. Alban,unbekannt,unbekannt,u
 Wegzug,2010,7,Schweizer,W,23,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,NA,2010-7
 Wegzug,2010,7,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2010-7
 Zuzug,2010,7,Schweizer,W,23,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2010-7
+Wegzug,2010,7,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2010-7
+Zuzug,2010,7,Schweizer,W,23,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2010-7
 Wegzug,2010,7,Ausländer,W,24,Schweiz,Schweiz,BS,Wettstein,unbekannt,unbekannt,unbekannt,NA,2010-7
 Wegzug,2010,7,Ausländer,W,24,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2010-7
 Wegzug,2010,7,Schweizer,W,24,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,JU,NA,2010-7
@@ -682,6 +688,7 @@ Wegzug,2010,7,Ausländer,W,24,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,AG,NA,2
 Wegzug,2010,7,Schweizer,M,24,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,GR,NA,2010-7
 Wegzug,2010,7,Schweizer,W,24,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,AG,NA,2010-7
 Wegzug,2010,7,Schweizer,W,24,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,LU,NA,2010-7
+Zuzug,2010,7,Schweizer,W,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2010-7
 Zuzug,2010,7,Schweizer,W,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2010-7
 Wegzug,2010,7,Ausländer,W,25,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2010-7
 Wegzug,2010,7,Schweizer,M,25,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,NA,2010-7
@@ -859,6 +866,7 @@ Wegzug,2010,7,Schweizer,M,26,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,ZH,NA,201
 Wegzug,2010,7,Ausländer,M,26,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,SO,NA,2010-7
 Wegzug,2010,7,Ausländer,M,26,Schweiz,Schweiz,BS,Clara,Asien,China,Ausland,NA,2010-7
 Wegzug,2010,7,Ausländer,W,26,Schweiz,Schweiz,BS,Matthäus,Asien,Thailand,Ausland,NA,2010-7
+Zuzug,2010,7,Schweizer,M,26,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2010-7
 Zuzug,2010,7,Schweizer,M,26,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2010-7
 Wegzug,2010,7,Schweizer,W,27,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BE,NA,2010-7
 Wegzug,2010,7,Ausländer,M,27,Schweiz,Schweiz,BS,Rosental,unbekannt,unbekannt,unbekannt,NA,2010-7
@@ -1598,6 +1606,7 @@ Wegzug,2010,7,Schweizer,M,36,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BE,NA
 Wegzug,2010,7,Ausländer,W,36,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,ZH,NA,2010-7
 Wegzug,2010,7,Ausländer,M,36,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2010-7
 Wegzug,2010,7,Ausländer,W,36,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2010-7
+Zuzug,2010,7,Ausländer,M,36,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2010-7
 Zuzug,2010,7,Ausländer,M,36,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2010-7
 Wegzug,2010,7,Schweizer,M,37,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,GE,NA,2010-7
 Wegzug,2010,7,Schweizer,M,37,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,2010-7

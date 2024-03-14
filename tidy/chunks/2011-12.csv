@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2011,12,Schweizer,M,0,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2011-12
 Wegzug,2011,12,Schweizer,W,0,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,AG,NA,2011-12
 Wegzug,2011,12,Ausländer,M,0,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-12
@@ -171,6 +171,7 @@ Wegzug,2011,12,Schweizer,W,10,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,SO,N
 Wegzug,2011,12,Ausländer,M,10,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2011-12
 Wegzug,2011,12,Ausländer,M,10,Schweiz,Schweiz,BS,St. Alban,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2011-12
 Wegzug,2011,12,Ausländer,W,10,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Türkei,Ausland,NA,2011-12
+Wegzug,2011,12,Ausländer,M,10,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2011-12
 Wegzug,2011,12,Ausländer,M,10,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2011-12
 Wegzug,2011,12,Schweizer,M,11,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BL,NA,2011-12
 Zuzug,2011,12,Schweizer,M,11,Asien,Kasachstan,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2011-12
@@ -351,6 +352,7 @@ Wegzug,2011,12,Ausländer,M,22,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz
 Wegzug,2011,12,Schweizer,M,22,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2011-12
 Wegzug,2011,12,Schweizer,M,22,Schweiz,Schweiz,BS,Hirzbrunnen,Ozeanien,Australien,Ausland,NA,2011-12
 Wegzug,2011,12,Schweizer,W,22,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BE,NA,2011-12
+Zuzug,2011,12,Ausländer,M,22,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2011-12
 Zuzug,2011,12,Ausländer,M,22,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2011-12
 Wegzug,2011,12,Schweizer,M,23,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Frankreich,Ausland,NA,2011-12
 Wegzug,2011,12,Ausländer,W,23,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Italien,Ausland,NA,2011-12
@@ -577,6 +579,7 @@ Wegzug,2011,12,Schweizer,W,25,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,VS,N
 Wegzug,2011,12,Schweizer,W,25,Schweiz,Schweiz,BS,Riehen,Asien,Singapur,Ausland,NA,2011-12
 Wegzug,2011,12,Schweizer,W,25,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2011-12
 Wegzug,2011,12,Schweizer,M,25,Schweiz,Schweiz,BS,Iselin,unbekannt,unbekannt,unbekannt,NA,2011-12
+Wegzug,2011,12,Schweizer,M,25,Schweiz,Schweiz,BS,Iselin,unbekannt,unbekannt,unbekannt,NA,2011-12
 Wegzug,2011,12,Ausländer,M,26,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,AG,NA,2011-12
 Wegzug,2011,12,Ausländer,W,26,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BE,NA,2011-12
 Wegzug,2011,12,Schweizer,M,26,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,ZH,NA,2011-12
@@ -664,6 +667,7 @@ Wegzug,2011,12,Schweizer,W,26,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,ZH,NA,20
 Wegzug,2011,12,Ausländer,M,26,Schweiz,Schweiz,BS,Klybeck,unbekannt,unbekannt,unbekannt,NA,2011-12
 Wegzug,2011,12,Schweizer,M,26,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,ZH,NA,2011-12
 Wegzug,2011,12,Ausländer,M,26,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Schweden,Ausland,NA,2011-12
+Wegzug,2011,12,Ausländer,W,26,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2011-12
 Wegzug,2011,12,Ausländer,W,26,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2011-12
 Wegzug,2011,12,Schweizer,W,27,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Frankreich,Ausland,NA,2011-12
 Wegzug,2011,12,Ausländer,M,27,Schweiz,Schweiz,BS,Iselin,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2011-12
@@ -1162,6 +1166,7 @@ Wegzug,2011,12,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,SH,N
 Wegzug,2011,12,Ausländer,W,32,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-12
 Wegzug,2011,12,Ausländer,W,32,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,LU,NA,2011-12
 Wegzug,2011,12,Ausländer,W,32,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-12
+Wegzug,2011,12,Ausländer,W,32,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-12
 Wegzug,2011,12,Ausländer,M,33,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,2011-12
 Wegzug,2011,12,Ausländer,W,33,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2011-12
 Wegzug,2011,12,Schweizer,W,33,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,ZH,NA,2011-12
@@ -1208,6 +1213,7 @@ Wegzug,2011,12,Ausländer,M,33,Schweiz,Schweiz,BS,Am Ring,Asien,Indien,Ausland,N
 Wegzug,2011,12,Ausländer,M,33,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-12
 Wegzug,2011,12,Ausländer,W,33,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-12
 Wegzug,2011,12,Ausländer,W,33,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Kroatien,Ausland,NA,2011-12
+Wegzug,2011,12,Ausländer,W,33,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-12
 Wegzug,2011,12,Ausländer,W,33,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-12
 Wegzug,2011,12,Schweizer,W,34,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,AG,NA,2011-12
 Wegzug,2011,12,Ausländer,M,34,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Rumänien,Ausland,NA,2011-12
@@ -1319,6 +1325,7 @@ Wegzug,2011,12,Ausländer,W,35,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Europa (oh
 Wegzug,2011,12,Ausländer,W,35,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unbekannt,NA,2011-12
 Wegzug,2011,12,Ausländer,W,35,Schweiz,Schweiz,BS,Bruderholz,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2011-12
 Wegzug,2011,12,Schweizer,W,35,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,AG,NA,2011-12
+Wegzug,2011,12,Ausländer,W,35,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unbekannt,NA,2011-12
 Wegzug,2011,12,Ausländer,W,35,Schweiz,Schweiz,BS,Am Ring,unbekannt,unbekannt,unbekannt,NA,2011-12
 Wegzug,2011,12,Ausländer,M,36,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2011-12
 Wegzug,2011,12,Schweizer,M,36,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2011-12
@@ -1511,6 +1518,7 @@ Wegzug,2011,12,Ausländer,M,39,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,
 Wegzug,2011,12,Ausländer,M,39,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Ungarn,Ausland,NA,2011-12
 Wegzug,2011,12,Ausländer,M,39,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2011-12
 Wegzug,2011,12,Schweizer,M,39,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,AG,NA,2011-12
+Wegzug,2011,12,Ausländer,M,39,Schweiz,Schweiz,BS,Bachletten,unbekannt,unbekannt,unbekannt,NA,2011-12
 Wegzug,2011,12,Ausländer,M,39,Schweiz,Schweiz,BS,Bachletten,unbekannt,unbekannt,unbekannt,NA,2011-12
 Wegzug,2011,12,Ausländer,M,40,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,SG,NA,2011-12
 Wegzug,2011,12,Ausländer,M,40,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2011-12

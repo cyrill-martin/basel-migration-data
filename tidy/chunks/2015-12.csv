@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2015,12,Ausländer,W,0,Schweiz,Schweiz,BS,Gundeldingen,Lateinamerika und Karibik,Peru,Ausland,NA,2015-12
 Zuzug,2015,12,Ausländer,M,0,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2015-12
 Zuzug,2015,12,Ausländer,M,0,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2015-12
@@ -23,6 +23,7 @@ Wegzug,2015,12,Ausländer,M,0,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,
 Wegzug,2015,12,Ausländer,M,0,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Frankreich,Ausland,NA,2015-12
 Wegzug,2015,12,Schweizer,M,0,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,2015-12
 Wegzug,2015,12,Schweizer,W,0,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2015-12
+Zuzug,2015,12,Ausländer,M,0,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2015-12
 Zuzug,2015,12,Ausländer,M,0,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2015-12
 Wegzug,2015,12,Ausländer,M,1,Schweiz,Schweiz,BS,St. Alban,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2015-12
 Zuzug,2015,12,Ausländer,M,1,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Breite,2015-12
@@ -101,6 +102,8 @@ Wegzug,2015,12,Schweizer,W,3,Schweiz,Schweiz,BS,Altstadt Grossbasel,Europa (ohne
 Wegzug,2015,12,Schweizer,W,3,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2015-12
 Zuzug,2015,12,Ausländer,M,3,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2015-12
 Zuzug,2015,12,Ausländer,W,3,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2015-12
+Zuzug,2015,12,Ausländer,M,3,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2015-12
+Zuzug,2015,12,Ausländer,W,3,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2015-12
 Wegzug,2015,12,Ausländer,M,4,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,ZG,NA,2015-12
 Wegzug,2015,12,Schweizer,M,4,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2015-12
 Zuzug,2015,12,Ausländer,M,4,Asien,China,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2015-12
@@ -123,6 +126,7 @@ Wegzug,2015,12,Ausländer,W,4,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,
 Wegzug,2015,12,Schweizer,M,4,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2015-12
 Wegzug,2015,12,Ausländer,W,4,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2015-12
 Wegzug,2015,12,Schweizer,M,4,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,2015-12
+Wegzug,2015,12,Schweizer,W,4,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,2015-12
 Wegzug,2015,12,Schweizer,W,4,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,2015-12
 Wegzug,2015,12,Ausländer,M,5,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,2015-12
 Zuzug,2015,12,Ausländer,W,5,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Johann,2015-12
@@ -177,6 +181,7 @@ Zuzug,2015,12,Ausländer,W,9,Nordamerika,Vereinigte Staaten von Amerika,Unbekann
 Zuzug,2015,12,Schweizer,W,9,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,St. Johann,2015-12
 Zuzug,2015,12,Ausländer,W,9,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2015-12
 Wegzug,2015,12,Ausländer,M,9,Schweiz,Schweiz,BS,Wettstein,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2015-12
+Wegzug,2015,12,Ausländer,M,9,Schweiz,Schweiz,BS,Wettstein,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2015-12
 Wegzug,2015,12,Ausländer,W,10,Schweiz,Schweiz,BS,Rosental,Asien,Indien,Ausland,NA,2015-12
 Wegzug,2015,12,Ausländer,M,10,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2015-12
 Wegzug,2015,12,Ausländer,W,10,Schweiz,Schweiz,BS,Klybeck,Asien,Philippinen,Ausland,NA,2015-12
@@ -215,6 +220,7 @@ Zuzug,2015,12,Ausländer,W,13,Nordamerika,Vereinigte Staaten von Amerika,Unbekan
 Zuzug,2015,12,Ausländer,W,13,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2015-12
 Wegzug,2015,12,Ausländer,W,13,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2015-12
 Zuzug,2015,12,Ausländer,W,13,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2015-12
+Zuzug,2015,12,Ausländer,W,13,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2015-12
 Wegzug,2015,12,Ausländer,W,14,Schweiz,Schweiz,BS,Wettstein,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2015-12
 Wegzug,2015,12,Schweizer,M,14,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2015-12
 Wegzug,2015,12,Schweizer,W,14,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2015-12
@@ -228,6 +234,7 @@ Wegzug,2015,12,Schweizer,W,15,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA
 Zuzug,2015,12,Ausländer,M,15,Afrika,Eritrea,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2015-12
 Zuzug,2015,12,Ausländer,M,15,Europa (ohne Schweiz),Grossbritannien,Unbekannt,NA,Schweiz,Schweiz,BS,Vorstädte,2015-12
 Zuzug,2015,12,Schweizer,M,15,Lateinamerika und Karibik,Dominikanische Republik,Unbekannt,NA,Schweiz,Schweiz,BS,Rosental,2015-12
+Zuzug,2015,12,Ausländer,M,15,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2015-12
 Zuzug,2015,12,Ausländer,M,15,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2015-12
 Wegzug,2015,12,Ausländer,M,16,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2015-12
 Zuzug,2015,12,Ausländer,M,16,Afrika,Gambia,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2015-12
@@ -249,6 +256,8 @@ Wegzug,2015,12,Ausländer,W,17,Schweiz,Schweiz,BS,Kleinhüningen,Europa (ohne Sc
 Zuzug,2015,12,Ausländer,M,17,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Klybeck,2015-12
 Zuzug,2015,12,Ausländer,M,17,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2015-12
 Wegzug,2015,12,Schweizer,W,17,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2015-12
+Zuzug,2015,12,Ausländer,M,17,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2015-12
+Zuzug,2015,12,Ausländer,M,17,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2015-12
 Zuzug,2015,12,Ausländer,M,17,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2015-12
 Zuzug,2015,12,Ausländer,M,17,Asien,Afghanistan,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2015-12
 Wegzug,2015,12,Ausländer,W,18,Schweiz,Schweiz,BS,Gotthelf,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2015-12
@@ -449,6 +458,8 @@ Wegzug,2015,12,Schweizer,M,23,Schweiz,Schweiz,BS,Bachletten,unbekannt,unbekannt,
 Wegzug,2015,12,Schweizer,W,23,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,NA,2015-12
 Wegzug,2015,12,Ausländer,W,23,Schweiz,Schweiz,BS,Riehen,unbekannt,unbekannt,unbekannt,NA,2015-12
 Wegzug,2015,12,Ausländer,W,23,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Oesterreich,Ausland,NA,2015-12
+Wegzug,2015,12,Ausländer,W,23,Schweiz,Schweiz,BS,Riehen,unbekannt,unbekannt,unbekannt,NA,2015-12
+Wegzug,2015,12,Ausländer,W,23,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Oesterreich,Ausland,NA,2015-12
 Wegzug,2015,12,Ausländer,M,24,Schweiz,Schweiz,BS,Clara,Lateinamerika und Karibik,Kolumbien,Ausland,NA,2015-12
 Wegzug,2015,12,Ausländer,M,24,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Liechtenstein,Ausland,NA,2015-12
 Zuzug,2015,12,Ausländer,M,24,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2015-12
@@ -601,6 +612,7 @@ Wegzug,2015,12,Ausländer,M,25,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz)
 Wegzug,2015,12,Ausländer,W,25,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2015-12
 Wegzug,2015,12,Ausländer,W,25,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,LU,NA,2015-12
 Wegzug,2015,12,Schweizer,W,25,Schweiz,Schweiz,BS,Rosental,unbekannt,unbekannt,unbekannt,NA,2015-12
+Zuzug,2015,12,Ausländer,W,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2015-12
 Zuzug,2015,12,Ausländer,W,25,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Wettstein,2015-12
 Wegzug,2015,12,Schweizer,W,26,Schweiz,Schweiz,BS,Riehen,unbekannt,unbekannt,unbekannt,NA,2015-12
 Wegzug,2015,12,Ausländer,M,26,Schweiz,Schweiz,BS,Wettstein,Asien,Indien,Ausland,NA,2015-12
@@ -929,6 +941,7 @@ Wegzug,2015,12,Schweizer,M,29,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,JU,NA,20
 Wegzug,2015,12,Ausländer,W,29,Schweiz,Schweiz,BS,Klybeck,Asien,Philippinen,Ausland,NA,2015-12
 Wegzug,2015,12,Schweizer,W,29,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,GR,NA,2015-12
 Wegzug,2015,12,Schweizer,W,29,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BE,NA,2015-12
+Zuzug,2015,12,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2015-12
 Zuzug,2015,12,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Riehen,2015-12
 Wegzug,2015,12,Ausländer,W,30,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,BL,NA,2015-12
 Wegzug,2015,12,Ausländer,W,30,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,VS,NA,2015-12
@@ -1745,6 +1758,7 @@ Wegzug,2015,12,Schweizer,W,49,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,201
 Wegzug,2015,12,Schweizer,W,49,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2015-12
 Wegzug,2015,12,Schweizer,M,49,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2015-12
 Zuzug,2015,12,Ausländer,W,49,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2015-12
+Zuzug,2015,12,Ausländer,W,49,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,St. Alban,2015-12
 Wegzug,2015,12,Schweizer,M,50,Schweiz,Schweiz,BS,Bachletten,Ozeanien,Australien,Ausland,NA,2015-12
 Wegzug,2015,12,Schweizer,M,50,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2015-12
 Wegzug,2015,12,Schweizer,W,50,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SO,NA,2015-12
@@ -1893,6 +1907,7 @@ Zuzug,2015,12,Schweizer,M,58,Nordamerika,Vereinigte Staaten von Amerika,Unbekann
 Zuzug,2015,12,Ausländer,M,58,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Kleinhüningen,2015-12
 Wegzug,2015,12,Ausländer,M,58,Schweiz,Schweiz,BS,Clara,unbekannt,unbekannt,unbekannt,NA,2015-12
 Wegzug,2015,12,Schweizer,M,58,Schweiz,Schweiz,BS,Klybeck,Lateinamerika und Karibik,El Salvador,Ausland,NA,2015-12
+Wegzug,2015,12,Ausländer,M,58,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2015-12
 Wegzug,2015,12,Ausländer,M,58,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2015-12
 Wegzug,2015,12,Ausländer,M,59,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,GE,NA,2015-12
 Wegzug,2015,12,Ausländer,M,59,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Schweden,Ausland,NA,2015-12

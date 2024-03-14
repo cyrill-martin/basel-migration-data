@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,1986,2,Schweizer,W,1,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,W,1,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,W,1,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1986-2
@@ -22,6 +22,7 @@ Zuzug,1986,2,Ausländer,W,2,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Is
 Zuzug,1986,2,Ausländer,M,2,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,1986-2
 Wegzug,1986,2,Schweizer,M,2,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,M,2,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1986-2
+Wegzug,1986,2,Schweizer,M,2,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,M,2,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,M,2,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,M,3,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1986-2
@@ -84,6 +85,7 @@ Wegzug,1986,2,Schweizer,W,12,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,198
 Wegzug,1986,2,Ausländer,W,12,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Ausländer,M,13,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Ausländer,M,13,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
+Wegzug,1986,2,Ausländer,M,13,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Schweizer,W,15,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1986-2
 Wegzug,1986,2,Ausländer,M,15,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Ausländer,W,15,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1986-2
@@ -138,6 +140,7 @@ Wegzug,1986,2,Schweizer,W,19,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,198
 Wegzug,1986,2,Ausländer,M,19,Schweiz,Schweiz,BS,Altstadt Kleinbasel,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Ausländer,M,19,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,M,19,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1986-2
+Wegzug,1986,2,Schweizer,M,19,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Schweizer,W,20,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1986-2
 Zuzug,1986,2,Ausländer,W,20,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
 Zuzug,1986,2,Schweizer,W,20,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Bachletten,1986-2
@@ -176,6 +179,7 @@ Wegzug,1986,2,Ausländer,W,20,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1
 Wegzug,1986,2,Schweizer,M,20,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,M,20,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1986-2
+Wegzug,1986,2,Schweizer,M,20,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,M,20,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,1986-2
 Zuzug,1986,2,Schweizer,W,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1986-2
@@ -233,6 +237,7 @@ Wegzug,1986,2,Schweizer,W,21,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Ausländer,M,21,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Ausländer,M,21,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,W,21,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1986-2
+Zuzug,1986,2,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,1986-2
 Zuzug,1986,2,Schweizer,M,21,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,1986-2
 Zuzug,1986,2,Ausländer,M,22,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
 Zuzug,1986,2,Schweizer,M,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1986-2
@@ -298,6 +303,11 @@ Zuzug,1986,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,198
 Zuzug,1986,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1986-2
 Zuzug,1986,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1986-2
 Zuzug,1986,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1986-2
+Wegzug,1986,2,Schweizer,W,22,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
+Zuzug,1986,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
+Zuzug,1986,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1986-2
+Zuzug,1986,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1986-2
+Zuzug,1986,2,Schweizer,W,22,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1986-2
 Zuzug,1986,2,Ausländer,W,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Rosental,1986-2
 Zuzug,1986,2,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,1986-2
 Zuzug,1986,2,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1986-2
@@ -345,6 +355,8 @@ Wegzug,1986,2,Schweizer,M,23,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1986
 Wegzug,1986,2,Schweizer,W,23,Schweiz,Schweiz,BS,Vorstädte,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,W,23,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Ausländer,M,23,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1986-2
+Zuzug,1986,2,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
+Wegzug,1986,2,Schweizer,W,23,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Schweizer,M,23,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
 Wegzug,1986,2,Schweizer,W,23,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Ausländer,W,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1986-2
@@ -431,6 +443,11 @@ Zuzug,1986,2,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1986-2
 Zuzug,1986,2,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
 Zuzug,1986,2,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
 Wegzug,1986,2,Schweizer,W,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
+Zuzug,1986,2,Ausländer,M,24,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1986-2
+Zuzug,1986,2,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1986-2
+Zuzug,1986,2,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
+Zuzug,1986,2,Schweizer,W,24,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
+Wegzug,1986,2,Schweizer,W,24,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1986-2
 Zuzug,1986,2,Schweizer,M,25,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,1986-2
 Zuzug,1986,2,Ausländer,W,25,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1986-2
@@ -500,6 +517,7 @@ Wegzug,1986,2,Schweizer,M,25,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,19
 Wegzug,1986,2,Schweizer,W,25,Schweiz,Schweiz,BS,Clara,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,W,25,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Ausländer,M,25,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1986-2
+Zuzug,1986,2,Ausländer,M,25,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1986-2
 Zuzug,1986,2,Ausländer,W,26,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1986-2
 Zuzug,1986,2,Schweizer,W,26,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Klybeck,1986-2
 Zuzug,1986,2,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Breite,1986-2
@@ -565,6 +583,9 @@ Wegzug,1986,2,Schweizer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,19
 Wegzug,1986,2,Schweizer,W,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Ausländer,W,26,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,M,26,Schweiz,Schweiz,BS,Altstadt Grossbasel,unbekannt,NA,NA,NA,1986-2
+Zuzug,1986,2,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1986-2
+Wegzug,1986,2,Schweizer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
+Zuzug,1986,2,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1986-2
 Zuzug,1986,2,Schweizer,M,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1986-2
 Wegzug,1986,2,Schweizer,M,26,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Schweizer,W,26,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Riehen,1986-2
@@ -638,6 +659,8 @@ Wegzug,1986,2,Ausländer,M,27,Schweiz,Schweiz,BS,Bachletten,unbekannt,NA,NA,NA,1
 Wegzug,1986,2,Schweizer,M,27,Schweiz,Schweiz,BS,Breite,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,M,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,W,27,Schweiz,Schweiz,BS,St. Alban,unbekannt,NA,NA,NA,1986-2
+Wegzug,1986,2,Ausländer,M,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1986-2
+Zuzug,1986,2,Ausländer,M,27,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1986-2
 Wegzug,1986,2,Ausländer,M,27,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Ausländer,M,27,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1986-2
 Zuzug,1986,2,Schweizer,M,28,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1986-2
@@ -766,6 +789,8 @@ Wegzug,1986,2,Schweizer,M,30,Schweiz,Schweiz,BS,Am Ring,unbekannt,NA,NA,NA,1986-
 Wegzug,1986,2,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Schweizer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1986-2
 Wegzug,1986,2,Schweizer,W,30,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1986-2
+Zuzug,1986,2,Schweizer,W,30,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1986-2
+Wegzug,1986,2,Schweizer,W,30,Schweiz,Schweiz,BS,Iselin,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Ausländer,W,31,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Vorstädte,1986-2
 Zuzug,1986,2,Ausländer,M,31,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,1986-2
 Zuzug,1986,2,Ausländer,W,31,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,Gotthelf,1986-2
@@ -872,6 +897,7 @@ Zuzug,1986,2,Ausländer,M,34,Europa (ohne Schweiz),NA,NA,NA,Schweiz,Schweiz,BS,G
 Zuzug,1986,2,Ausländer,M,34,Unbekannt,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
 Wegzug,1986,2,Schweizer,W,34,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Schweizer,W,34,Schweiz,Schweiz,BS,Klybeck,unbekannt,NA,NA,NA,1986-2
+Wegzug,1986,2,Ausländer,M,34,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1986-2
 Wegzug,1986,2,Ausländer,M,34,Schweiz,Schweiz,BS,Matthäus,unbekannt,NA,NA,NA,1986-2
 Zuzug,1986,2,Schweizer,M,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Am Ring,1986-2
 Zuzug,1986,2,Schweizer,M,35,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Iselin,1986-2
@@ -1057,6 +1083,7 @@ Wegzug,1986,2,Ausländer,M,48,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,NA,NA,NA
 Zuzug,1986,2,Schweizer,M,48,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Wettstein,1986-2
 Zuzug,1986,2,Schweizer,M,48,Nordamerika,NA,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,1986-2
 Wegzug,1986,2,Ausländer,M,48,Schweiz,Schweiz,BS,Gotthelf,unbekannt,NA,NA,NA,1986-2
+Zuzug,1986,2,Schweizer,M,48,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
 Zuzug,1986,2,Schweizer,M,48,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,1986-2
 Zuzug,1986,2,Schweizer,W,49,Schweiz,NA,NA,NA,Schweiz,Schweiz,BS,St. Alban,1986-2
 Wegzug,1986,2,Schweizer,M,49,Schweiz,Schweiz,BS,St. Johann,unbekannt,NA,NA,NA,1986-2

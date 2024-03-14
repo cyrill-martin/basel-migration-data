@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2012,6,Ausländer,M,0,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2012-6
 Wegzug,2012,6,Ausländer,M,0,Schweiz,Schweiz,BS,Wettstein,Afrika,Tansania,Ausland,NA,2012-6
 Wegzug,2012,6,Schweizer,M,0,Schweiz,Schweiz,BS,Bachletten,Asien,Hong Kong,Ausland,NA,2012-6
@@ -14,6 +14,7 @@ Zuzug,2012,6,Ausländer,M,0,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,S
 Zuzug,2012,6,Ausländer,W,0,Unbekannt,Unbekannt,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2012-6
 Wegzug,2012,6,Ausländer,W,0,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,SO,NA,2012-6
 Wegzug,2012,6,Schweizer,M,0,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2012-6
+Zuzug,2012,6,Ausländer,M,0,Afrika,Eritrea,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2012-6
 Zuzug,2012,6,Ausländer,M,0,Afrika,Eritrea,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2012-6
 Wegzug,2012,6,Ausländer,M,1,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Deutschland,Ausland,NA,2012-6
 Wegzug,2012,6,Ausländer,W,1,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Frankreich,Ausland,NA,2012-6
@@ -41,6 +42,7 @@ Wegzug,2012,6,Ausländer,M,1,Schweiz,Schweiz,BS,Rosental,Asien,Singapur,Ausland,
 Wegzug,2012,6,Schweizer,M,1,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2012-6
 Wegzug,2012,6,Ausländer,M,1,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Dänemark,Ausland,NA,2012-6
 Wegzug,2012,6,Ausländer,W,1,Schweiz,Schweiz,BS,Breite,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2012-6
+Wegzug,2012,6,Ausländer,W,1,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Frankreich,Ausland,NA,2012-6
 Wegzug,2012,6,Ausländer,W,1,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Frankreich,Ausland,NA,2012-6
 Wegzug,2012,6,Schweizer,M,2,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2012-6
 Wegzug,2012,6,Schweizer,W,2,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,2012-6
@@ -120,6 +122,8 @@ Wegzug,2012,6,Ausländer,W,4,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schwei
 Wegzug,2012,6,Ausländer,W,4,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2012-6
 Wegzug,2012,6,Ausländer,M,4,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2012-6
 Wegzug,2012,6,Schweizer,W,4,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2012-6
+Zuzug,2012,6,Ausländer,M,4,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Iselin,2012-6
+Zuzug,2012,6,Schweizer,W,4,Afrika,Lesotho,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2012-6
 Zuzug,2012,6,Ausländer,M,4,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Iselin,2012-6
 Zuzug,2012,6,Schweizer,W,4,Afrika,Lesotho,Unbekannt,NA,Schweiz,Schweiz,BS,Gotthelf,2012-6
 Wegzug,2012,6,Schweizer,W,5,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2012-6
@@ -453,6 +457,7 @@ Wegzug,2012,6,Ausländer,M,22,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),D
 Wegzug,2012,6,Schweizer,W,22,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,2012-6
 Wegzug,2012,6,Schweizer,W,22,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BE,NA,2012-6
 Zuzug,2012,6,Schweizer,W,22,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2012-6
+Zuzug,2012,6,Schweizer,W,22,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2012-6
 Wegzug,2012,6,Schweizer,W,23,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BE,NA,2012-6
 Wegzug,2012,6,Schweizer,W,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2012-6
 Wegzug,2012,6,Schweizer,W,23,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,GL,NA,2012-6
@@ -591,6 +596,7 @@ Wegzug,2012,6,Schweizer,M,24,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,GE,NA,201
 Wegzug,2012,6,Schweizer,W,24,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BE,NA,2012-6
 Wegzug,2012,6,Schweizer,W,24,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,GL,NA,2012-6
 Zuzug,2012,6,Schweizer,M,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Rosental,2012-6
+Zuzug,2012,6,Schweizer,M,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Rosental,2012-6
 Wegzug,2012,6,Schweizer,W,25,Schweiz,Schweiz,BS,Bettingen,Schweiz,Schweiz,BE,NA,2012-6
 Wegzug,2012,6,Schweizer,W,25,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,2012-6
 Wegzug,2012,6,Schweizer,W,25,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,AG,NA,2012-6
@@ -677,6 +683,7 @@ Wegzug,2012,6,Schweizer,W,25,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,
 Wegzug,2012,6,Schweizer,W,25,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,LU,NA,2012-6
 Wegzug,2012,6,Schweizer,W,25,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BE,NA,2012-6
 Wegzug,2012,6,Schweizer,W,25,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,2012-6
+Wegzug,2012,6,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2012-6
 Wegzug,2012,6,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2012-6
 Wegzug,2012,6,Schweizer,M,26,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2012-6
 Wegzug,2012,6,Schweizer,M,26,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,2012-6
@@ -1958,6 +1965,7 @@ Wegzug,2012,6,Ausländer,M,48,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,
 Wegzug,2012,6,Ausländer,M,48,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2012-6
 Wegzug,2012,6,Ausländer,W,48,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,AG,NA,2012-6
 Wegzug,2012,6,Schweizer,W,48,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,BL,NA,2012-6
+Zuzug,2012,6,Ausländer,M,48,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2012-6
 Zuzug,2012,6,Ausländer,M,48,Europa (ohne Schweiz),Italien,Unbekannt,NA,Schweiz,Schweiz,BS,Gundeldingen,2012-6
 Wegzug,2012,6,Schweizer,M,49,Schweiz,Schweiz,BS,Clara,unbekannt,unbekannt,unbekannt,NA,2012-6
 Wegzug,2012,6,Ausländer,M,49,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Frankreich,Ausland,NA,2012-6

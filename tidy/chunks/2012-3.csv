@@ -1,4 +1,4 @@
-Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,year_month
+Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,Jahr_Monat
 Wegzug,2012,3,Schweizer,W,0,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BL,NA,2012-3
 Zuzug,2012,3,Ausländer,W,0,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2012-3
 Zuzug,2012,3,Schweizer,W,0,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Clara,2012-3
@@ -26,6 +26,7 @@ Wegzug,2012,3,Ausländer,W,1,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz)
 Wegzug,2012,3,Schweizer,M,1,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,AG,NA,2012-3
 Wegzug,2012,3,Ausländer,M,1,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2012-3
 Wegzug,2012,3,Ausländer,W,1,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2012-3
+Wegzug,2012,3,Ausländer,W,1,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,ZH,NA,2012-3
 Wegzug,2012,3,Ausländer,W,1,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,ZH,NA,2012-3
 Wegzug,2012,3,Ausländer,W,1,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,ZH,NA,2012-3
 Wegzug,2012,3,Ausländer,W,2,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,GR,NA,2012-3
@@ -68,6 +69,7 @@ Zuzug,2012,3,Ausländer,W,3,Asien,Indien,Unbekannt,NA,Schweiz,Schweiz,BS,St. Joh
 Zuzug,2012,3,Ausländer,W,3,Europa (ohne Schweiz),Spanien,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2012-3
 Wegzug,2012,3,Ausländer,W,3,Schweiz,Schweiz,BS,Rosental,Asien,Indien,Ausland,NA,2012-3
 Zuzug,2012,3,Ausländer,W,3,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2012-3
+Zuzug,2012,3,Ausländer,W,3,Nordamerika,Vereinigte Staaten von Amerika,Unbekannt,NA,Schweiz,Schweiz,BS,Iselin,2012-3
 Wegzug,2012,3,Ausländer,W,4,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Ausländer,M,4,Schweiz,Schweiz,BS,Gundeldingen,Asien,China,Ausland,NA,2012-3
 Wegzug,2012,3,Ausländer,M,4,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,2012-3
@@ -83,6 +85,8 @@ Zuzug,2012,3,Schweizer,M,4,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Iselin,2012-
 Zuzug,2012,3,Ausländer,W,4,Europa (ohne Schweiz),Tschechische Republik,Unbekannt,NA,Schweiz,Schweiz,BS,Bruderholz,2012-3
 Wegzug,2012,3,Schweizer,M,4,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Schweizer,W,4,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2012-3
+Wegzug,2012,3,Ausländer,M,4,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,2012-3
+Zuzug,2012,3,Ausländer,W,4,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2012-3
 Wegzug,2012,3,Ausländer,M,4,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,2012-3
 Zuzug,2012,3,Ausländer,W,4,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Bachletten,2012-3
 Wegzug,2012,3,Ausländer,M,5,Schweiz,Schweiz,BS,Rosental,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,2012-3
@@ -175,6 +179,7 @@ Zuzug,2012,3,Ausländer,W,14,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz
 Zuzug,2012,3,Ausländer,W,14,Europa (ohne Schweiz),Nordmazedonien,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2012-3
 Wegzug,2012,3,Schweizer,M,14,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Frankreich,Ausland,NA,2012-3
 Wegzug,2012,3,Ausländer,M,14,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Frankreich,Ausland,NA,2012-3
+Zuzug,2012,3,Ausländer,W,14,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2012-3
 Zuzug,2012,3,Ausländer,W,14,Europa (ohne Schweiz),Portugal,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2012-3
 Wegzug,2012,3,Schweizer,M,15,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,2012-3
 Zuzug,2012,3,Schweizer,W,15,Lateinamerika und Karibik,El Salvador,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2012-3
@@ -352,6 +357,7 @@ Wegzug,2012,3,Schweizer,W,22,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,201
 Wegzug,2012,3,Ausländer,W,22,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,ZH,NA,2012-3
 Wegzug,2012,3,Schweizer,M,22,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,TI,NA,2012-3
 Zuzug,2012,3,Schweizer,W,22,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2012-3
+Zuzug,2012,3,Schweizer,W,22,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,2012-3
 Wegzug,2012,3,Ausländer,W,23,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,2012-3
 Wegzug,2012,3,Ausländer,M,23,Schweiz,Schweiz,BS,St. Johann,unbekannt,unbekannt,unbekannt,NA,2012-3
 Wegzug,2012,3,Ausländer,W,23,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,2012-3
@@ -513,6 +519,7 @@ Wegzug,2012,3,Schweizer,M,24,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,TG,NA,201
 Wegzug,2012,3,Schweizer,M,24,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Schweizer,W,24,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BE,NA,2012-3
 Zuzug,2012,3,Ausländer,W,24,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2012-3
+Zuzug,2012,3,Ausländer,W,24,Europa (ohne Schweiz),Frankreich,Unbekannt,NA,Schweiz,Schweiz,BS,Matthäus,2012-3
 Wegzug,2012,3,Schweizer,W,25,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,2012-3
 Wegzug,2012,3,Ausländer,W,25,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2012-3
 Wegzug,2012,3,Schweizer,M,25,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,2012-3
@@ -612,6 +619,8 @@ Wegzug,2012,3,Schweizer,M,25,Schweiz,Schweiz,BS,Rosental,unbekannt,unbekannt,unb
 Wegzug,2012,3,Schweizer,W,25,Schweiz,Schweiz,BS,Rosental,unbekannt,unbekannt,unbekannt,NA,2012-3
 Wegzug,2012,3,Schweizer,W,25,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,2012-3
 Wegzug,2012,3,Schweizer,W,25,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,2012-3
+Wegzug,2012,3,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2012-3
+Wegzug,2012,3,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2012-3
 Wegzug,2012,3,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2012-3
 Wegzug,2012,3,Ausländer,M,25,Schweiz,Schweiz,BS,Matthäus,unbekannt,unbekannt,unbekannt,NA,2012-3
 Wegzug,2012,3,Ausländer,M,26,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Spanien,Ausland,NA,2012-3
@@ -809,6 +818,7 @@ Wegzug,2012,3,Ausländer,M,27,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,TI,NA,20
 Wegzug,2012,3,Schweizer,W,27,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Schweizer,W,27,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Ausländer,M,27,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,ZH,NA,2012-3
+Wegzug,2012,3,Ausländer,M,27,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,ZH,NA,2012-3
 Wegzug,2012,3,Ausländer,M,28,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Schweizer,W,28,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Schweizer,M,28,Schweiz,Schweiz,BS,Breite,unbekannt,unbekannt,unbekannt,NA,2012-3
@@ -897,6 +907,7 @@ Wegzug,2012,3,Schweizer,M,28,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BE,NA,20
 Wegzug,2012,3,Schweizer,M,28,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,AG,NA,2012-3
 Wegzug,2012,3,Schweizer,W,28,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Schweizer,W,28,Schweiz,Schweiz,BS,Gundeldingen,unbekannt,unbekannt,unbekannt,NA,2012-3
+Zuzug,2012,3,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2012-3
 Zuzug,2012,3,Ausländer,M,28,Europa (ohne Schweiz),Deutschland,Unbekannt,NA,Schweiz,Schweiz,BS,Am Ring,2012-3
 Wegzug,2012,3,Ausländer,M,29,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,AG,NA,2012-3
 Wegzug,2012,3,Schweizer,M,29,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,GL,NA,2012-3
@@ -1260,6 +1271,7 @@ Wegzug,2012,3,Ausländer,M,32,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz
 Wegzug,2012,3,Ausländer,M,32,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Schweizer,M,32,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Deutschland,Ausland,NA,2012-3
 Wegzug,2012,3,Schweizer,M,32,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,VS,NA,2012-3
+Zuzug,2012,3,Ausländer,W,32,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,2012-3
 Zuzug,2012,3,Ausländer,W,32,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,2012-3
 Wegzug,2012,3,Ausländer,W,33,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Deutschland,Ausland,NA,2012-3
 Wegzug,2012,3,Ausländer,W,33,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Deutschland,Ausland,NA,2012-3
@@ -1907,6 +1919,7 @@ Wegzug,2012,3,Ausländer,M,51,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,AG,N
 Wegzug,2012,3,Ausländer,W,51,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Schweizer,M,51,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,SO,NA,2012-3
 Zuzug,2012,3,Schweizer,M,51,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2012-3
+Zuzug,2012,3,Schweizer,M,51,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,2012-3
 Wegzug,2012,3,Ausländer,W,52,Schweiz,Schweiz,BS,St. Alban,Afrika,Senegal,Ausland,NA,2012-3
 Wegzug,2012,3,Ausländer,M,52,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,NA,2012-3
 Wegzug,2012,3,Ausländer,M,52,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Türkei,Ausland,NA,2012-3
@@ -2004,6 +2017,7 @@ Zuzug,2012,3,Schweizer,W,58,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Clara,2012-
 Wegzug,2012,3,Ausländer,M,58,Schweiz,Schweiz,BS,St. Alban,Asien,Japan,Ausland,NA,2012-3
 Wegzug,2012,3,Schweizer,W,58,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,TG,NA,2012-3
 Wegzug,2012,3,Schweizer,W,58,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,2012-3
+Zuzug,2012,3,Schweizer,W,58,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Clara,2012-3
 Zuzug,2012,3,Schweizer,W,58,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Clara,2012-3
 Wegzug,2012,3,Schweizer,M,59,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,2012-3
 Wegzug,2012,3,Ausländer,M,59,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Deutschland,Ausland,NA,2012-3
