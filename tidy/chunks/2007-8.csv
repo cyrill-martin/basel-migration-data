@@ -179,7 +179,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Zuzug,2007,8,Ausländer,W,8,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,United Kingdom,basel,St. Alban
 2007-8,Zuzug,2007,8,Ausländer,W,8,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,europe,United Kingdom,basel,Hirzbrunnen
 2007-8,Wegzug,2007,8,Ausländer,M,8,Schweiz,Schweiz,BS,St. Alban,Asien,Japan,Ausland,NA,basel,St. Alban,world,Japan
-2007-8,Wegzug,2007,8,Schweizer,M,8,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,europe,Turkey
+2007-8,Wegzug,2007,8,Schweizer,M,8,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,world,Turkey
 2007-8,Zuzug,2007,8,Schweizer,W,8,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Riehen,world,United States of America,basel,Riehen
 2007-8,Zuzug,2007,8,Ausländer,M,8,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,United States of America,basel,St. Alban
 2007-8,Zuzug,2007,8,Ausländer,M,8,Asien,Jemen (Arabische Republik),NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Yemen,basel,Matthäus
@@ -357,7 +357,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Zuzug,2007,8,Ausländer,M,17,Afrika,Algerien,NA,NA,Schweiz,Schweiz,BS,Vorstädte,world,Algeria,basel,Vorstädte
 2007-8,Zuzug,2007,8,Schweizer,M,17,Schweiz,Schweiz,SH,NA,Schweiz,Schweiz,BS,Wettstein,switzerland,Schaffhausen,basel,Wettstein
 2007-8,Zuzug,2007,8,Ausländer,W,17,Asien,Japan,NA,NA,Schweiz,Schweiz,BS,Riehen,world,Japan,basel,Riehen
-2007-8,Zuzug,2007,8,Ausländer,W,17,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Turkey,basel,Iselin
+2007-8,Zuzug,2007,8,Ausländer,W,17,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Iselin,world,Turkey,basel,Iselin
 2007-8,Wegzug,2007,8,Schweizer,W,18,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,NA,basel,St. Johann,switzerland,Zürich
 2007-8,Wegzug,2007,8,Schweizer,M,18,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BL,NA,basel,Hirzbrunnen,switzerland,Basel-Landschaft
 2007-8,Zuzug,2007,8,Schweizer,M,18,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Basel-Landschaft,basel,St. Johann
@@ -484,7 +484,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Zuzug,2007,8,Schweizer,W,20,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Bern,basel,Gundeldingen
 2007-8,Zuzug,2007,8,Schweizer,W,20,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Basel-Landschaft,basel,Matthäus
 2007-8,Zuzug,2007,8,Schweizer,M,20,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Aargau,basel,St. Alban
-2007-8,Zuzug,2007,8,Ausländer,W,20,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Turkey,basel,Am Ring
+2007-8,Zuzug,2007,8,Ausländer,W,20,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Turkey,basel,Am Ring
 2007-8,Zuzug,2007,8,Schweizer,W,20,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Italy,basel,Am Ring
 2007-8,Zuzug,2007,8,Ausländer,M,20,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Germany,basel,Wettstein
 2007-8,Zuzug,2007,8,Ausländer,M,20,Europa (ohne Schweiz),Schweden,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Sweden,basel,Vorstädte
@@ -501,7 +501,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Zuzug,2007,8,Schweizer,W,20,Schweiz,Schweiz,AI,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Appenzell Innerrhoden,basel,Rosental
 2007-8,Zuzug,2007,8,Schweizer,W,20,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Bern,basel,Gundeldingen
 2007-8,Zuzug,2007,8,Ausländer,W,20,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Klybeck,switzerland,Basel-Landschaft,basel,Klybeck
-2007-8,Zuzug,2007,8,Ausländer,M,20,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Turkey,basel,Gundeldingen
+2007-8,Zuzug,2007,8,Ausländer,M,20,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Turkey,basel,Gundeldingen
 2007-8,Zuzug,2007,8,Schweizer,W,20,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,switzerland,Luzern,basel,Altstadt Grossbasel
 2007-8,Zuzug,2007,8,Ausländer,W,20,Europa (ohne Schweiz),Russland,NA,NA,Schweiz,Schweiz,BS,Vorstädte,world,Russia,basel,Vorstädte
 2007-8,Zuzug,2007,8,Schweizer,M,20,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Basel-Landschaft,basel,St. Alban
@@ -530,7 +530,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Wegzug,2007,8,Schweizer,W,21,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BE,NA,basel,Am Ring,switzerland,Bern
 2007-8,Wegzug,2007,8,Ausländer,W,21,Schweiz,Schweiz,BS,Matthäus,Asien,China,Ausland,NA,basel,Matthäus,world,China
 2007-8,Wegzug,2007,8,Schweizer,W,21,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,basel,Klybeck,switzerland,Basel-Landschaft
-2007-8,Wegzug,2007,8,Schweizer,W,21,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Am Ring,europe,Turkey
+2007-8,Wegzug,2007,8,Schweizer,W,21,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Am Ring,world,Turkey
 2007-8,Wegzug,2007,8,Schweizer,W,21,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BE,NA,basel,Matthäus,switzerland,Bern
 2007-8,Wegzug,2007,8,Ausländer,W,21,Schweiz,Schweiz,BS,Wettstein,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Wettstein,world,United States of America
 2007-8,Wegzug,2007,8,Ausländer,M,21,Schweiz,Schweiz,BS,St. Johann,NA,NA,NA,NA,basel,St. Johann,NA,NA
@@ -593,7 +593,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Wegzug,2007,8,Schweizer,M,21,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BE,NA,basel,Iselin,switzerland,Bern
 2007-8,Wegzug,2007,8,Schweizer,M,21,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,LU,NA,basel,Riehen,switzerland,Luzern
 2007-8,Zuzug,2007,8,Schweizer,M,21,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Basel-Landschaft,basel,St. Johann
-2007-8,Wegzug,2007,8,Ausländer,W,22,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,europe,Turkey
+2007-8,Wegzug,2007,8,Ausländer,W,22,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,world,Turkey
 2007-8,Wegzug,2007,8,Schweizer,M,22,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
 2007-8,Wegzug,2007,8,Ausländer,M,22,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,basel,Matthäus,europe,United Kingdom
 2007-8,Wegzug,2007,8,Ausländer,M,22,Schweiz,Schweiz,BS,Kleinhüningen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Kleinhüningen,europe,Germany
@@ -628,7 +628,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Wegzug,2007,8,Schweizer,W,22,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,GR,NA,basel,St. Johann,switzerland,Graubünden
 2007-8,Wegzug,2007,8,Ausländer,M,22,Schweiz,Schweiz,BS,St. Johann,Asien,Hong Kong,Ausland,NA,basel,St. Johann,world,China
 2007-8,Wegzug,2007,8,Schweizer,M,22,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,St. Alban,europe,France
-2007-8,Wegzug,2007,8,Ausländer,W,22,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,europe,Turkey
+2007-8,Wegzug,2007,8,Ausländer,W,22,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,world,Turkey
 2007-8,Wegzug,2007,8,Schweizer,W,22,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,ZH,NA,basel,Gotthelf,switzerland,Zürich
 2007-8,Wegzug,2007,8,Ausländer,W,22,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,ZH,NA,basel,Matthäus,switzerland,Zürich
 2007-8,Wegzug,2007,8,Ausländer,W,22,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,AG,NA,basel,Hirzbrunnen,switzerland,Aargau
@@ -710,7 +710,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Zuzug,2007,8,Schweizer,W,23,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Bern,basel,Iselin
 2007-8,Zuzug,2007,8,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Bettingen,europe,Germany,basel,Bettingen
 2007-8,Zuzug,2007,8,Schweizer,W,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Germany,basel,Rosental
-2007-8,Zuzug,2007,8,Schweizer,W,23,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Turkey,basel,Breite
+2007-8,Zuzug,2007,8,Schweizer,W,23,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,world,Turkey,basel,Breite
 2007-8,Zuzug,2007,8,Ausländer,M,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
 2007-8,Zuzug,2007,8,Ausländer,W,23,Europa (ohne Schweiz),Frankreich,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,France,basel,Am Ring
 2007-8,Wegzug,2007,8,Schweizer,W,23,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,SG,NA,basel,Am Ring,switzerland,St. Gallen
@@ -741,7 +741,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Zuzug,2007,8,Ausländer,M,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Germany,basel,Wettstein
 2007-8,Zuzug,2007,8,Ausländer,M,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Germany,basel,Matthäus
 2007-8,Zuzug,2007,8,Schweizer,M,23,Schweiz,Schweiz,VS,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Valais,basel,Matthäus
-2007-8,Zuzug,2007,8,Ausländer,M,23,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Turkey,basel,Matthäus
+2007-8,Zuzug,2007,8,Ausländer,M,23,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Turkey,basel,Matthäus
 2007-8,Zuzug,2007,8,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Bettingen,europe,Germany,basel,Bettingen
 2007-8,Zuzug,2007,8,Schweizer,W,23,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Solothurn,basel,Rosental
 2007-8,Zuzug,2007,8,Ausländer,W,23,Europa (ohne Schweiz),Ungarn,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Hungary,basel,Matthäus
@@ -1115,7 +1115,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Wegzug,2007,8,Ausländer,W,27,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Rosental,europe,Germany
 2007-8,Wegzug,2007,8,Schweizer,M,27,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,ZH,NA,basel,Riehen,switzerland,Zürich
 2007-8,Wegzug,2007,8,Schweizer,W,27,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,VS,NA,basel,Vorstädte,switzerland,Valais
-2007-8,Wegzug,2007,8,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,europe,Turkey
+2007-8,Wegzug,2007,8,Ausländer,M,27,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,world,Turkey
 2007-8,Wegzug,2007,8,Ausländer,W,27,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,GR,NA,basel,Vorstädte,switzerland,Graubünden
 2007-8,Wegzug,2007,8,Schweizer,M,27,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,AG,NA,basel,St. Alban,switzerland,Aargau
 2007-8,Zuzug,2007,8,Ausländer,M,27,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,United Kingdom,basel,St. Johann
@@ -1443,7 +1443,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Zuzug,2007,8,Ausländer,W,30,Asien,Israel,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Israel,basel,Gundeldingen
 2007-8,Zuzug,2007,8,Ausländer,M,30,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,Iselin,world,India,basel,Iselin
 2007-8,Zuzug,2007,8,Ausländer,W,30,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Basel-Landschaft,basel,Gundeldingen
-2007-8,Zuzug,2007,8,Ausländer,M,30,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Turkey,basel,Breite
+2007-8,Zuzug,2007,8,Ausländer,M,30,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,world,Turkey,basel,Breite
 2007-8,Zuzug,2007,8,Schweizer,M,30,Schweiz,Schweiz,VD,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Vaud,basel,Am Ring
 2007-8,Wegzug,2007,8,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Belgien,Ausland,NA,basel,Gundeldingen,europe,Belgium
 2007-8,Wegzug,2007,8,Ausländer,M,30,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,AG,NA,basel,Klybeck,switzerland,Aargau
@@ -1707,7 +1707,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Zuzug,2007,8,Ausländer,W,34,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,United States of America,basel,St. Johann
 2007-8,Zuzug,2007,8,Ausländer,W,34,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,United States of America,basel,Am Ring
 2007-8,Zuzug,2007,8,Ausländer,W,34,Asien,Malaysia,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Malaysia,basel,Gundeldingen
-2007-8,Zuzug,2007,8,Ausländer,M,34,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Turkey,basel,Gundeldingen
+2007-8,Zuzug,2007,8,Ausländer,M,34,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Turkey,basel,Gundeldingen
 2007-8,Zuzug,2007,8,Ausländer,M,34,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
 2007-8,Zuzug,2007,8,Schweizer,M,34,Schweiz,Schweiz,FR,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Fribourg,basel,Riehen
 2007-8,Zuzug,2007,8,Ausländer,M,34,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Breite,world,United States of America,basel,Breite
@@ -1949,7 +1949,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Wegzug,2007,8,Ausländer,W,39,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,ZH,NA,basel,Breite,switzerland,Zürich
 2007-8,Wegzug,2007,8,Ausländer,M,39,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,AG,NA,basel,Rosental,switzerland,Aargau
 2007-8,Wegzug,2007,8,Ausländer,M,39,Schweiz,Schweiz,BS,Matthäus,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Matthäus,world,United States of America
-2007-8,Wegzug,2007,8,Schweizer,W,39,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,europe,Turkey
+2007-8,Wegzug,2007,8,Schweizer,W,39,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,world,Turkey
 2007-8,Wegzug,2007,8,Ausländer,W,39,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,basel,Breite,switzerland,Basel-Landschaft
 2007-8,Zuzug,2007,8,Ausländer,M,39,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,United Kingdom,basel,Riehen
 2007-8,Zuzug,2007,8,Ausländer,M,39,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,Iselin,switzerland,St. Gallen,basel,Iselin
@@ -2205,7 +2205,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Wegzug,2007,8,Schweizer,W,46,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2007-8,Wegzug,2007,8,Schweizer,W,46,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,SO,NA,basel,Bachletten,switzerland,Solothurn
 2007-8,Wegzug,2007,8,Schweizer,M,46,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
-2007-8,Zuzug,2007,8,Schweizer,M,46,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Turkey,basel,St. Johann
+2007-8,Zuzug,2007,8,Schweizer,M,46,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,Turkey,basel,St. Johann
 2007-8,Zuzug,2007,8,Schweizer,W,46,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Basel-Landschaft,basel,St. Alban
 2007-8,Zuzug,2007,8,Ausländer,M,46,Asien,China,NA,NA,Schweiz,Schweiz,BS,Gotthelf,world,China,basel,Gotthelf
 2007-8,Zuzug,2007,8,Ausländer,M,46,Asien,Singapur,NA,NA,Schweiz,Schweiz,BS,Vorstädte,world,Malaysia,basel,Vorstädte
@@ -2217,7 +2217,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Zuzug,2007,8,Ausländer,W,46,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Bern,basel,Gotthelf
 2007-8,Zuzug,2007,8,Ausländer,W,46,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,United States of America,basel,St. Alban
 2007-8,Wegzug,2007,8,Ausländer,M,46,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,AG,NA,basel,Gundeldingen,switzerland,Aargau
-2007-8,Wegzug,2007,8,Ausländer,M,46,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,europe,Turkey
+2007-8,Wegzug,2007,8,Ausländer,M,46,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,world,Turkey
 2007-8,Wegzug,2007,8,Ausländer,M,46,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,GE,NA,basel,St. Johann,switzerland,Genève
 2007-8,Wegzug,2007,8,Ausländer,M,46,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,basel,Bruderholz,switzerland,Basel-Landschaft
 2007-8,Wegzug,2007,8,Schweizer,M,46,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,BL,NA,basel,Clara,switzerland,Basel-Landschaft
@@ -2413,7 +2413,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-8,Wegzug,2007,8,Schweizer,M,59,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,JU,NA,basel,St. Johann,switzerland,Jura
 2007-8,Zuzug,2007,8,Schweizer,M,60,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Solothurn,basel,Gundeldingen
 2007-8,Zuzug,2007,8,Ausländer,W,60,Ozeanien,Australien,NA,NA,Schweiz,Schweiz,BS,Riehen,world,Australia,basel,Riehen
-2007-8,Wegzug,2007,8,Ausländer,M,60,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Rosental,europe,Turkey
+2007-8,Wegzug,2007,8,Ausländer,M,60,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Rosental,world,Turkey
 2007-8,Wegzug,2007,8,Schweizer,M,60,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,basel,Breite,switzerland,Basel-Landschaft
 2007-8,Wegzug,2007,8,Schweizer,W,60,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,AG,NA,basel,St. Johann,switzerland,Aargau
 2007-8,Wegzug,2007,8,Schweizer,W,60,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,basel,Gotthelf,switzerland,Basel-Landschaft

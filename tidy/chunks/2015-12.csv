@@ -44,7 +44,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Wegzug,2015,12,Schweizer,W,1,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Hirzbrunnen,europe,Germany
 2015-12,Zuzug,2015,12,Ausländer,W,1,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Basel-Landschaft,basel,Vorstädte
 2015-12,Zuzug,2015,12,Ausländer,W,1,Asien,Syrien,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Syria,basel,Matthäus
-2015-12,Zuzug,2015,12,Ausländer,M,1,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Turkey,basel,Breite
+2015-12,Zuzug,2015,12,Ausländer,M,1,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,world,Turkey,basel,Breite
 2015-12,Wegzug,2015,12,Schweizer,W,1,Schweiz,Schweiz,BS,Iselin,Ozeanien,Australien,Ausland,NA,basel,Iselin,world,Australia
 2015-12,Wegzug,2015,12,Ausländer,M,1,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2015-12,Wegzug,2015,12,Schweizer,M,1,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,basel,Bachletten,switzerland,Basel-Landschaft
@@ -280,7 +280,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Zuzug,2015,12,Ausländer,W,19,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Solothurn,basel,Iselin
 2015-12,Zuzug,2015,12,Schweizer,W,19,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Basel-Landschaft,basel,Vorstädte
 2015-12,Zuzug,2015,12,Ausländer,W,19,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,United States of America,basel,St. Johann
-2015-12,Zuzug,2015,12,Ausländer,M,19,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Turkey,basel,Matthäus
+2015-12,Zuzug,2015,12,Ausländer,M,19,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Turkey,basel,Matthäus
 2015-12,Zuzug,2015,12,Ausländer,W,19,Schweiz,Schweiz,SH,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Schaffhausen,basel,Iselin
 2015-12,Zuzug,2015,12,Schweizer,M,19,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Luzern,basel,Matthäus
 2015-12,Zuzug,2015,12,Ausländer,M,19,Afrika,Nigeria,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Nigeria,basel,Matthäus
@@ -376,7 +376,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Zuzug,2015,12,Ausländer,W,22,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Zürich,basel,Rosental
 2015-12,Zuzug,2015,12,Ausländer,M,22,Asien,Irak,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Iraq,basel,Matthäus
 2015-12,Zuzug,2015,12,Ausländer,W,22,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Bern,basel,St. Johann
-2015-12,Zuzug,2015,12,Ausländer,M,22,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Turkey,basel,St. Johann
+2015-12,Zuzug,2015,12,Ausländer,M,22,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,Turkey,basel,St. Johann
 2015-12,Zuzug,2015,12,Ausländer,M,22,Ozeanien,Australien,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Australia,basel,Matthäus
 2015-12,Zuzug,2015,12,Ausländer,W,22,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Basel-Landschaft,basel,Rosental
 2015-12,Zuzug,2015,12,Ausländer,W,22,Schweiz,Schweiz,TI,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Ticino,basel,Riehen
@@ -403,7 +403,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Zuzug,2015,12,Schweizer,W,23,Schweiz,Schweiz,AR,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Appenzell Ausserrhoden,basel,Vorstädte
 2015-12,Zuzug,2015,12,Schweizer,W,23,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Solothurn,basel,Gundeldingen
 2015-12,Zuzug,2015,12,Schweizer,M,23,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Aargau,basel,St. Johann
-2015-12,Zuzug,2015,12,Ausländer,M,23,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Turkey,basel,Am Ring
+2015-12,Zuzug,2015,12,Ausländer,M,23,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Turkey,basel,Am Ring
 2015-12,Zuzug,2015,12,Ausländer,M,23,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Italy,basel,Am Ring
 2015-12,Zuzug,2015,12,Schweizer,W,23,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Zürich,basel,St. Johann
 2015-12,Zuzug,2015,12,Schweizer,M,23,Schweiz,Schweiz,SZ,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Schwyz,basel,Gundeldingen
@@ -437,7 +437,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Zuzug,2015,12,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Germany,basel,Wettstein
 2015-12,Zuzug,2015,12,Ausländer,W,23,Europa (ohne Schweiz),Dänemark,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Denmark,basel,Riehen
 2015-12,Zuzug,2015,12,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
-2015-12,Zuzug,2015,12,Ausländer,M,23,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Turkey,basel,Matthäus
+2015-12,Zuzug,2015,12,Ausländer,M,23,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Turkey,basel,Matthäus
 2015-12,Wegzug,2015,12,Schweizer,W,23,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2015-12,Wegzug,2015,12,Ausländer,M,23,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,GE,NA,basel,Rosental,switzerland,Genève
 2015-12,Wegzug,2015,12,Ausländer,W,23,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Gundeldingen,europe,Germany
@@ -566,7 +566,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Zuzug,2015,12,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Germany,basel,Iselin
 2015-12,Zuzug,2015,12,Ausländer,M,25,Schweiz,Schweiz,GE,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Genève,basel,Iselin
 2015-12,Zuzug,2015,12,Ausländer,W,25,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,India,basel,Gundeldingen
-2015-12,Zuzug,2015,12,Ausländer,M,25,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Turkey,basel,Gundeldingen
+2015-12,Zuzug,2015,12,Ausländer,M,25,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Turkey,basel,Gundeldingen
 2015-12,Zuzug,2015,12,Ausländer,W,25,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Italy,basel,Rosental
 2015-12,Zuzug,2015,12,Ausländer,M,25,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Luzern,basel,Iselin
 2015-12,Zuzug,2015,12,Ausländer,W,25,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Luzern,basel,Iselin
@@ -907,7 +907,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Zuzug,2015,12,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Germany,basel,Riehen
 2015-12,Zuzug,2015,12,Ausländer,M,29,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Klybeck,switzerland,Basel-Landschaft,basel,Klybeck
 2015-12,Zuzug,2015,12,Schweizer,W,29,Schweiz,Schweiz,JU,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Jura,basel,Am Ring
-2015-12,Zuzug,2015,12,Ausländer,W,29,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Turkey,basel,Breite
+2015-12,Zuzug,2015,12,Ausländer,W,29,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,world,Turkey,basel,Breite
 2015-12,Zuzug,2015,12,Ausländer,M,29,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Rosental,world,United States of America,basel,Rosental
 2015-12,Wegzug,2015,12,Schweizer,M,29,Schweiz,Schweiz,BS,St. Johann,NA,NA,NA,NA,basel,St. Johann,NA,NA
 2015-12,Wegzug,2015,12,Schweizer,M,29,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,AG,NA,basel,Iselin,switzerland,Aargau
@@ -1344,7 +1344,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Zuzug,2015,12,Ausländer,W,36,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Germany,basel,Iselin
 2015-12,Zuzug,2015,12,Ausländer,M,36,Asien,Korea (Süd-),NA,NA,Schweiz,Schweiz,BS,Riehen,world,South Korea,basel,Riehen
 2015-12,Zuzug,2015,12,Schweizer,M,36,Europa (ohne Schweiz),Norwegen,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Norway,basel,St. Johann
-2015-12,Zuzug,2015,12,Ausländer,W,36,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Turkey,basel,St. Alban
+2015-12,Zuzug,2015,12,Ausländer,W,36,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Turkey,basel,St. Alban
 2015-12,Zuzug,2015,12,Schweizer,W,36,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Basel-Landschaft,basel,Riehen
 2015-12,Zuzug,2015,12,Ausländer,W,36,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Germany,basel,Am Ring
 2015-12,Zuzug,2015,12,Ausländer,M,36,Schweiz,Schweiz,GE,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Genève,basel,Gundeldingen
@@ -1536,7 +1536,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Zuzug,2015,12,Schweizer,W,41,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Basel-Landschaft,basel,Gotthelf
 2015-12,Zuzug,2015,12,Schweizer,W,41,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Solothurn,basel,St. Johann
 2015-12,Zuzug,2015,12,Schweizer,W,41,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Italy,basel,Iselin
-2015-12,Zuzug,2015,12,Ausländer,W,41,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Turkey,basel,Klybeck
+2015-12,Zuzug,2015,12,Ausländer,W,41,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,world,Turkey,basel,Klybeck
 2015-12,Zuzug,2015,12,Ausländer,M,41,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,europe,Germany,basel,Altstadt Kleinbasel
 2015-12,Zuzug,2015,12,Ausländer,W,41,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,India,basel,Gundeldingen
 2015-12,Zuzug,2015,12,Ausländer,W,41,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Spain,basel,Am Ring
@@ -1574,7 +1574,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Wegzug,2015,12,Schweizer,W,42,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,Iselin,europe,Spain
 2015-12,Wegzug,2015,12,Ausländer,W,42,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,VD,NA,basel,Gundeldingen,switzerland,Vaud
 2015-12,Wegzug,2015,12,Ausländer,W,42,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,LU,NA,basel,Bruderholz,switzerland,Luzern
-2015-12,Wegzug,2015,12,Ausländer,W,42,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,europe,Turkey
+2015-12,Wegzug,2015,12,Ausländer,W,42,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,world,Turkey
 2015-12,Wegzug,2015,12,Schweizer,M,42,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,ZH,NA,basel,Vorstädte,switzerland,Zürich
 2015-12,Wegzug,2015,12,Ausländer,M,42,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,basel,Matthäus,world,India
 2015-12,Wegzug,2015,12,Ausländer,M,42,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,basel,Iselin,switzerland,Zürich
@@ -1685,7 +1685,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Zuzug,2015,12,Schweizer,M,47,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Bern,basel,Gotthelf
 2015-12,Wegzug,2015,12,Ausländer,M,47,Schweiz,Schweiz,BS,St. Alban,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,St. Alban,world,United States of America
 2015-12,Wegzug,2015,12,Ausländer,M,47,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Oesterreich,Ausland,NA,basel,Breite,europe,Austria
-2015-12,Wegzug,2015,12,Ausländer,M,47,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,europe,Turkey
+2015-12,Wegzug,2015,12,Ausländer,M,47,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,world,Turkey
 2015-12,Wegzug,2015,12,Ausländer,W,47,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Bruderholz,europe,Germany
 2015-12,Zuzug,2015,12,Ausländer,M,47,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Bern,basel,Gundeldingen
 2015-12,Zuzug,2015,12,Schweizer,W,47,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
@@ -1847,7 +1847,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Zuzug,2015,12,Schweizer,M,55,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Basel-Landschaft,basel,Gundeldingen
 2015-12,Zuzug,2015,12,Ausländer,W,55,Europa (ohne Schweiz),Litauen,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Lithuania,basel,Wettstein
 2015-12,Zuzug,2015,12,Schweizer,W,55,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Aargau,basel,Am Ring
-2015-12,Wegzug,2015,12,Schweizer,M,55,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Iselin,europe,Turkey
+2015-12,Wegzug,2015,12,Schweizer,M,55,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Iselin,world,Turkey
 2015-12,Wegzug,2015,12,Schweizer,W,55,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BE,NA,basel,Iselin,switzerland,Bern
 2015-12,Wegzug,2015,12,Ausländer,W,55,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,Klybeck,europe,Spain
 2015-12,Wegzug,2015,12,Ausländer,M,56,Schweiz,Schweiz,BS,Gundeldingen,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Gundeldingen,world,United States of America
@@ -2018,8 +2018,8 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-12,Wegzug,2015,12,Schweizer,W,80,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,BL,NA,basel,Altstadt Grossbasel,switzerland,Basel-Landschaft
 2015-12,Wegzug,2015,12,Ausländer,M,81,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2015-12,Zuzug,2015,12,Ausländer,W,82,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Spain,basel,Gundeldingen
-2015-12,Wegzug,2015,12,Ausländer,W,82,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
-2015-12,Wegzug,2015,12,Ausländer,M,82,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2015-12,Wegzug,2015,12,Ausländer,W,82,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
+2015-12,Wegzug,2015,12,Ausländer,M,82,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2015-12,Wegzug,2015,12,Schweizer,M,82,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,basel,Bruderholz,switzerland,Basel-Landschaft
 2015-12,Wegzug,2015,12,Ausländer,W,83,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,basel,Bruderholz,europe,United Kingdom
 2015-12,Wegzug,2015,12,Schweizer,W,84,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,basel,Gotthelf,switzerland,Basel-Landschaft

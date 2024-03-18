@@ -109,7 +109,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Zuzug,2007,4,Ausländer,W,5,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Basel-Landschaft,basel,Bachletten
 2007-4,Zuzug,2007,4,Ausländer,W,5,Europa (ohne Schweiz),Finnland,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Finland,basel,Vorstädte
 2007-4,Wegzug,2007,4,Schweizer,W,5,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,AG,NA,basel,Bruderholz,switzerland,Aargau
-2007-4,Wegzug,2007,4,Schweizer,M,5,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,europe,Turkey
+2007-4,Wegzug,2007,4,Schweizer,M,5,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,world,Turkey
 2007-4,Wegzug,2007,4,Schweizer,W,6,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,ZH,NA,basel,Riehen,switzerland,Zürich
 2007-4,Wegzug,2007,4,Ausländer,W,6,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Riehen,europe,Germany
 2007-4,Wegzug,2007,4,Schweizer,W,6,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
@@ -243,7 +243,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Zuzug,2007,4,Schweizer,W,19,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Basel-Landschaft,basel,Bachletten
 2007-4,Zuzug,2007,4,Ausländer,M,19,Asien,Sri Lanka,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Sri Lanka,basel,Matthäus
 2007-4,Zuzug,2007,4,Ausländer,W,19,Europa (ohne Schweiz),Portugal,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Portugal,basel,Klybeck
-2007-4,Wegzug,2007,4,Schweizer,W,19,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2007-4,Wegzug,2007,4,Schweizer,W,19,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2007-4,Wegzug,2007,4,Schweizer,W,19,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,basel,Am Ring,switzerland,Basel-Landschaft
 2007-4,Zuzug,2007,4,Schweizer,M,19,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Spain,basel,Gundeldingen
 2007-4,Zuzug,2007,4,Ausländer,M,19,Europa (ohne Schweiz),Irland,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Ireland,basel,Vorstädte
@@ -291,7 +291,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Zuzug,2007,4,Schweizer,W,21,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Basel-Landschaft,basel,Iselin
 2007-4,Zuzug,2007,4,Schweizer,W,21,Schweiz,Schweiz,ZG,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Zug,basel,Iselin
 2007-4,Zuzug,2007,4,Schweizer,W,21,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Kleinhüningen,switzerland,Bern,basel,Kleinhüningen
-2007-4,Zuzug,2007,4,Ausländer,W,21,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Turkey,basel,Gundeldingen
+2007-4,Zuzug,2007,4,Ausländer,W,21,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Turkey,basel,Gundeldingen
 2007-4,Zuzug,2007,4,Ausländer,W,21,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Germany,basel,Klybeck
 2007-4,Zuzug,2007,4,Ausländer,M,21,Europa (ohne Schweiz),Frankreich,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,France,basel,Riehen
 2007-4,Zuzug,2007,4,Schweizer,M,21,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Basel-Landschaft,basel,Am Ring
@@ -440,7 +440,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Zuzug,2007,4,Schweizer,W,24,Schweiz,Schweiz,FR,NA,Schweiz,Schweiz,BS,Bruderholz,switzerland,Fribourg,basel,Bruderholz
 2007-4,Zuzug,2007,4,Schweizer,W,24,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Solothurn,basel,Am Ring
 2007-4,Zuzug,2007,4,Schweizer,W,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Basel-Landschaft,basel,Iselin
-2007-4,Zuzug,2007,4,Ausländer,M,24,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Turkey,basel,Breite
+2007-4,Zuzug,2007,4,Ausländer,M,24,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,world,Turkey,basel,Breite
 2007-4,Zuzug,2007,4,Schweizer,M,24,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Wettstein,switzerland,Basel-Landschaft,basel,Wettstein
 2007-4,Zuzug,2007,4,Schweizer,M,24,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Aargau,basel,Gundeldingen
 2007-4,Wegzug,2007,4,Ausländer,M,24,Schweiz,Schweiz,BS,Gundeldingen,NA,NA,NA,NA,basel,Gundeldingen,NA,NA
@@ -713,7 +713,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Zuzug,2007,4,Schweizer,M,27,Schweiz,Schweiz,VD,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Vaud,basel,Iselin
 2007-4,Zuzug,2007,4,Ausländer,W,27,Lateinamerika und Karibik,Venezuela,NA,NA,Schweiz,Schweiz,BS,Clara,world,Venezuela,basel,Clara
 2007-4,Zuzug,2007,4,Ausländer,W,27,Lateinamerika und Karibik,Brasilien,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Brazil,basel,Am Ring
-2007-4,Zuzug,2007,4,Ausländer,W,27,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,europe,Turkey,basel,Hirzbrunnen
+2007-4,Zuzug,2007,4,Ausländer,W,27,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,world,Turkey,basel,Hirzbrunnen
 2007-4,Zuzug,2007,4,Schweizer,M,27,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Solothurn,basel,Gundeldingen
 2007-4,Zuzug,2007,4,Schweizer,W,27,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Aargau,basel,Gotthelf
 2007-4,Zuzug,2007,4,Schweizer,M,27,Schweiz,Schweiz,NW,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Nidwalden,basel,Gotthelf
@@ -1214,7 +1214,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Wegzug,2007,4,Schweizer,W,34,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Bundesrep. Jugoslawien,Ausland,NA,basel,Am Ring,europe,Serbia
 2007-4,Wegzug,2007,4,Schweizer,W,34,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,GR,NA,basel,Breite,switzerland,Graubünden
 2007-4,Wegzug,2007,4,Schweizer,M,34,Schweiz,Schweiz,BS,St. Johann,Ozeanien,Neuseeland,Ausland,NA,basel,St. Johann,world,New Zealand
-2007-4,Wegzug,2007,4,Ausländer,M,34,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Iselin,europe,Turkey
+2007-4,Wegzug,2007,4,Ausländer,M,34,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Iselin,world,Turkey
 2007-4,Wegzug,2007,4,Schweizer,M,34,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,basel,Iselin,switzerland,Zürich
 2007-4,Wegzug,2007,4,Schweizer,W,34,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,AG,NA,basel,Bachletten,switzerland,Aargau
 2007-4,Wegzug,2007,4,Ausländer,W,34,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Altstadt Kleinbasel,world,United States of America
@@ -1242,7 +1242,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Wegzug,2007,4,Ausländer,M,34,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,basel,Breite,switzerland,Basel-Landschaft
 2007-4,Wegzug,2007,4,Ausländer,W,34,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Finnland,Ausland,NA,basel,Matthäus,europe,Finland
 2007-4,Wegzug,2007,4,Ausländer,M,34,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,St. Johann,europe,Germany
-2007-4,Wegzug,2007,4,Ausländer,W,34,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,europe,Turkey
+2007-4,Wegzug,2007,4,Ausländer,W,34,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,world,Turkey
 2007-4,Wegzug,2007,4,Schweizer,M,34,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,AG,NA,basel,Gotthelf,switzerland,Aargau
 2007-4,Wegzug,2007,4,Schweizer,M,34,Schweiz,Schweiz,BS,St. Alban,NA,NA,NA,NA,basel,St. Alban,NA,NA
 2007-4,Wegzug,2007,4,Schweizer,W,34,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Gundeldingen,europe,Germany
@@ -1258,7 +1258,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Wegzug,2007,4,Ausländer,W,35,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,basel,Bachletten,switzerland,Basel-Landschaft
 2007-4,Wegzug,2007,4,Schweizer,M,35,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,ZH,NA,basel,Riehen,switzerland,Zürich
 2007-4,Wegzug,2007,4,Schweizer,W,35,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,ZH,NA,basel,Riehen,switzerland,Zürich
-2007-4,Wegzug,2007,4,Ausländer,M,35,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,europe,Turkey
+2007-4,Wegzug,2007,4,Ausländer,M,35,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,world,Turkey
 2007-4,Wegzug,2007,4,Ausländer,M,35,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Schweiz,Schweiz,BL,NA,basel,Altstadt Kleinbasel,switzerland,Basel-Landschaft
 2007-4,Wegzug,2007,4,Ausländer,M,35,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Kroatien,Ausland,NA,basel,St. Johann,europe,Croatia
 2007-4,Wegzug,2007,4,Ausländer,W,35,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Kroatien,Ausland,NA,basel,St. Johann,europe,Croatia
@@ -1280,7 +1280,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Zuzug,2007,4,Schweizer,M,35,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Zürich,basel,Gundeldingen
 2007-4,Zuzug,2007,4,Ausländer,M,35,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,United Kingdom,basel,Iselin
 2007-4,Zuzug,2007,4,Ausländer,M,35,Europa (ohne Schweiz),Portugal,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Portugal,basel,Rosental
-2007-4,Zuzug,2007,4,Ausländer,M,35,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Turkey,basel,Matthäus
+2007-4,Zuzug,2007,4,Ausländer,M,35,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Turkey,basel,Matthäus
 2007-4,Zuzug,2007,4,Schweizer,W,35,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Aargau,basel,Gundeldingen
 2007-4,Zuzug,2007,4,Ausländer,W,35,Europa (ohne Schweiz),Finnland,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Finland,basel,Vorstädte
 2007-4,Zuzug,2007,4,Ausländer,M,35,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Zürich,basel,Gundeldingen
@@ -1567,7 +1567,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Wegzug,2007,4,Ausländer,W,41,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Breite,europe,Germany
 2007-4,Wegzug,2007,4,Schweizer,W,42,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,St. Johann,europe,Spain
 2007-4,Wegzug,2007,4,Ausländer,W,42,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Finnland,Ausland,NA,basel,Vorstädte,europe,Finland
-2007-4,Wegzug,2007,4,Ausländer,M,42,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,europe,Turkey
+2007-4,Wegzug,2007,4,Ausländer,M,42,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,world,Turkey
 2007-4,Zuzug,2007,4,Schweizer,M,42,Schweiz,Schweiz,OW,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Obwalden,basel,St. Alban
 2007-4,Zuzug,2007,4,Schweizer,M,42,Schweiz,Schweiz,VS,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Valais,basel,Riehen
 2007-4,Wegzug,2007,4,Ausländer,M,42,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Riehen,europe,France
@@ -1841,7 +1841,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Zuzug,2007,4,Ausländer,M,52,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
 2007-4,Zuzug,2007,4,Ausländer,W,52,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,United States of America,basel,St. Alban
 2007-4,Zuzug,2007,4,Ausländer,M,52,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Bachletten,europe,Germany,basel,Bachletten
-2007-4,Wegzug,2007,4,Ausländer,M,52,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2007-4,Wegzug,2007,4,Ausländer,M,52,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2007-4,Wegzug,2007,4,Schweizer,W,52,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Gundeldingen,europe,Germany
 2007-4,Wegzug,2007,4,Schweizer,M,52,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2007-4,Wegzug,2007,4,Ausländer,M,53,Schweiz,Schweiz,BS,Klybeck,NA,NA,NA,NA,basel,Klybeck,NA,NA
@@ -1869,7 +1869,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Wegzug,2007,4,Schweizer,W,54,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Bachletten,europe,France
 2007-4,Wegzug,2007,4,Ausländer,M,55,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Italien,Ausland,NA,basel,Wettstein,europe,Italy
 2007-4,Wegzug,2007,4,Ausländer,M,55,Schweiz,Schweiz,BS,Klybeck,NA,NA,NA,NA,basel,Klybeck,NA,NA
-2007-4,Wegzug,2007,4,Schweizer,M,55,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,europe,Turkey
+2007-4,Wegzug,2007,4,Schweizer,M,55,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,world,Turkey
 2007-4,Wegzug,2007,4,Schweizer,W,55,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Ungarn,Ausland,NA,basel,Bachletten,europe,Hungary
 2007-4,Wegzug,2007,4,Ausländer,M,55,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Italien,Ausland,NA,basel,Klybeck,europe,Italy
 2007-4,Zuzug,2007,4,Ausländer,W,55,Schweiz,Schweiz,ZG,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Zug,basel,Matthäus
@@ -1891,14 +1891,14 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Zuzug,2007,4,Schweizer,W,56,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Basel-Landschaft,basel,Iselin
 2007-4,Wegzug,2007,4,Schweizer,M,56,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,basel,Am Ring,switzerland,Basel-Landschaft
 2007-4,Wegzug,2007,4,Ausländer,M,56,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Italien,Ausland,NA,basel,Matthäus,europe,Italy
-2007-4,Wegzug,2007,4,Ausländer,M,57,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2007-4,Wegzug,2007,4,Ausländer,M,57,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2007-4,Wegzug,2007,4,Ausländer,W,57,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
 2007-4,Wegzug,2007,4,Ausländer,M,57,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,St. Alban,europe,Germany
 2007-4,Wegzug,2007,4,Ausländer,M,57,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,St. Johann,europe,Spain
 2007-4,Zuzug,2007,4,Ausländer,M,57,Schweiz,Schweiz,SZ,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Schwyz,basel,St. Alban
 2007-4,Zuzug,2007,4,Ausländer,W,57,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Italy,basel,St. Johann
 2007-4,Zuzug,2007,4,Schweizer,W,57,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Solothurn,basel,Iselin
-2007-4,Zuzug,2007,4,Ausländer,M,57,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Turkey,basel,Gundeldingen
+2007-4,Zuzug,2007,4,Ausländer,M,57,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Turkey,basel,Gundeldingen
 2007-4,Wegzug,2007,4,Ausländer,M,57,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,Breite,europe,Spain
 2007-4,Zuzug,2007,4,Ausländer,W,57,Lateinamerika und Karibik,Brasilien,NA,NA,Schweiz,Schweiz,BS,Bachletten,world,Brazil,basel,Bachletten
 2007-4,Wegzug,2007,4,Schweizer,W,57,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,basel,Bachletten,switzerland,Basel-Landschaft
@@ -1929,7 +1929,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Wegzug,2007,4,Schweizer,W,59,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2007-4,Zuzug,2007,4,Ausländer,M,59,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
 2007-4,Zuzug,2007,4,Schweizer,M,59,Asien,Thailand,NA,NA,Schweiz,Schweiz,BS,Iselin,world,Thailand,basel,Iselin
-2007-4,Wegzug,2007,4,Ausländer,W,59,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2007-4,Wegzug,2007,4,Ausländer,W,59,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2007-4,Wegzug,2007,4,Schweizer,W,59,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BE,NA,basel,Bruderholz,switzerland,Bern
 2007-4,Wegzug,2007,4,Ausländer,W,59,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Riehen,europe,Germany
 2007-4,Wegzug,2007,4,Ausländer,W,59,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Bundesrep. Jugoslawien,Ausland,NA,basel,Am Ring,europe,Serbia
@@ -1993,7 +1993,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Wegzug,2007,4,Ausländer,M,67,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Hirzbrunnen,europe,Germany
 2007-4,Wegzug,2007,4,Ausländer,M,67,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Italien,Ausland,NA,basel,Hirzbrunnen,europe,Italy
 2007-4,Wegzug,2007,4,Ausländer,M,68,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Italien,Ausland,NA,basel,Matthäus,europe,Italy
-2007-4,Wegzug,2007,4,Ausländer,W,68,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Iselin,europe,Turkey
+2007-4,Wegzug,2007,4,Ausländer,W,68,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Iselin,world,Turkey
 2007-4,Zuzug,2007,4,Schweizer,M,68,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Hirzbrunnen,switzerland,Basel-Landschaft,basel,Hirzbrunnen
 2007-4,Wegzug,2007,4,Ausländer,W,68,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Hirzbrunnen,europe,Germany
 2007-4,Wegzug,2007,4,Schweizer,W,68,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SG,NA,basel,Gundeldingen,switzerland,St. Gallen
@@ -2029,7 +2029,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2007-4,Zuzug,2007,4,Schweizer,W,79,Schweiz,Schweiz,TI,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Ticino,basel,Am Ring
 2007-4,Wegzug,2007,4,Schweizer,M,79,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BE,NA,basel,Bruderholz,switzerland,Bern
 2007-4,Wegzug,2007,4,Schweizer,W,80,Schweiz,Schweiz,BS,Riehen,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Riehen,world,United States of America
-2007-4,Wegzug,2007,4,Ausländer,W,80,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2007-4,Wegzug,2007,4,Ausländer,W,80,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2007-4,Wegzug,2007,4,Schweizer,M,81,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,AG,NA,basel,Kleinhüningen,switzerland,Aargau
 2007-4,Wegzug,2007,4,Schweizer,W,82,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,SZ,NA,basel,Gotthelf,switzerland,Schwyz
 2007-4,Zuzug,2007,4,Schweizer,M,83,Schweiz,Schweiz,TI,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Ticino,basel,Am Ring

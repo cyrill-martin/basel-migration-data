@@ -271,7 +271,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Zuzug,2023,6,Ausländer,W,17,Asien,Mongolei,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,Mongolia,basel,St. Johann
 2023-6,Zuzug,2023,6,Ausländer,M,17,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,United States of America,basel,St. Johann
 2023-6,Zuzug,2023,6,Ausländer,M,17,Europa (ohne Schweiz),Ukraine,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Ukraine,basel,Vorstädte
-2023-6,Wegzug,2023,6,Ausländer,W,17,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Vorstädte,europe,Turkey
+2023-6,Wegzug,2023,6,Ausländer,W,17,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Vorstädte,world,Turkey
 2023-6,Wegzug,2023,6,Ausländer,M,17,Schweiz,Schweiz,BS,Vorstädte,Lateinamerika und Karibik,Mexiko,Ausland,NA,basel,Vorstädte,world,Mexico
 2023-6,Wegzug,2023,6,Ausländer,M,17,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,AG,NA,basel,Matthäus,switzerland,Aargau
 2023-6,Wegzug,2023,6,Ausländer,W,17,Schweiz,Schweiz,BS,Vorstädte,Asien,Japan,Ausland,NA,basel,Vorstädte,world,Japan
@@ -530,7 +530,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Wegzug,2023,6,Ausländer,W,24,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,SO,NA,basel,Bruderholz,switzerland,Solothurn
 2023-6,Wegzug,2023,6,Schweizer,M,24,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SO,NA,basel,St. Johann,switzerland,Solothurn
 2023-6,Wegzug,2023,6,Schweizer,W,24,Schweiz,Schweiz,BS,Clara,Schweiz,Schweiz,ZH,NA,basel,Clara,switzerland,Zürich
-2023-6,Wegzug,2023,6,Ausländer,W,24,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,europe,Turkey
+2023-6,Wegzug,2023,6,Ausländer,W,24,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,world,Turkey
 2023-6,Wegzug,2023,6,Schweizer,W,24,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,BL,NA,basel,Hirzbrunnen,switzerland,Basel-Landschaft
 2023-6,Wegzug,2023,6,Ausländer,M,24,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Ukraine,Ausland,NA,basel,Riehen,europe,Ukraine
 2023-6,Wegzug,2023,6,Ausländer,W,24,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,St. Johann,europe,France
@@ -760,7 +760,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Zuzug,2023,6,Ausländer,W,27,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Basel-Landschaft,basel,St. Johann
 2023-6,Zuzug,2023,6,Schweizer,M,27,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Basel-Landschaft,basel,St. Alban
 2023-6,Zuzug,2023,6,Ausländer,M,27,Europa (ohne Schweiz),Portugal,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Portugal,basel,Matthäus
-2023-6,Zuzug,2023,6,Ausländer,M,27,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Turkey,basel,St. Alban
+2023-6,Zuzug,2023,6,Ausländer,M,27,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Turkey,basel,St. Alban
 2023-6,Zuzug,2023,6,Ausländer,W,27,Europa (ohne Schweiz),Kosovo,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Kosovo,basel,Breite
 2023-6,Zuzug,2023,6,Ausländer,M,27,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Gotthelf,europe,Poland,basel,Gotthelf
 2023-6,Zuzug,2023,6,Ausländer,W,27,Asien,Iran,NA,NA,Schweiz,Schweiz,BS,Wettstein,world,Iran,basel,Wettstein
@@ -1246,7 +1246,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Wegzug,2023,6,Ausländer,M,33,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,VD,NA,basel,Gundeldingen,switzerland,Vaud
 2023-6,Wegzug,2023,6,Ausländer,W,33,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Matthäus,europe,Germany
 2023-6,Wegzug,2023,6,Ausländer,M,33,Schweiz,Schweiz,BS,St. Johann,NA,NA,NA,NA,basel,St. Johann,NA,NA
-2023-6,Wegzug,2023,6,Ausländer,M,33,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Rosental,europe,Turkey
+2023-6,Wegzug,2023,6,Ausländer,M,33,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Rosental,world,Turkey
 2023-6,Wegzug,2023,6,Schweizer,W,33,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2023-6,Zuzug,2023,6,Ausländer,M,33,Europa (ohne Schweiz),Oesterreich,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Austria,basel,Am Ring
 2023-6,Zuzug,2023,6,Ausländer,M,33,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Poland,basel,Rosental
@@ -1472,7 +1472,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Zuzug,2023,6,Ausländer,M,37,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Aargau,basel,Gundeldingen
 2023-6,Zuzug,2023,6,Schweizer,W,37,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Aargau,basel,Iselin
 2023-6,Zuzug,2023,6,Ausländer,M,37,Ozeanien,Australien,NA,NA,Schweiz,Schweiz,BS,Vorstädte,world,Australia,basel,Vorstädte
-2023-6,Zuzug,2023,6,Schweizer,W,37,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Turkey,basel,Riehen
+2023-6,Zuzug,2023,6,Schweizer,W,37,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Riehen,world,Turkey,basel,Riehen
 2023-6,Wegzug,2023,6,Schweizer,W,37,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,JU,NA,basel,Bachletten,switzerland,Jura
 2023-6,Wegzug,2023,6,Ausländer,W,37,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Ukraine,Ausland,NA,basel,Gotthelf,europe,Ukraine
 2023-6,Wegzug,2023,6,Schweizer,W,37,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
@@ -1553,7 +1553,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Zuzug,2023,6,Ausländer,M,38,Lateinamerika und Karibik,Brasilien,NA,NA,Schweiz,Schweiz,BS,Breite,world,Brazil,basel,Breite
 2023-6,Zuzug,2023,6,Ausländer,M,38,Europa (ohne Schweiz),Rumänien,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Romania,basel,Rosental
 2023-6,Zuzug,2023,6,Ausländer,M,38,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,India,basel,Matthäus
-2023-6,Zuzug,2023,6,Ausländer,M,38,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Turkey,basel,Iselin
+2023-6,Zuzug,2023,6,Ausländer,M,38,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Iselin,world,Turkey,basel,Iselin
 2023-6,Zuzug,2023,6,Ausländer,M,38,Europa (ohne Schweiz),Island,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Iceland,basel,Vorstädte
 2023-6,Zuzug,2023,6,Ausländer,W,38,Lateinamerika und Karibik,Brasilien,NA,NA,Schweiz,Schweiz,BS,Breite,world,Brazil,basel,Breite
 2023-6,Zuzug,2023,6,Schweizer,M,38,Asien,Israel,NA,NA,Schweiz,Schweiz,BS,Vorstädte,world,Israel,basel,Vorstädte
@@ -1587,7 +1587,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Zuzug,2023,6,Ausländer,M,39,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Germany,basel,Gundeldingen
 2023-6,Zuzug,2023,6,Ausländer,M,39,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Poland,basel,Rosental
 2023-6,Zuzug,2023,6,Ausländer,M,39,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Germany,basel,Matthäus
-2023-6,Zuzug,2023,6,Ausländer,M,39,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Turkey,basel,Rosental
+2023-6,Zuzug,2023,6,Ausländer,M,39,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Turkey,basel,Rosental
 2023-6,Zuzug,2023,6,Ausländer,W,39,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Poland,basel,St. Alban
 2023-6,Zuzug,2023,6,Ausländer,W,39,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Riehen,world,United States of America,basel,Riehen
 2023-6,Zuzug,2023,6,Schweizer,M,39,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Zürich,basel,Matthäus
@@ -1891,7 +1891,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Zuzug,2023,6,Ausländer,M,49,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Bern,basel,Rosental
 2023-6,Zuzug,2023,6,Ausländer,M,49,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Zürich,basel,St. Johann
 2023-6,Wegzug,2023,6,Schweizer,M,49,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
-2023-6,Wegzug,2023,6,Ausländer,W,49,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2023-6,Wegzug,2023,6,Ausländer,W,49,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2023-6,Wegzug,2023,6,Ausländer,W,49,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Portugal,Ausland,NA,basel,Am Ring,europe,Portugal
 2023-6,Wegzug,2023,6,Schweizer,M,49,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,basel,Klybeck,switzerland,Basel-Landschaft
 2023-6,Wegzug,2023,6,Ausländer,W,49,Schweiz,Schweiz,BS,Clara,NA,NA,NA,NA,basel,Clara,NA,NA
@@ -1907,7 +1907,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Zuzug,2023,6,Schweizer,W,50,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Basel-Landschaft,basel,Gotthelf
 2023-6,Zuzug,2023,6,Schweizer,W,50,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Bruderholz,switzerland,Aargau,basel,Bruderholz
 2023-6,Zuzug,2023,6,Ausländer,M,50,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Basel-Landschaft,basel,St. Johann
-2023-6,Wegzug,2023,6,Schweizer,M,50,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2023-6,Wegzug,2023,6,Schweizer,M,50,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2023-6,Wegzug,2023,6,Schweizer,M,50,Schweiz,Schweiz,BS,Vorstädte,NA,NA,NA,NA,basel,Vorstädte,NA,NA
 2023-6,Zuzug,2023,6,Schweizer,W,51,Asien,Israel,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Israel,basel,St. Alban
 2023-6,Zuzug,2023,6,Ausländer,W,51,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,United States of America,basel,St. Johann
@@ -2028,7 +2028,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Zuzug,2023,6,Schweizer,M,59,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Zürich,basel,Riehen
 2023-6,Wegzug,2023,6,Ausländer,M,59,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,ZH,NA,basel,Bruderholz,switzerland,Zürich
 2023-6,Wegzug,2023,6,Schweizer,M,59,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,GR,NA,basel,St. Alban,switzerland,Graubünden
-2023-6,Zuzug,2023,6,Ausländer,M,60,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Bachletten,europe,Turkey,basel,Bachletten
+2023-6,Zuzug,2023,6,Ausländer,M,60,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Bachletten,world,Turkey,basel,Bachletten
 2023-6,Zuzug,2023,6,Ausländer,M,60,Asien,Syrien,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Syria,basel,Rosental
 2023-6,Zuzug,2023,6,Schweizer,M,60,Schweiz,Schweiz,TI,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Ticino,basel,Gundeldingen
 2023-6,Wegzug,2023,6,Ausländer,M,60,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,AG,NA,basel,Kleinhüningen,switzerland,Aargau
@@ -2080,7 +2080,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Zuzug,2023,6,Schweizer,W,63,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Basel-Landschaft,basel,Am Ring
 2023-6,Zuzug,2023,6,Ausländer,W,63,NA,NA,NA,NA,Schweiz,Schweiz,BS,Rosental,NA,NA,basel,Rosental
 2023-6,Wegzug,2023,6,Ausländer,M,63,Schweiz,Schweiz,BS,Gotthelf,Asien,Japan,Ausland,NA,basel,Gotthelf,world,Japan
-2023-6,Wegzug,2023,6,Ausländer,W,63,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,europe,Turkey
+2023-6,Wegzug,2023,6,Ausländer,W,63,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,world,Turkey
 2023-6,Zuzug,2023,6,Schweizer,M,64,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,St. Gallen,basel,St. Alban
 2023-6,Wegzug,2023,6,Ausländer,M,64,Schweiz,Schweiz,BS,Altstadt Grossbasel,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Altstadt Grossbasel,europe,France
 2023-6,Wegzug,2023,6,Schweizer,M,64,Schweiz,Schweiz,BS,St. Johann,NA,NA,NA,NA,basel,St. Johann,NA,NA
@@ -2095,7 +2095,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Wegzug,2023,6,Schweizer,W,64,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2023-6,Wegzug,2023,6,Ausländer,M,64,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,ZH,NA,basel,Breite,switzerland,Zürich
 2023-6,Zuzug,2023,6,Schweizer,W,65,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Aargau,basel,St. Johann
-2023-6,Wegzug,2023,6,Schweizer,M,65,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,europe,Turkey
+2023-6,Wegzug,2023,6,Schweizer,M,65,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,world,Turkey
 2023-6,Wegzug,2023,6,Schweizer,M,65,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,TG,NA,basel,St. Alban,switzerland,Thurgau
 2023-6,Wegzug,2023,6,Schweizer,M,65,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Schweiz,Schweiz,ZH,NA,basel,Altstadt Kleinbasel,switzerland,Zürich
 2023-6,Wegzug,2023,6,Schweizer,M,65,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,ZH,NA,basel,St. Alban,switzerland,Zürich
@@ -2150,7 +2150,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Wegzug,2023,6,Ausländer,M,74,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,basel,Breite,switzerland,Basel-Landschaft
 2023-6,Zuzug,2023,6,Ausländer,W,75,Europa (ohne Schweiz),Ukraine,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Ukraine,basel,Gundeldingen
 2023-6,Wegzug,2023,6,Schweizer,W,77,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,basel,Bruderholz,switzerland,Basel-Landschaft
-2023-6,Wegzug,2023,6,Ausländer,W,77,Schweiz,Schweiz,BS,Altstadt Grossbasel,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Altstadt Grossbasel,europe,Turkey
+2023-6,Wegzug,2023,6,Ausländer,W,77,Schweiz,Schweiz,BS,Altstadt Grossbasel,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Altstadt Grossbasel,world,Turkey
 2023-6,Wegzug,2023,6,Schweizer,M,78,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Kroatien,Ausland,NA,basel,Gundeldingen,europe,Croatia
 2023-6,Wegzug,2023,6,Ausländer,M,79,Schweiz,Schweiz,BS,Altstadt Grossbasel,Europa (ohne Schweiz),Oesterreich,Ausland,NA,basel,Altstadt Grossbasel,europe,Austria
 2023-6,Wegzug,2023,6,Schweizer,M,80,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,JU,NA,basel,Breite,switzerland,Jura
@@ -2175,5 +2175,5 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-6,Zuzug,2023,6,Schweizer,M,88,Schweiz,Schweiz,ZG,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Zug,basel,Riehen
 2023-6,Wegzug,2023,6,Schweizer,W,88,Schweiz,Schweiz,BS,St. Alban,Lateinamerika und Karibik,Brasilien,Ausland,NA,basel,St. Alban,world,Brazil
 2023-6,Zuzug,2023,6,Ausländer,M,88,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Basel-Landschaft,basel,Riehen
-2023-6,Wegzug,2023,6,Schweizer,M,90,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Hirzbrunnen,europe,Turkey
+2023-6,Wegzug,2023,6,Schweizer,M,90,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Hirzbrunnen,world,Turkey
 2023-6,Wegzug,2023,6,Schweizer,W,91,Schweiz,Schweiz,BS,Breite,NA,NA,NA,NA,basel,Breite,NA,NA

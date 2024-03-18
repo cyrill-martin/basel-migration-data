@@ -55,7 +55,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Wegzug,2020,6,Ausländer,M,2,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Finnland,Ausland,NA,basel,St. Alban,europe,Finland
 2020-6,Wegzug,2020,6,Schweizer,W,2,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2020-6,Wegzug,2020,6,Ausländer,W,2,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,basel,St. Alban,switzerland,Basel-Landschaft
-2020-6,Wegzug,2020,6,Ausländer,W,2,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,europe,Turkey
+2020-6,Wegzug,2020,6,Ausländer,W,2,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,world,Turkey
 2020-6,Wegzug,2020,6,Schweizer,W,2,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
 2020-6,Zuzug,2020,6,Ausländer,M,3,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Basel-Landschaft,basel,St. Alban
 2020-6,Zuzug,2020,6,Ausländer,M,3,Europa (ohne Schweiz),Frankreich,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,France,basel,Riehen
@@ -63,7 +63,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Wegzug,2020,6,Ausländer,W,3,Schweiz,Schweiz,BS,St. Alban,Asien,Indien,Ausland,NA,basel,St. Alban,world,India
 2020-6,Wegzug,2020,6,Schweizer,W,3,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
 2020-6,Wegzug,2020,6,Ausländer,W,3,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,basel,Matthäus,world,India
-2020-6,Wegzug,2020,6,Ausländer,W,3,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,europe,Turkey
+2020-6,Wegzug,2020,6,Ausländer,W,3,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,world,Turkey
 2020-6,Wegzug,2020,6,Schweizer,W,3,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Iselin,europe,France
 2020-6,Wegzug,2020,6,Schweizer,W,3,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,basel,St. Alban,switzerland,Basel-Landschaft
 2020-6,Wegzug,2020,6,Schweizer,W,3,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
@@ -337,7 +337,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Wegzug,2020,6,Ausländer,W,22,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,basel,Am Ring,switzerland,Basel-Landschaft
 2020-6,Wegzug,2020,6,Schweizer,M,22,Schweiz,Schweiz,BS,Rosental,NA,NA,NA,NA,basel,Rosental,NA,NA
 2020-6,Wegzug,2020,6,Schweizer,W,22,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,GR,NA,basel,Wettstein,switzerland,Graubünden
-2020-6,Wegzug,2020,6,Ausländer,W,22,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2020-6,Wegzug,2020,6,Ausländer,W,22,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2020-6,Zuzug,2020,6,Ausländer,W,22,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Germany,basel,Gundeldingen
 2020-6,Zuzug,2020,6,Schweizer,W,22,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Aargau,basel,Gundeldingen
 2020-6,Zuzug,2020,6,Ausländer,W,22,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Germany,basel,Breite
@@ -745,7 +745,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Zuzug,2020,6,Ausländer,W,28,Europa (ohne Schweiz),Belgien,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Belgium,basel,Matthäus
 2020-6,Zuzug,2020,6,Schweizer,M,28,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,United Kingdom,basel,Am Ring
 2020-6,Wegzug,2020,6,Schweizer,W,28,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
-2020-6,Wegzug,2020,6,Ausländer,W,28,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Bruderholz,europe,Turkey
+2020-6,Wegzug,2020,6,Ausländer,W,28,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Bruderholz,world,Turkey
 2020-6,Wegzug,2020,6,Schweizer,W,28,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,ZH,NA,basel,Matthäus,switzerland,Zürich
 2020-6,Wegzug,2020,6,Schweizer,M,28,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,ZH,NA,basel,St. Alban,switzerland,Zürich
 2020-6,Wegzug,2020,6,Ausländer,W,28,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,ZH,NA,basel,Matthäus,switzerland,Zürich
@@ -921,7 +921,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Zuzug,2020,6,Schweizer,W,30,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Luzern,basel,St. Johann
 2020-6,Zuzug,2020,6,Schweizer,W,30,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Solothurn,basel,Gundeldingen
 2020-6,Zuzug,2020,6,Ausländer,W,30,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Poland,basel,Wettstein
-2020-6,Zuzug,2020,6,Ausländer,M,30,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Turkey,basel,Am Ring
+2020-6,Zuzug,2020,6,Ausländer,M,30,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Turkey,basel,Am Ring
 2020-6,Zuzug,2020,6,Schweizer,W,30,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Zürich,basel,Gotthelf
 2020-6,Zuzug,2020,6,Schweizer,M,30,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Basel-Landschaft,basel,Bachletten
 2020-6,Zuzug,2020,6,Ausländer,M,30,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Clara,europe,Germany,basel,Clara
@@ -944,7 +944,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Zuzug,2020,6,Ausländer,W,31,Schweiz,Schweiz,VD,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Vaud,basel,St. Alban
 2020-6,Zuzug,2020,6,Ausländer,W,31,Europa (ohne Schweiz),Rumänien,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Romania,basel,Rosental
 2020-6,Zuzug,2020,6,Ausländer,M,31,Europa (ohne Schweiz),Bulgarien,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Bulgaria,basel,St. Johann
-2020-6,Zuzug,2020,6,Ausländer,M,31,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,europe,Turkey,basel,Kleinhüningen
+2020-6,Zuzug,2020,6,Ausländer,M,31,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,world,Turkey,basel,Kleinhüningen
 2020-6,Zuzug,2020,6,Ausländer,W,31,Europa (ohne Schweiz),Irland,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Ireland,basel,Matthäus
 2020-6,Zuzug,2020,6,Ausländer,W,31,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Solothurn,basel,Rosental
 2020-6,Zuzug,2020,6,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
@@ -957,7 +957,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Zuzug,2020,6,Ausländer,W,31,Europa (ohne Schweiz),Niederlande,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Netherlands,basel,Gundeldingen
 2020-6,Zuzug,2020,6,Ausländer,W,31,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Poland,basel,Wettstein
 2020-6,Wegzug,2020,6,Ausländer,M,31,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,basel,St. Alban,switzerland,Basel-Landschaft
-2020-6,Wegzug,2020,6,Schweizer,W,31,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,europe,Turkey
+2020-6,Wegzug,2020,6,Schweizer,W,31,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,world,Turkey
 2020-6,Wegzug,2020,6,Ausländer,W,31,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Rosental,europe,Germany
 2020-6,Wegzug,2020,6,Ausländer,W,31,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,St. Alban,europe,Germany
 2020-6,Wegzug,2020,6,Schweizer,W,31,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,basel,Breite,switzerland,Basel-Landschaft
@@ -1029,7 +1029,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Zuzug,2020,6,Schweizer,M,32,Schweiz,Schweiz,GR,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Graubünden,basel,Iselin
 2020-6,Zuzug,2020,6,Ausländer,W,32,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Luzern,basel,St. Johann
 2020-6,Zuzug,2020,6,Ausländer,M,32,Schweiz,Schweiz,VS,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Valais,basel,St. Alban
-2020-6,Zuzug,2020,6,Ausländer,W,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Turkey,basel,Matthäus
+2020-6,Zuzug,2020,6,Ausländer,W,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Turkey,basel,Matthäus
 2020-6,Zuzug,2020,6,Ausländer,M,32,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Germany,basel,Klybeck
 2020-6,Zuzug,2020,6,Ausländer,M,32,Schweiz,Schweiz,VD,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Vaud,basel,Matthäus
 2020-6,Wegzug,2020,6,Schweizer,M,32,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,basel,Bachletten,switzerland,Basel-Landschaft
@@ -1101,7 +1101,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Wegzug,2020,6,Ausländer,W,33,Schweiz,Schweiz,BS,St. Johann,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,St. Johann,world,United States of America
 2020-6,Wegzug,2020,6,Schweizer,W,33,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,LU,NA,basel,Breite,switzerland,Luzern
 2020-6,Wegzug,2020,6,Ausländer,M,33,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,ZH,NA,basel,Am Ring,switzerland,Zürich
-2020-6,Wegzug,2020,6,Ausländer,M,33,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,europe,Turkey
+2020-6,Wegzug,2020,6,Ausländer,M,33,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,world,Turkey
 2020-6,Wegzug,2020,6,Ausländer,M,33,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Iselin,europe,Germany
 2020-6,Wegzug,2020,6,Schweizer,W,33,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,basel,Bachletten,switzerland,Basel-Landschaft
 2020-6,Wegzug,2020,6,Ausländer,W,33,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Matthäus,europe,Germany
@@ -1266,7 +1266,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Wegzug,2020,6,Ausländer,W,36,Schweiz,Schweiz,BS,Matthäus,NA,NA,NA,NA,basel,Matthäus,NA,NA
 2020-6,Wegzug,2020,6,Schweizer,W,36,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2020-6,Wegzug,2020,6,Ausländer,W,36,Schweiz,Schweiz,BS,Breite,Asien,Indien,Ausland,NA,basel,Breite,world,India
-2020-6,Wegzug,2020,6,Ausländer,W,36,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,europe,Turkey
+2020-6,Wegzug,2020,6,Ausländer,W,36,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,world,Turkey
 2020-6,Wegzug,2020,6,Schweizer,M,36,Schweiz,Schweiz,BS,Bruderholz,Afrika,Aethiopien,Ausland,NA,basel,Bruderholz,world,Ethiopia
 2020-6,Wegzug,2020,6,Ausländer,W,36,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Am Ring,europe,Germany
 2020-6,Wegzug,2020,6,Schweizer,W,36,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,TI,NA,basel,St. Alban,switzerland,Ticino
@@ -1276,7 +1276,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Zuzug,2020,6,Ausländer,M,36,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
 2020-6,Zuzug,2020,6,Ausländer,M,36,Schweiz,Schweiz,GR,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Graubünden,basel,Rosental
 2020-6,Zuzug,2020,6,Schweizer,M,36,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Kleinhüningen,switzerland,Basel-Landschaft,basel,Kleinhüningen
-2020-6,Zuzug,2020,6,Ausländer,W,36,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Turkey,basel,Matthäus
+2020-6,Zuzug,2020,6,Ausländer,W,36,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Turkey,basel,Matthäus
 2020-6,Zuzug,2020,6,Ausländer,W,36,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
 2020-6,Zuzug,2020,6,Ausländer,M,36,Europa (ohne Schweiz),Bulgarien,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Bulgaria,basel,Breite
 2020-6,Zuzug,2020,6,Ausländer,W,36,Schweiz,Schweiz,VD,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Vaud,basel,Gundeldingen
@@ -1645,7 +1645,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Zuzug,2020,6,Ausländer,M,48,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,United Kingdom,basel,St. Johann
 2020-6,Zuzug,2020,6,Ausländer,M,48,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
 2020-6,Zuzug,2020,6,Ausländer,M,48,Europa (ohne Schweiz),Ungarn,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Hungary,basel,St. Johann
-2020-6,Zuzug,2020,6,Ausländer,M,48,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,europe,Turkey,basel,Kleinhüningen
+2020-6,Zuzug,2020,6,Ausländer,M,48,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,world,Turkey,basel,Kleinhüningen
 2020-6,Zuzug,2020,6,Schweizer,M,48,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Basel-Landschaft,basel,St. Alban
 2020-6,Zuzug,2020,6,Ausländer,W,48,Schweiz,Schweiz,VD,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Vaud,basel,Gotthelf
 2020-6,Wegzug,2020,6,Ausländer,M,48,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,SZ,NA,basel,Bachletten,switzerland,Schwyz
@@ -1731,7 +1731,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Wegzug,2020,6,Ausländer,M,53,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2020-6,Zuzug,2020,6,Ausländer,W,53,Europa (ohne Schweiz),Rumänien,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Romania,basel,Gundeldingen
 2020-6,Zuzug,2020,6,Schweizer,W,53,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Basel-Landschaft,basel,Iselin
-2020-6,Zuzug,2020,6,Schweizer,W,53,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Turkey,basel,Breite
+2020-6,Zuzug,2020,6,Schweizer,W,53,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,world,Turkey,basel,Breite
 2020-6,Zuzug,2020,6,Ausländer,M,53,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Solothurn,basel,Gundeldingen
 2020-6,Zuzug,2020,6,Schweizer,M,53,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Basel-Landschaft,basel,Am Ring
 2020-6,Zuzug,2020,6,Schweizer,M,53,Schweiz,Schweiz,OW,NA,Schweiz,Schweiz,BS,Hirzbrunnen,switzerland,Obwalden,basel,Hirzbrunnen
@@ -1838,7 +1838,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Wegzug,2020,6,Ausländer,M,58,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,VD,NA,basel,Riehen,switzerland,Vaud
 2020-6,Wegzug,2020,6,Ausländer,W,58,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Litauen,Ausland,NA,basel,Iselin,europe,Lithuania
 2020-6,Zuzug,2020,6,Schweizer,W,59,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Breite,switzerland,Basel-Landschaft,basel,Breite
-2020-6,Wegzug,2020,6,Ausländer,W,59,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,europe,Turkey
+2020-6,Wegzug,2020,6,Ausländer,W,59,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Klybeck,world,Turkey
 2020-6,Wegzug,2020,6,Ausländer,W,59,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Portugal,Ausland,NA,basel,St. Johann,europe,Portugal
 2020-6,Wegzug,2020,6,Ausländer,W,59,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2020-6,Wegzug,2020,6,Ausländer,M,59,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,basel,Bruderholz,switzerland,Basel-Landschaft
@@ -1892,7 +1892,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Wegzug,2020,6,Ausländer,M,63,Schweiz,Schweiz,BS,Hirzbrunnen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Hirzbrunnen,europe,Germany
 2020-6,Wegzug,2020,6,Ausländer,M,63,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,basel,Klybeck,europe,United Kingdom
 2020-6,Wegzug,2020,6,Ausländer,M,63,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Rumänien,Ausland,NA,basel,Vorstädte,europe,Romania
-2020-6,Wegzug,2020,6,Ausländer,M,63,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2020-6,Wegzug,2020,6,Ausländer,M,63,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2020-6,Wegzug,2020,6,Ausländer,W,63,Schweiz,Schweiz,BS,St. Alban,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,St. Alban,world,United States of America
 2020-6,Wegzug,2020,6,Schweizer,M,63,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
 2020-6,Wegzug,2020,6,Schweizer,W,63,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,AG,NA,basel,Riehen,switzerland,Aargau
@@ -1920,7 +1920,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Wegzug,2020,6,Schweizer,W,66,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
 2020-6,Wegzug,2020,6,Schweizer,M,66,Schweiz,Schweiz,BS,Kleinhüningen,Europa (ohne Schweiz),Italien,Ausland,NA,basel,Kleinhüningen,europe,Italy
 2020-6,Wegzug,2020,6,Schweizer,W,66,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,basel,Riehen,switzerland,Basel-Landschaft
-2020-6,Wegzug,2020,6,Schweizer,M,66,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2020-6,Wegzug,2020,6,Schweizer,M,66,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2020-6,Wegzug,2020,6,Ausländer,M,66,Schweiz,Schweiz,BS,Matthäus,NA,NA,NA,NA,basel,Matthäus,NA,NA
 2020-6,Wegzug,2020,6,Schweizer,W,66,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BE,NA,basel,Wettstein,switzerland,Bern
 2020-6,Wegzug,2020,6,Schweizer,M,66,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Kroatien,Ausland,NA,basel,Gundeldingen,europe,Croatia
@@ -1952,7 +1952,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-6,Wegzug,2020,6,Schweizer,W,72,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,AG,NA,basel,Iselin,switzerland,Aargau
 2020-6,Wegzug,2020,6,Ausländer,M,73,Schweiz,Schweiz,BS,St. Johann,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,St. Johann,world,United States of America
 2020-6,Zuzug,2020,6,Schweizer,W,74,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Zürich,basel,Riehen
-2020-6,Wegzug,2020,6,Ausländer,W,74,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Iselin,europe,Turkey
+2020-6,Wegzug,2020,6,Ausländer,W,74,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Iselin,world,Turkey
 2020-6,Zuzug,2020,6,Schweizer,M,74,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Basel-Landschaft,basel,St. Alban
 2020-6,Zuzug,2020,6,Schweizer,M,74,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Basel-Landschaft,basel,Am Ring
 2020-6,Wegzug,2020,6,Ausländer,M,75,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,basel,St. Alban,switzerland,Basel-Landschaft

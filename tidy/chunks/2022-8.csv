@@ -41,7 +41,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Wegzug,2022,8,Ausländer,M,1,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,SO,NA,basel,Hirzbrunnen,switzerland,Solothurn
 2022-8,Wegzug,2022,8,Schweizer,M,1,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,LU,NA,basel,Riehen,switzerland,Luzern
 2022-8,Zuzug,2022,8,Ausländer,M,1,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Zürich,basel,Riehen
-2022-8,Zuzug,2022,8,Ausländer,M,1,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Turkey,basel,Klybeck
+2022-8,Zuzug,2022,8,Ausländer,M,1,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,world,Turkey,basel,Klybeck
 2022-8,Zuzug,2022,8,Ausländer,W,1,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,United Kingdom,basel,Iselin
 2022-8,Zuzug,2022,8,Ausländer,W,1,Europa (ohne Schweiz),Schweden,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Sweden,basel,St. Johann
 2022-8,Zuzug,2022,8,Schweizer,M,1,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Basel-Landschaft,basel,St. Johann
@@ -137,7 +137,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Wegzug,2022,8,Ausländer,M,4,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Gotthelf,europe,Germany
 2022-8,Wegzug,2022,8,Schweizer,M,4,Schweiz,Schweiz,BS,St. Johann,Afrika,Aegypten,Ausland,NA,basel,St. Johann,world,Egypt
 2022-8,Wegzug,2022,8,Ausländer,M,4,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,JU,NA,basel,Am Ring,switzerland,Jura
-2022-8,Zuzug,2022,8,Ausländer,M,4,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Turkey,basel,Am Ring
+2022-8,Zuzug,2022,8,Ausländer,M,4,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Turkey,basel,Am Ring
 2022-8,Zuzug,2022,8,Ausländer,W,4,Europa (ohne Schweiz),Schweden,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Sweden,basel,St. Johann
 2022-8,Zuzug,2022,8,Schweizer,M,4,Lateinamerika und Karibik,Argentinien,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Argentina,basel,Am Ring
 2022-8,Zuzug,2022,8,Schweizer,M,4,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Basel-Landschaft,basel,Riehen
@@ -224,13 +224,13 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Wegzug,2022,8,Schweizer,M,7,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Bosnien-Herzegowina,Ausland,NA,basel,St. Alban,europe,Bosnia and Herz.
 2022-8,Wegzug,2022,8,Schweizer,W,7,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Klybeck,europe,France
 2022-8,Zuzug,2022,8,Ausländer,M,7,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
-2022-8,Zuzug,2022,8,Ausländer,M,7,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,europe,Turkey,basel,Altstadt Kleinbasel
+2022-8,Zuzug,2022,8,Ausländer,M,7,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,world,Turkey,basel,Altstadt Kleinbasel
 2022-8,Zuzug,2022,8,Ausländer,W,7,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Basel-Landschaft,basel,St. Alban
 2022-8,Zuzug,2022,8,Ausländer,W,7,Europa (ohne Schweiz),Rumänien,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Romania,basel,Klybeck
 2022-8,Zuzug,2022,8,Ausländer,W,7,Europa (ohne Schweiz),Oesterreich,NA,NA,Schweiz,Schweiz,BS,Bachletten,europe,Austria,basel,Bachletten
 2022-8,Zuzug,2022,8,Ausländer,W,7,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
 2022-8,Zuzug,2022,8,Ausländer,W,7,Asien,Japan,NA,NA,Schweiz,Schweiz,BS,Vorstädte,world,Japan,basel,Vorstädte
-2022-8,Zuzug,2022,8,Ausländer,M,7,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Turkey,basel,Am Ring
+2022-8,Zuzug,2022,8,Ausländer,M,7,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Turkey,basel,Am Ring
 2022-8,Zuzug,2022,8,Ausländer,W,7,Europa (ohne Schweiz),Frankreich,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,France,basel,Riehen
 2022-8,Zuzug,2022,8,Schweizer,M,7,Lateinamerika und Karibik,Argentinien,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Argentina,basel,Am Ring
 2022-8,Zuzug,2022,8,Schweizer,M,7,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bruderholz,switzerland,Basel-Landschaft,basel,Bruderholz
@@ -304,7 +304,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Schweizer,W,10,Schweiz,Schweiz,TG,NA,Schweiz,Schweiz,BS,Wettstein,switzerland,Thurgau,basel,Wettstein
 2022-8,Zuzug,2022,8,Schweizer,M,10,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Basel-Landschaft,basel,Vorstädte
 2022-8,Zuzug,2022,8,Ausländer,W,10,Lateinamerika und Karibik,Brasilien,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Brazil,basel,Rosental
-2022-8,Zuzug,2022,8,Ausländer,M,10,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Turkey,basel,Klybeck
+2022-8,Zuzug,2022,8,Ausländer,M,10,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,world,Turkey,basel,Klybeck
 2022-8,Zuzug,2022,8,Ausländer,M,10,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Spain,basel,Vorstädte
 2022-8,Zuzug,2022,8,Schweizer,W,10,Lateinamerika und Karibik,Mexiko,NA,NA,Schweiz,Schweiz,BS,Breite,world,Mexico,basel,Breite
 2022-8,Zuzug,2022,8,Ausländer,M,10,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Solothurn,basel,Gotthelf
@@ -330,7 +330,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Schweizer,M,12,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Aargau,basel,Riehen
 2022-8,Zuzug,2022,8,Ausländer,W,12,Europa (ohne Schweiz),Slowakische Republik,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Slovakia,basel,St. Johann
 2022-8,Zuzug,2022,8,Ausländer,M,12,Asien,Afghanistan,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,world,Afghanistan,basel,Kleinhüningen
-2022-8,Zuzug,2022,8,Ausländer,W,12,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Turkey,basel,Klybeck
+2022-8,Zuzug,2022,8,Ausländer,W,12,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,world,Turkey,basel,Klybeck
 2022-8,Wegzug,2022,8,Schweizer,W,12,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Oesterreich,Ausland,NA,basel,Iselin,europe,Austria
 2022-8,Wegzug,2022,8,Ausländer,M,12,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Ukraine,Ausland,NA,basel,Breite,europe,Ukraine
 2022-8,Wegzug,2022,8,Schweizer,M,12,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
@@ -339,7 +339,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Ausländer,W,12,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Italy,basel,Rosental
 2022-8,Zuzug,2022,8,Ausländer,M,12,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,India,basel,St. Johann
 2022-8,Zuzug,2022,8,Ausländer,W,12,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,United Kingdom,basel,Am Ring
-2022-8,Zuzug,2022,8,Ausländer,M,12,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,europe,Turkey,basel,Altstadt Kleinbasel
+2022-8,Zuzug,2022,8,Ausländer,M,12,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,world,Turkey,basel,Altstadt Kleinbasel
 2022-8,Zuzug,2022,8,Ausländer,M,12,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Basel-Landschaft,basel,St. Alban
 2022-8,Zuzug,2022,8,Ausländer,M,12,Europa (ohne Schweiz),Nordmazedonien,NA,NA,Schweiz,Schweiz,BS,Clara,europe,North Macedonia,basel,Clara
 2022-8,Wegzug,2022,8,Schweizer,M,12,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,SO,NA,basel,Riehen,switzerland,Solothurn
@@ -412,7 +412,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Ausländer,W,15,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,europe,Italy,basel,Altstadt Kleinbasel
 2022-8,Zuzug,2022,8,Schweizer,M,15,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Breite,switzerland,Luzern,basel,Breite
 2022-8,Zuzug,2022,8,Ausländer,W,15,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Italy,basel,Vorstädte
-2022-8,Zuzug,2022,8,Ausländer,M,15,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Turkey,basel,Rosental
+2022-8,Zuzug,2022,8,Ausländer,M,15,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Turkey,basel,Rosental
 2022-8,Wegzug,2022,8,Schweizer,M,15,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Iselin,europe,Germany
 2022-8,Wegzug,2022,8,Schweizer,M,15,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,SO,NA,basel,St. Alban,switzerland,Solothurn
 2022-8,Wegzug,2022,8,Ausländer,M,15,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
@@ -453,7 +453,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Wegzug,2022,8,Ausländer,M,17,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
 2022-8,Zuzug,2022,8,Ausländer,W,18,Schweiz,Schweiz,GL,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Glarus,basel,Bachletten
 2022-8,Zuzug,2022,8,Ausländer,W,18,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Aargau,basel,Iselin
-2022-8,Zuzug,2022,8,Ausländer,W,18,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Turkey,basel,Klybeck
+2022-8,Zuzug,2022,8,Ausländer,W,18,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,world,Turkey,basel,Klybeck
 2022-8,Zuzug,2022,8,Ausländer,M,18,Europa (ohne Schweiz),Bosnien-Herzegowina,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Bosnia and Herz.,basel,Rosental
 2022-8,Zuzug,2022,8,Ausländer,M,18,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Spain,basel,St. Alban
 2022-8,Zuzug,2022,8,Ausländer,W,18,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Basel-Landschaft,basel,Gundeldingen
@@ -535,7 +535,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Wegzug,2022,8,Ausländer,W,20,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Wettstein,europe,Germany
 2022-8,Zuzug,2022,8,Ausländer,M,20,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Germany,basel,Matthäus
 2022-8,Zuzug,2022,8,Schweizer,W,20,Schweiz,Schweiz,TI,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Ticino,basel,Am Ring
-2022-8,Zuzug,2022,8,Ausländer,W,20,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Turkey,basel,St. Alban
+2022-8,Zuzug,2022,8,Ausländer,W,20,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Turkey,basel,St. Alban
 2022-8,Zuzug,2022,8,Schweizer,W,20,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Solothurn,basel,St. Johann
 2022-8,Zuzug,2022,8,Schweizer,W,20,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Aargau,basel,St. Alban
 2022-8,Zuzug,2022,8,Schweizer,W,20,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Luzern,basel,St. Alban
@@ -683,7 +683,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Ausländer,M,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
 2022-8,Zuzug,2022,8,Ausländer,M,23,Europa (ohne Schweiz),Portugal,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Portugal,basel,Iselin
 2022-8,Zuzug,2022,8,Ausländer,M,23,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Spain,basel,Riehen
-2022-8,Zuzug,2022,8,Ausländer,M,23,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Turkey,basel,Klybeck
+2022-8,Zuzug,2022,8,Ausländer,M,23,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,world,Turkey,basel,Klybeck
 2022-8,Zuzug,2022,8,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
 2022-8,Zuzug,2022,8,Ausländer,W,23,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Germany,basel,Iselin
 2022-8,Zuzug,2022,8,Schweizer,W,23,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Solothurn,basel,Vorstädte
@@ -1148,7 +1148,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Schweizer,W,27,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Solothurn,basel,Gotthelf
 2022-8,Zuzug,2022,8,Schweizer,M,27,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Basel-Landschaft,basel,Gundeldingen
 2022-8,Zuzug,2022,8,Ausländer,M,27,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Poland,basel,Vorstädte
-2022-8,Zuzug,2022,8,Ausländer,W,27,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Turkey,basel,St. Johann
+2022-8,Zuzug,2022,8,Ausländer,W,27,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,Turkey,basel,St. Johann
 2022-8,Zuzug,2022,8,Schweizer,W,27,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Basel-Landschaft,basel,Matthäus
 2022-8,Zuzug,2022,8,Ausländer,M,27,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
 2022-8,Zuzug,2022,8,Ausländer,M,27,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Spain,basel,Riehen
@@ -1168,7 +1168,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Schweizer,M,27,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Aargau,basel,St. Johann
 2022-8,Zuzug,2022,8,Schweizer,W,27,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Basel-Landschaft,basel,Matthäus
 2022-8,Zuzug,2022,8,Schweizer,W,27,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,St. Gallen,basel,St. Johann
-2022-8,Zuzug,2022,8,Ausländer,W,27,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Turkey,basel,St. Alban
+2022-8,Zuzug,2022,8,Ausländer,W,27,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Turkey,basel,St. Alban
 2022-8,Zuzug,2022,8,Ausländer,W,27,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Zürich,basel,St. Johann
 2022-8,Zuzug,2022,8,Schweizer,M,27,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,switzerland,Bern,basel,Altstadt Grossbasel
 2022-8,Zuzug,2022,8,Ausländer,M,27,Europa (ohne Schweiz),Kosovo,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Kosovo,basel,Breite
@@ -1287,7 +1287,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Ausländer,M,29,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Italy,basel,St. Johann
 2022-8,Zuzug,2022,8,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Germany,basel,Iselin
 2022-8,Zuzug,2022,8,Ausländer,W,29,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Germany,basel,Gundeldingen
-2022-8,Zuzug,2022,8,Ausländer,W,29,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Turkey,basel,Am Ring
+2022-8,Zuzug,2022,8,Ausländer,W,29,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Turkey,basel,Am Ring
 2022-8,Zuzug,2022,8,Schweizer,M,29,Schweiz,Schweiz,GL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Glarus,basel,St. Alban
 2022-8,Zuzug,2022,8,Schweizer,M,29,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Clara,switzerland,Basel-Landschaft,basel,Clara
 2022-8,Zuzug,2022,8,Ausländer,W,29,Europa (ohne Schweiz),Irland,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Ireland,basel,Iselin
@@ -1542,7 +1542,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Wegzug,2022,8,Schweizer,W,31,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,SO,NA,basel,Matthäus,switzerland,Solothurn
 2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
 2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
-2022-8,Zuzug,2022,8,Ausländer,W,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Turkey,basel,Wettstein
+2022-8,Zuzug,2022,8,Ausländer,W,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Wettstein,world,Turkey,basel,Wettstein
 2022-8,Zuzug,2022,8,Ausländer,W,32,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Aargau,basel,Vorstädte
 2022-8,Zuzug,2022,8,Ausländer,M,32,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,India,basel,Matthäus
 2022-8,Zuzug,2022,8,Ausländer,M,32,Schweiz,Schweiz,NE,NA,Schweiz,Schweiz,BS,Breite,switzerland,Neuchâtel,basel,Breite
@@ -1575,7 +1575,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Poland,basel,Breite
 2022-8,Zuzug,2022,8,Ausländer,W,32,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Zürich,basel,Riehen
 2022-8,Zuzug,2022,8,Schweizer,M,32,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Luzern,basel,St. Johann
-2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Turkey,basel,Vorstädte
+2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Vorstädte,world,Turkey,basel,Vorstädte
 2022-8,Zuzug,2022,8,Ausländer,W,32,Europa (ohne Schweiz),Portugal,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Portugal,basel,Matthäus
 2022-8,Zuzug,2022,8,Ausländer,W,32,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Wettstein,switzerland,Basel-Landschaft,basel,Wettstein
 2022-8,Zuzug,2022,8,Schweizer,W,32,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Basel-Landschaft,basel,Vorstädte
@@ -1587,13 +1587,13 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Ausländer,W,32,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,europe,Germany,basel,Kleinhüningen
 2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,europe,Germany,basel,Altstadt Kleinbasel
 2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Germany,basel,Gundeldingen
-2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Turkey,basel,Wettstein
+2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Wettstein,world,Turkey,basel,Wettstein
 2022-8,Zuzug,2022,8,Schweizer,M,32,NA,NA,NA,NA,Schweiz,Schweiz,BS,St. Johann,NA,NA,basel,St. Johann
 2022-8,Zuzug,2022,8,Ausländer,W,32,Asien,Singapur,NA,NA,Schweiz,Schweiz,BS,Vorstädte,world,Malaysia,basel,Vorstädte
 2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Spain,basel,Am Ring
-2022-8,Zuzug,2022,8,Ausländer,W,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Turkey,basel,Klybeck
+2022-8,Zuzug,2022,8,Ausländer,W,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,world,Turkey,basel,Klybeck
 2022-8,Zuzug,2022,8,Ausländer,M,32,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Spain,basel,Matthäus
-2022-8,Zuzug,2022,8,Ausländer,W,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Bachletten,europe,Turkey,basel,Bachletten
+2022-8,Zuzug,2022,8,Ausländer,W,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Bachletten,world,Turkey,basel,Bachletten
 2022-8,Wegzug,2022,8,Ausländer,W,32,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,ZH,NA,basel,Iselin,switzerland,Zürich
 2022-8,Wegzug,2022,8,Schweizer,W,32,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,basel,Am Ring,switzerland,Basel-Landschaft
 2022-8,Wegzug,2022,8,Schweizer,W,32,Schweiz,Schweiz,BS,Altstadt Grossbasel,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Altstadt Grossbasel,europe,Germany
@@ -2095,7 +2095,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Ausländer,M,40,Europa (ohne Schweiz),Rumänien,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Romania,basel,St. Johann
 2022-8,Zuzug,2022,8,Ausländer,W,40,Asien,China,NA,NA,Schweiz,Schweiz,BS,Rosental,world,China,basel,Rosental
 2022-8,Zuzug,2022,8,Ausländer,W,40,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Solothurn,basel,Gotthelf
-2022-8,Zuzug,2022,8,Ausländer,W,40,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Turkey,basel,Riehen
+2022-8,Zuzug,2022,8,Ausländer,W,40,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Riehen,world,Turkey,basel,Riehen
 2022-8,Zuzug,2022,8,Ausländer,M,40,Europa (ohne Schweiz),Irland,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Ireland,basel,Vorstädte
 2022-8,Zuzug,2022,8,Ausländer,M,40,Asien,Korea (Süd-),NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,South Korea,basel,Gundeldingen
 2022-8,Zuzug,2022,8,Ausländer,M,40,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Zürich,basel,St. Alban
@@ -2148,7 +2148,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Ausländer,M,41,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Aargau,basel,Gundeldingen
 2022-8,Zuzug,2022,8,Ausländer,M,41,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Breite,switzerland,Aargau,basel,Breite
 2022-8,Zuzug,2022,8,Schweizer,M,41,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Zürich,basel,Riehen
-2022-8,Zuzug,2022,8,Ausländer,W,41,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Turkey,basel,Am Ring
+2022-8,Zuzug,2022,8,Ausländer,W,41,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Turkey,basel,Am Ring
 2022-8,Zuzug,2022,8,Ausländer,M,41,Asien,China,NA,NA,Schweiz,Schweiz,BS,Rosental,world,China,basel,Rosental
 2022-8,Zuzug,2022,8,Ausländer,M,41,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Basel-Landschaft,basel,Am Ring
 2022-8,Zuzug,2022,8,Schweizer,W,41,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Solothurn,basel,Riehen
@@ -2302,7 +2302,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Wegzug,2022,8,Ausländer,W,45,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Italien,Ausland,NA,basel,Vorstädte,europe,Italy
 2022-8,Wegzug,2022,8,Ausländer,M,45,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
 2022-8,Zuzug,2022,8,Ausländer,M,46,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Germany,basel,Rosental
-2022-8,Zuzug,2022,8,Ausländer,W,46,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,europe,Turkey,basel,Altstadt Kleinbasel
+2022-8,Zuzug,2022,8,Ausländer,W,46,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,world,Turkey,basel,Altstadt Kleinbasel
 2022-8,Zuzug,2022,8,Ausländer,W,46,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,United States of America,basel,St. Johann
 2022-8,Wegzug,2022,8,Schweizer,M,46,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Schweiz,Schweiz,BL,NA,basel,Altstadt Kleinbasel,switzerland,Basel-Landschaft
 2022-8,Wegzug,2022,8,Ausländer,W,46,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,basel,Am Ring,switzerland,Basel-Landschaft
@@ -2387,7 +2387,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Wegzug,2022,8,Schweizer,M,48,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
 2022-8,Wegzug,2022,8,Schweizer,M,48,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BE,NA,basel,Iselin,switzerland,Bern
 2022-8,Zuzug,2022,8,Ausländer,W,49,Europa (ohne Schweiz),Ukraine,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Ukraine,basel,St. Johann
-2022-8,Zuzug,2022,8,Ausländer,M,49,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,europe,Turkey,basel,Altstadt Kleinbasel
+2022-8,Zuzug,2022,8,Ausländer,M,49,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,world,Turkey,basel,Altstadt Kleinbasel
 2022-8,Zuzug,2022,8,Ausländer,M,49,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Wettstein,world,United States of America,basel,Wettstein
 2022-8,Zuzug,2022,8,Ausländer,W,49,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Wettstein,world,United States of America,basel,Wettstein
 2022-8,Wegzug,2022,8,Ausländer,M,49,Schweiz,Schweiz,BS,St. Johann,Asien,Indien,Ausland,NA,basel,St. Johann,world,India
@@ -2551,7 +2551,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Ausländer,M,56,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Bruderholz,world,United States of America,basel,Bruderholz
 2022-8,Zuzug,2022,8,Ausländer,M,56,Europa (ohne Schweiz),Ukraine,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Ukraine,basel,Am Ring
 2022-8,Zuzug,2022,8,Ausländer,W,56,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Germany,basel,Gundeldingen
-2022-8,Zuzug,2022,8,Ausländer,W,56,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Turkey,basel,Breite
+2022-8,Zuzug,2022,8,Ausländer,W,56,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Breite,world,Turkey,basel,Breite
 2022-8,Wegzug,2022,8,Ausländer,W,56,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Oesterreich,Ausland,NA,basel,St. Johann,europe,Austria
 2022-8,Wegzug,2022,8,Ausländer,M,56,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,basel,Bruderholz,switzerland,Basel-Landschaft
 2022-8,Wegzug,2022,8,Ausländer,W,56,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,basel,Iselin,switzerland,Solothurn
@@ -2648,7 +2648,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Schweizer,W,66,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Basel-Landschaft,basel,Bachletten
 2022-8,Wegzug,2022,8,Schweizer,W,66,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BE,NA,basel,Klybeck,switzerland,Bern
 2022-8,Zuzug,2022,8,Ausländer,W,66,Europa (ohne Schweiz),Ukraine,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Ukraine,basel,St. Alban
-2022-8,Zuzug,2022,8,Ausländer,M,66,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Turkey,basel,Klybeck
+2022-8,Zuzug,2022,8,Ausländer,M,66,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Klybeck,world,Turkey,basel,Klybeck
 2022-8,Wegzug,2022,8,Ausländer,W,66,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,TI,NA,basel,Breite,switzerland,Ticino
 2022-8,Zuzug,2022,8,Ausländer,M,67,Europa (ohne Schweiz),Ukraine,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,europe,Ukraine,basel,Kleinhüningen
 2022-8,Zuzug,2022,8,Schweizer,M,67,Lateinamerika und Karibik,Bolivien,NA,NA,Schweiz,Schweiz,BS,Bachletten,world,Bolivia,basel,Bachletten
@@ -2671,7 +2671,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-8,Zuzug,2022,8,Schweizer,M,70,Schweiz,Schweiz,SZ,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Schwyz,basel,Am Ring
 2022-8,Zuzug,2022,8,Ausländer,W,70,Europa (ohne Schweiz),Ukraine,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Ukraine,basel,Vorstädte
 2022-8,Zuzug,2022,8,Schweizer,W,70,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Basel-Landschaft,basel,Vorstädte
-2022-8,Wegzug,2022,8,Ausländer,W,71,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Riehen,europe,Turkey
+2022-8,Wegzug,2022,8,Ausländer,W,71,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Riehen,world,Turkey
 2022-8,Wegzug,2022,8,Schweizer,W,71,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
 2022-8,Zuzug,2022,8,Schweizer,W,71,Asien,Nepal,NA,NA,Schweiz,Schweiz,BS,Riehen,world,Nepal,basel,Riehen
 2022-8,Wegzug,2022,8,Schweizer,M,71,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft

@@ -109,7 +109,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Zuzug,2021,1,Schweizer,M,7,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Breite,switzerland,Basel-Landschaft,basel,Breite
 2021-1,Zuzug,2021,1,Schweizer,W,7,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Basel-Landschaft,basel,Am Ring
 2021-1,Zuzug,2021,1,Ausländer,W,7,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
-2021-1,Zuzug,2021,1,Ausländer,M,7,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Turkey,basel,St. Alban
+2021-1,Zuzug,2021,1,Ausländer,M,7,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Turkey,basel,St. Alban
 2021-1,Zuzug,2021,1,Schweizer,M,7,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Aargau,basel,Bachletten
 2021-1,Zuzug,2021,1,Ausländer,W,8,Europa (ohne Schweiz),Schweden,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Sweden,basel,Rosental
 2021-1,Wegzug,2021,1,Ausländer,W,8,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,basel,Wettstein,switzerland,Basel-Landschaft
@@ -154,7 +154,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Zuzug,2021,1,Ausländer,M,13,Lateinamerika und Karibik,Mexiko,NA,NA,Schweiz,Schweiz,BS,Riehen,world,Mexico,basel,Riehen
 2021-1,Zuzug,2021,1,Ausländer,M,14,Europa (ohne Schweiz),Ungarn,NA,NA,Schweiz,Schweiz,BS,Bachletten,europe,Hungary,basel,Bachletten
 2021-1,Wegzug,2021,1,Schweizer,M,14,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
-2021-1,Wegzug,2021,1,Ausländer,W,14,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,europe,Turkey
+2021-1,Wegzug,2021,1,Ausländer,W,14,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,world,Turkey
 2021-1,Wegzug,2021,1,Ausländer,W,14,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,basel,Iselin,switzerland,Solothurn
 2021-1,Wegzug,2021,1,Ausländer,M,14,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2021-1,Zuzug,2021,1,Ausländer,M,14,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,United Kingdom,basel,Wettstein
@@ -1041,7 +1041,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Ausländer,M,31,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Rumänien,Ausland,NA,basel,Am Ring,europe,Romania
 2021-1,Wegzug,2021,1,Ausländer,M,31,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,BL,NA,basel,Altstadt Grossbasel,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Ausländer,W,31,Schweiz,Schweiz,BS,St. Johann,Asien,Bangladesch,Ausland,NA,basel,St. Johann,world,Bangladesh
-2021-1,Wegzug,2021,1,Ausländer,W,31,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,europe,Turkey
+2021-1,Wegzug,2021,1,Ausländer,W,31,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,world,Turkey
 2021-1,Wegzug,2021,1,Schweizer,M,31,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,SO,NA,basel,Breite,switzerland,Solothurn
 2021-1,Wegzug,2021,1,Ausländer,W,31,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,Altstadt Kleinbasel,europe,Spain
 2021-1,Wegzug,2021,1,Ausländer,W,31,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,St. Alban,europe,Germany
@@ -1094,7 +1094,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Zuzug,2021,1,Ausländer,W,31,Europa (ohne Schweiz),Frankreich,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,France,basel,St. Alban
 2021-1,Zuzug,2021,1,Ausländer,M,31,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Clara,europe,Italy,basel,Clara
 2021-1,Zuzug,2021,1,Ausländer,W,31,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
-2021-1,Zuzug,2021,1,Ausländer,M,31,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Turkey,basel,St. Johann
+2021-1,Zuzug,2021,1,Ausländer,M,31,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,Turkey,basel,St. Johann
 2021-1,Zuzug,2021,1,Ausländer,M,31,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Italy,basel,Breite
 2021-1,Zuzug,2021,1,Ausländer,M,31,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Italy,basel,Am Ring
 2021-1,Wegzug,2021,1,Ausländer,M,31,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
@@ -1129,7 +1129,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Zuzug,2021,1,Schweizer,M,32,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Hirzbrunnen,switzerland,Basel-Landschaft,basel,Hirzbrunnen
 2021-1,Zuzug,2021,1,Ausländer,M,32,Europa (ohne Schweiz),Niederlande,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Netherlands,basel,Matthäus
 2021-1,Zuzug,2021,1,Schweizer,M,32,Ozeanien,Australien,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Australia,basel,St. Alban
-2021-1,Zuzug,2021,1,Ausländer,W,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Turkey,basel,St. Alban
+2021-1,Zuzug,2021,1,Ausländer,W,32,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Turkey,basel,St. Alban
 2021-1,Zuzug,2021,1,Ausländer,W,32,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Basel-Landschaft,basel,Gundeldingen
 2021-1,Zuzug,2021,1,Schweizer,M,32,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Bern,basel,Iselin
 2021-1,Zuzug,2021,1,Ausländer,M,32,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Germany,basel,Vorstädte
@@ -1225,7 +1225,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Ausländer,M,33,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,VD,NA,basel,St. Alban,switzerland,Vaud
 2021-1,Wegzug,2021,1,Ausländer,M,33,Schweiz,Schweiz,BS,Hirzbrunnen,Asien,Vietnam,Ausland,NA,basel,Hirzbrunnen,world,Vietnam
 2021-1,Wegzug,2021,1,Ausländer,M,33,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Belgien,Ausland,NA,basel,St. Alban,europe,Belgium
-2021-1,Wegzug,2021,1,Ausländer,M,33,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,europe,Turkey
+2021-1,Wegzug,2021,1,Ausländer,M,33,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,world,Turkey
 2021-1,Wegzug,2021,1,Ausländer,W,33,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Schweizer,M,33,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Ausländer,W,33,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Matthäus,europe,Germany
@@ -1351,7 +1351,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Schweizer,W,35,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,basel,Breite,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Ausländer,M,35,Schweiz,Schweiz,BS,Rosental,NA,NA,NA,NA,basel,Rosental,NA,NA
 2021-1,Wegzug,2021,1,Ausländer,W,35,Schweiz,Schweiz,BS,Bachletten,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Bachletten,world,United States of America
-2021-1,Wegzug,2021,1,Schweizer,W,35,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,europe,Turkey
+2021-1,Wegzug,2021,1,Schweizer,W,35,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,world,Turkey
 2021-1,Wegzug,2021,1,Schweizer,W,35,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,basel,St. Alban,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Ausländer,W,35,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,FR,NA,basel,Matthäus,switzerland,Fribourg
 2021-1,Wegzug,2021,1,Ausländer,M,35,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,basel,Am Ring,europe,United Kingdom
@@ -1622,7 +1622,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Zuzug,2021,1,Ausländer,W,40,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,United Kingdom,basel,St. Alban
 2021-1,Zuzug,2021,1,Ausländer,W,40,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Zürich,basel,Riehen
 2021-1,Zuzug,2021,1,Ausländer,M,40,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
-2021-1,Zuzug,2021,1,Ausländer,M,40,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Turkey,basel,St. Johann
+2021-1,Zuzug,2021,1,Ausländer,M,40,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,Turkey,basel,St. Johann
 2021-1,Zuzug,2021,1,Ausländer,M,40,Afrika,Elfenbeinküste,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Côte d'Ivoire,basel,Am Ring
 2021-1,Zuzug,2021,1,Ausländer,M,40,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,India,basel,Gundeldingen
 2021-1,Zuzug,2021,1,Ausländer,M,40,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Poland,basel,Am Ring
@@ -1738,7 +1738,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Schweizer,W,43,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2021-1,Zuzug,2021,1,Ausländer,M,44,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Basel-Landschaft,basel,Matthäus
 2021-1,Zuzug,2021,1,Ausländer,M,44,Schweiz,Schweiz,TI,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Ticino,basel,St. Johann
-2021-1,Zuzug,2021,1,Ausländer,W,44,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,europe,Turkey,basel,Hirzbrunnen
+2021-1,Zuzug,2021,1,Ausländer,W,44,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,world,Turkey,basel,Hirzbrunnen
 2021-1,Wegzug,2021,1,Ausländer,M,44,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Schweizer,W,44,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,basel,Riehen,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Ausländer,M,44,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,GR,NA,basel,Iselin,switzerland,Graubünden
@@ -1850,7 +1850,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Zuzug,2021,1,Schweizer,M,48,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Aargau,basel,Bachletten
 2021-1,Wegzug,2021,1,Ausländer,M,48,Schweiz,Schweiz,BS,Gundeldingen,NA,NA,NA,NA,basel,Gundeldingen,NA,NA
 2021-1,Wegzug,2021,1,Schweizer,W,48,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,basel,Breite,switzerland,Basel-Landschaft
-2021-1,Wegzug,2021,1,Schweizer,W,48,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,europe,Turkey
+2021-1,Wegzug,2021,1,Schweizer,W,48,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,world,Turkey
 2021-1,Wegzug,2021,1,Ausländer,M,48,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Polen,Ausland,NA,basel,Matthäus,europe,Poland
 2021-1,Wegzug,2021,1,Schweizer,W,48,Schweiz,Schweiz,BS,Rosental,NA,NA,NA,NA,basel,Rosental,NA,NA
 2021-1,Zuzug,2021,1,Ausländer,M,49,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,europe,Germany,basel,Altstadt Grossbasel
@@ -1925,7 +1925,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Ausländer,M,51,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,SO,NA,basel,Bruderholz,switzerland,Solothurn
 2021-1,Wegzug,2021,1,Schweizer,W,51,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BE,NA,basel,St. Johann,switzerland,Bern
 2021-1,Wegzug,2021,1,Schweizer,M,51,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
-2021-1,Wegzug,2021,1,Ausländer,W,51,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,europe,Turkey
+2021-1,Wegzug,2021,1,Ausländer,W,51,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,world,Turkey
 2021-1,Wegzug,2021,1,Schweizer,M,51,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,TG,NA,basel,Altstadt Grossbasel,switzerland,Thurgau
 2021-1,Zuzug,2021,1,Ausländer,M,51,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Germany,basel,Wettstein
 2021-1,Zuzug,2021,1,Schweizer,W,51,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Basel-Landschaft,basel,Riehen
@@ -1992,7 +1992,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Ausländer,M,55,Schweiz,Schweiz,BS,Clara,NA,NA,NA,NA,basel,Clara,NA,NA
 2021-1,Wegzug,2021,1,Schweizer,M,55,Schweiz,Schweiz,BS,St. Johann,NA,NA,NA,NA,basel,St. Johann,NA,NA
 2021-1,Wegzug,2021,1,Ausländer,M,55,Schweiz,Schweiz,BS,Clara,NA,NA,NA,NA,basel,Clara,NA,NA
-2021-1,Wegzug,2021,1,Ausländer,M,55,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,europe,Turkey
+2021-1,Wegzug,2021,1,Ausländer,M,55,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,world,Turkey
 2021-1,Wegzug,2021,1,Ausländer,M,55,Schweiz,Schweiz,BS,St. Johann,Afrika,Senegal,Ausland,NA,basel,St. Johann,world,Senegal
 2021-1,Wegzug,2021,1,Schweizer,W,55,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,basel,St. Alban,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Ausländer,M,55,Schweiz,Schweiz,BS,Am Ring,NA,NA,NA,NA,basel,Am Ring,NA,NA
@@ -2062,7 +2062,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Schweizer,W,59,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Ausländer,W,59,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Schweden,Ausland,NA,basel,Gundeldingen,europe,Sweden
 2021-1,Wegzug,2021,1,Ausländer,M,59,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Italien,Ausland,NA,basel,Matthäus,europe,Italy
-2021-1,Wegzug,2021,1,Ausländer,M,59,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,europe,Turkey
+2021-1,Wegzug,2021,1,Ausländer,M,59,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,world,Turkey
 2021-1,Zuzug,2021,1,Schweizer,W,59,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Bern,basel,Riehen
 2021-1,Zuzug,2021,1,Ausländer,W,59,Europa (ohne Schweiz),Oesterreich,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Austria,basel,Wettstein
 2021-1,Zuzug,2021,1,Schweizer,M,59,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Basel-Landschaft,basel,Vorstädte
@@ -2076,7 +2076,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Zuzug,2021,1,Schweizer,M,60,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,switzerland,Basel-Landschaft,basel,Altstadt Grossbasel
 2021-1,Zuzug,2021,1,Schweizer,M,60,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Hirzbrunnen,switzerland,Basel-Landschaft,basel,Hirzbrunnen
 2021-1,Zuzug,2021,1,Schweizer,W,60,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Zürich,basel,Bachletten
-2021-1,Wegzug,2021,1,Ausländer,W,60,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,europe,Turkey
+2021-1,Wegzug,2021,1,Ausländer,W,60,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,world,Turkey
 2021-1,Wegzug,2021,1,Ausländer,M,60,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Am Ring,europe,Germany
 2021-1,Wegzug,2021,1,Ausländer,W,60,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,SO,NA,basel,Breite,switzerland,Solothurn
 2021-1,Zuzug,2021,1,Schweizer,W,61,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Basel-Landschaft,basel,Gundeldingen
@@ -2092,7 +2092,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Schweizer,M,61,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Kroatien,Ausland,NA,basel,Riehen,europe,Croatia
 2021-1,Wegzug,2021,1,Ausländer,M,61,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Serbien,Ausland,NA,basel,Bruderholz,europe,Serbia
 2021-1,Zuzug,2021,1,Ausländer,W,62,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
-2021-1,Wegzug,2021,1,Schweizer,M,62,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,europe,Turkey
+2021-1,Wegzug,2021,1,Schweizer,M,62,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Breite,world,Turkey
 2021-1,Wegzug,2021,1,Ausländer,M,62,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,St. Alban,europe,Germany
 2021-1,Wegzug,2021,1,Schweizer,M,62,Schweiz,Schweiz,BS,Matthäus,Asien,Iran,Ausland,NA,basel,Matthäus,world,Iran
 2021-1,Wegzug,2021,1,Schweizer,M,62,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,BL,NA,basel,Altstadt Grossbasel,switzerland,Basel-Landschaft
@@ -2109,7 +2109,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Ausländer,M,63,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,GE,NA,basel,Gundeldingen,switzerland,Genève
 2021-1,Wegzug,2021,1,Schweizer,W,63,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BE,NA,basel,Rosental,switzerland,Bern
 2021-1,Zuzug,2021,1,Ausländer,M,63,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Aargau,basel,Matthäus
-2021-1,Wegzug,2021,1,Schweizer,M,63,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Am Ring,europe,Turkey
+2021-1,Wegzug,2021,1,Schweizer,M,63,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Am Ring,world,Turkey
 2021-1,Zuzug,2021,1,Schweizer,W,64,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Germany,basel,Vorstädte
 2021-1,Zuzug,2021,1,Schweizer,W,64,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gotthelf,switzerland,Basel-Landschaft,basel,Gotthelf
 2021-1,Wegzug,2021,1,Schweizer,W,64,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
@@ -2131,7 +2131,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Ausländer,M,66,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Ausländer,W,66,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,SO,NA,basel,Hirzbrunnen,switzerland,Solothurn
 2021-1,Wegzug,2021,1,Schweizer,W,66,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,SO,NA,basel,Wettstein,switzerland,Solothurn
-2021-1,Wegzug,2021,1,Ausländer,M,66,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,europe,Turkey
+2021-1,Wegzug,2021,1,Ausländer,M,66,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,world,Turkey
 2021-1,Wegzug,2021,1,Schweizer,M,66,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BE,NA,basel,Riehen,switzerland,Bern
 2021-1,Zuzug,2021,1,Schweizer,M,66,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Basel-Landschaft,basel,Gundeldingen
 2021-1,Zuzug,2021,1,Schweizer,W,66,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Basel-Landschaft,basel,Am Ring

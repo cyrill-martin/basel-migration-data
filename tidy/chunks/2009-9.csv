@@ -19,7 +19,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Wegzug,2009,9,Schweizer,W,0,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,SO,NA,basel,Bachletten,switzerland,Solothurn
 2009-9,Wegzug,2009,9,Ausländer,M,0,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Iselin,europe,Germany
 2009-9,Wegzug,2009,9,Ausländer,M,0,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,AG,NA,basel,St. Alban,switzerland,Aargau
-2009-9,Wegzug,2009,9,Schweizer,M,1,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,europe,Turkey
+2009-9,Wegzug,2009,9,Schweizer,M,1,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,world,Turkey
 2009-9,Zuzug,2009,9,Ausländer,W,1,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Germany,basel,Vorstädte
 2009-9,Zuzug,2009,9,Ausländer,M,1,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,India,basel,Matthäus
 2009-9,Wegzug,2009,9,Ausländer,M,1,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,basel,Wettstein,switzerland,Basel-Landschaft
@@ -72,7 +72,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Zuzug,2009,9,Schweizer,W,3,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Bruderholz,switzerland,Zürich,basel,Bruderholz
 2009-9,Zuzug,2009,9,Ausländer,M,3,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,Bachletten,europe,United Kingdom,basel,Bachletten
 2009-9,Zuzug,2009,9,Ausländer,M,3,NA,NA,NA,NA,Schweiz,Schweiz,BS,Breite,NA,NA,basel,Breite
-2009-9,Zuzug,2009,9,Ausländer,M,3,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Turkey,basel,St. Alban
+2009-9,Zuzug,2009,9,Ausländer,M,3,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Turkey,basel,St. Alban
 2009-9,Wegzug,2009,9,Schweizer,M,3,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Ausländer,W,3,Schweiz,Schweiz,BS,Gotthelf,NA,NA,NA,NA,basel,Gotthelf,NA,NA
 2009-9,Wegzug,2009,9,Schweizer,M,4,Schweiz,Schweiz,BS,Bruderholz,Afrika,Tunesien,Ausland,NA,basel,Bruderholz,world,Tunisia
@@ -134,7 +134,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Zuzug,2009,9,Ausländer,M,8,Europa (ohne Schweiz),Portugal,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Portugal,basel,Klybeck
 2009-9,Wegzug,2009,9,Ausländer,W,8,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Niederlande,Ausland,NA,basel,Riehen,europe,Netherlands
 2009-9,Wegzug,2009,9,Schweizer,M,8,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
-2009-9,Wegzug,2009,9,Ausländer,W,9,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Am Ring,europe,Turkey
+2009-9,Wegzug,2009,9,Ausländer,W,9,Schweiz,Schweiz,BS,Am Ring,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Am Ring,world,Turkey
 2009-9,Wegzug,2009,9,Ausländer,W,9,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Schweizer,W,9,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2009-9,Zuzug,2009,9,Ausländer,W,9,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Basel-Landschaft,basel,Matthäus
@@ -186,7 +186,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Zuzug,2009,9,Ausländer,M,15,Europa (ohne Schweiz),Zentralserbien,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Serbia,basel,Riehen
 2009-9,Wegzug,2009,9,Ausländer,W,15,Schweiz,Schweiz,BS,Bachletten,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Bachletten,world,United States of America
 2009-9,Zuzug,2009,9,Ausländer,W,15,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Germany,basel,Riehen
-2009-9,Zuzug,2009,9,Ausländer,M,15,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Turkey,basel,Gundeldingen
+2009-9,Zuzug,2009,9,Ausländer,M,15,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Turkey,basel,Gundeldingen
 2009-9,Wegzug,2009,9,Ausländer,M,15,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Portugal,Ausland,NA,basel,Clara,europe,Portugal
 2009-9,Wegzug,2009,9,Schweizer,W,15,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Ausländer,M,16,Schweiz,Schweiz,BS,Bachletten,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Bachletten,world,United States of America
@@ -274,7 +274,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Zuzug,2009,9,Schweizer,W,19,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Bern,basel,Vorstädte
 2009-9,Zuzug,2009,9,Schweizer,W,19,Schweiz,Schweiz,GR,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Graubünden,basel,Iselin
 2009-9,Zuzug,2009,9,Schweizer,W,19,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Luzern,basel,Iselin
-2009-9,Zuzug,2009,9,Ausländer,M,19,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Turkey,basel,Gundeldingen
+2009-9,Zuzug,2009,9,Ausländer,M,19,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Turkey,basel,Gundeldingen
 2009-9,Zuzug,2009,9,Ausländer,M,19,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Basel-Landschaft,basel,Am Ring
 2009-9,Zuzug,2009,9,Schweizer,M,19,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Aargau,basel,St. Johann
 2009-9,Zuzug,2009,9,Schweizer,M,19,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,switzerland,St. Gallen,basel,Altstadt Grossbasel
@@ -298,7 +298,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Wegzug,2009,9,Schweizer,W,19,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,SG,NA,basel,Hirzbrunnen,switzerland,St. Gallen
 2009-9,Wegzug,2009,9,Ausländer,W,19,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Portugal,Ausland,NA,basel,St. Johann,europe,Portugal
 2009-9,Wegzug,2009,9,Schweizer,M,19,Schweiz,Schweiz,BS,Hirzbrunnen,NA,NA,NA,NA,basel,Hirzbrunnen,NA,NA
-2009-9,Wegzug,2009,9,Schweizer,W,19,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,europe,Turkey
+2009-9,Wegzug,2009,9,Schweizer,W,19,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2009-9,Wegzug,2009,9,Schweizer,W,19,Schweiz,Schweiz,BS,Bachletten,Asien,Israel,Ausland,NA,basel,Bachletten,world,Israel
 2009-9,Wegzug,2009,9,Schweizer,M,20,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Schweizer,M,20,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,VD,NA,basel,Altstadt Grossbasel,switzerland,Vaud
@@ -1029,7 +1029,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Zuzug,2009,9,Schweizer,W,25,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,Iselin,switzerland,St. Gallen,basel,Iselin
 2009-9,Zuzug,2009,9,Ausländer,W,25,Europa (ohne Schweiz),Frankreich,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,France,basel,Riehen
 2009-9,Zuzug,2009,9,Ausländer,W,25,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Clara,europe,Germany,basel,Clara
-2009-9,Zuzug,2009,9,Ausländer,W,25,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Turkey,basel,Gundeldingen
+2009-9,Zuzug,2009,9,Ausländer,W,25,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Turkey,basel,Gundeldingen
 2009-9,Zuzug,2009,9,Schweizer,M,25,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Basel-Landschaft,basel,Am Ring
 2009-9,Zuzug,2009,9,Ausländer,M,25,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Germany,basel,Iselin
 2009-9,Zuzug,2009,9,Ausländer,W,25,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Germany,basel,Klybeck
@@ -1140,7 +1140,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Zuzug,2009,9,Ausländer,W,26,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Basel-Landschaft,basel,Gundeldingen
 2009-9,Zuzug,2009,9,Schweizer,M,26,Schweiz,Schweiz,FR,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Fribourg,basel,St. Johann
 2009-9,Zuzug,2009,9,Ausländer,M,26,Europa (ohne Schweiz),Finnland,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Finland,basel,Matthäus
-2009-9,Zuzug,2009,9,Ausländer,M,26,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Turkey,basel,Gundeldingen
+2009-9,Zuzug,2009,9,Ausländer,M,26,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Turkey,basel,Gundeldingen
 2009-9,Zuzug,2009,9,Ausländer,W,26,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
 2009-9,Wegzug,2009,9,Ausländer,M,26,Schweiz,Schweiz,BS,Rosental,NA,NA,NA,NA,basel,Rosental,NA,NA
 2009-9,Wegzug,2009,9,Ausländer,M,26,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,ZH,NA,basel,Am Ring,switzerland,Zürich
@@ -1570,7 +1570,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Zuzug,2009,9,Ausländer,W,29,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Germany,basel,Klybeck
 2009-9,Zuzug,2009,9,Ausländer,W,29,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,India,basel,Matthäus
 2009-9,Zuzug,2009,9,Ausländer,W,29,Europa (ohne Schweiz),Frankreich,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,France,basel,Am Ring
-2009-9,Zuzug,2009,9,Ausländer,M,29,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Turkey,basel,Rosental
+2009-9,Zuzug,2009,9,Ausländer,M,29,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Turkey,basel,Rosental
 2009-9,Zuzug,2009,9,Schweizer,M,29,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Basel-Landschaft,basel,Riehen
 2009-9,Zuzug,2009,9,Ausländer,M,29,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,europe,Germany,basel,Hirzbrunnen
 2009-9,Zuzug,2009,9,Ausländer,W,29,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,europe,Spain,basel,Hirzbrunnen
@@ -1681,7 +1681,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Zuzug,2009,9,Schweizer,W,30,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Breite,switzerland,Basel-Landschaft,basel,Breite
 2009-9,Zuzug,2009,9,Ausländer,W,30,Asien,Japan,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Japan,basel,Am Ring
 2009-9,Zuzug,2009,9,Ausländer,W,30,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Spain,basel,Rosental
-2009-9,Zuzug,2009,9,Ausländer,M,30,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Turkey,basel,Am Ring
+2009-9,Zuzug,2009,9,Ausländer,M,30,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Turkey,basel,Am Ring
 2009-9,Wegzug,2009,9,Ausländer,W,30,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,basel,Riehen,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Schweizer,M,30,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BE,NA,basel,Breite,switzerland,Bern
 2009-9,Wegzug,2009,9,Ausländer,M,30,Schweiz,Schweiz,BS,Gundeldingen,Asien,Indien,Ausland,NA,basel,Gundeldingen,world,India
@@ -2020,7 +2020,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Zuzug,2009,9,Ausländer,W,35,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Poland,basel,Matthäus
 2009-9,Zuzug,2009,9,Schweizer,M,35,Schweiz,Schweiz,LU,NA,Schweiz,Schweiz,BS,Klybeck,switzerland,Luzern,basel,Klybeck
 2009-9,Zuzug,2009,9,Ausländer,W,35,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Breite,switzerland,Basel-Landschaft,basel,Breite
-2009-9,Zuzug,2009,9,Ausländer,W,35,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Turkey,basel,St. Alban
+2009-9,Zuzug,2009,9,Ausländer,W,35,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Turkey,basel,St. Alban
 2009-9,Zuzug,2009,9,Ausländer,M,35,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Poland,basel,Matthäus
 2009-9,Zuzug,2009,9,Ausländer,W,35,Asien,Japan,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,Japan,basel,St. Johann
 2009-9,Wegzug,2009,9,Schweizer,W,35,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
@@ -2251,7 +2251,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Wegzug,2009,9,Ausländer,W,40,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,basel,Bruderholz,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Schweizer,W,40,Schweiz,Schweiz,BS,Altstadt Grossbasel,NA,NA,NA,NA,basel,Altstadt Grossbasel,NA,NA
 2009-9,Wegzug,2009,9,Ausländer,W,40,Schweiz,Schweiz,BS,Wettstein,Asien,China,Ausland,NA,basel,Wettstein,world,China
-2009-9,Wegzug,2009,9,Ausländer,W,40,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,europe,Turkey
+2009-9,Wegzug,2009,9,Ausländer,W,40,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,world,Turkey
 2009-9,Wegzug,2009,9,Ausländer,M,40,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,Gundeldingen,europe,Spain
 2009-9,Wegzug,2009,9,Ausländer,W,41,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,basel,Klybeck,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Ausländer,W,41,Schweiz,Schweiz,BS,Vorstädte,NA,NA,NA,NA,basel,Vorstädte,NA,NA
@@ -2499,7 +2499,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Wegzug,2009,9,Ausländer,W,48,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,basel,Matthäus,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Schweizer,M,48,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,BE,NA,basel,Kleinhüningen,switzerland,Bern
 2009-9,Zuzug,2009,9,Ausländer,M,48,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Poland,basel,Matthäus
-2009-9,Wegzug,2009,9,Schweizer,M,49,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,europe,Turkey
+2009-9,Wegzug,2009,9,Schweizer,M,49,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Johann,world,Turkey
 2009-9,Wegzug,2009,9,Schweizer,M,49,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,basel,Am Ring,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Schweizer,W,49,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BE,NA,basel,Iselin,switzerland,Bern
 2009-9,Wegzug,2009,9,Schweizer,M,49,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Ungarn,Ausland,NA,basel,St. Johann,europe,Hungary
@@ -2519,7 +2519,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Zuzug,2009,9,Schweizer,M,49,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Bern,basel,Vorstädte
 2009-9,Zuzug,2009,9,Ausländer,M,49,Europa (ohne Schweiz),Polen,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Poland,basel,Matthäus
 2009-9,Zuzug,2009,9,Ausländer,W,49,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Klybeck,switzerland,Bern,basel,Klybeck
-2009-9,Zuzug,2009,9,Ausländer,W,49,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Turkey,basel,Gundeldingen
+2009-9,Zuzug,2009,9,Ausländer,W,49,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Turkey,basel,Gundeldingen
 2009-9,Zuzug,2009,9,Ausländer,W,49,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,United Kingdom,basel,St. Johann
 2009-9,Wegzug,2009,9,Ausländer,W,49,Schweiz,Schweiz,BS,Wettstein,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Wettstein,world,United States of America
 2009-9,Wegzug,2009,9,Ausländer,M,49,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,BL,NA,basel,Matthäus,switzerland,Basel-Landschaft
@@ -2609,7 +2609,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Wegzug,2009,9,Ausländer,W,55,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,basel,St. Alban,europe,United Kingdom
 2009-9,Wegzug,2009,9,Ausländer,W,55,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Schweiz,Schweiz,SZ,NA,basel,Altstadt Kleinbasel,switzerland,Schwyz
 2009-9,Wegzug,2009,9,Schweizer,M,55,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,ZH,NA,basel,Matthäus,switzerland,Zürich
-2009-9,Wegzug,2009,9,Schweizer,W,55,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,europe,Turkey
+2009-9,Wegzug,2009,9,Schweizer,W,55,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,world,Turkey
 2009-9,Wegzug,2009,9,Schweizer,W,55,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,BL,NA,basel,Kleinhüningen,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Schweizer,M,55,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,AG,NA,basel,Riehen,switzerland,Aargau
 2009-9,Wegzug,2009,9,Schweizer,W,55,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,basel,Gotthelf,switzerland,Basel-Landschaft
@@ -2622,7 +2622,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Wegzug,2009,9,Ausländer,M,56,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,St. Johann,europe,France
 2009-9,Wegzug,2009,9,Schweizer,W,56,Schweiz,Schweiz,BS,Gundeldingen,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Gundeldingen,world,United States of America
 2009-9,Zuzug,2009,9,Schweizer,M,56,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,United States of America,basel,Gundeldingen
-2009-9,Zuzug,2009,9,Ausländer,W,56,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Turkey,basel,Iselin
+2009-9,Zuzug,2009,9,Ausländer,W,56,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Iselin,world,Turkey,basel,Iselin
 2009-9,Wegzug,2009,9,Ausländer,M,56,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Matthäus,europe,France
 2009-9,Wegzug,2009,9,Ausländer,W,56,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,SO,NA,basel,Bachletten,switzerland,Solothurn
 2009-9,Wegzug,2009,9,Schweizer,W,56,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SO,NA,basel,Gundeldingen,switzerland,Solothurn
@@ -2648,7 +2648,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2009-9,Wegzug,2009,9,Schweizer,W,58,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2009-9,Zuzug,2009,9,Schweizer,M,58,Lateinamerika und Karibik,Kuba,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Cuba,basel,Am Ring
 2009-9,Zuzug,2009,9,Ausländer,W,58,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Basel-Landschaft,basel,Bachletten
-2009-9,Wegzug,2009,9,Schweizer,M,58,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,europe,Turkey
+2009-9,Wegzug,2009,9,Schweizer,M,58,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,St. Alban,world,Turkey
 2009-9,Wegzug,2009,9,Ausländer,M,59,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Finnland,Ausland,NA,basel,Iselin,europe,Finland
 2009-9,Wegzug,2009,9,Schweizer,M,59,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,basel,Riehen,switzerland,Basel-Landschaft
 2009-9,Wegzug,2009,9,Schweizer,W,59,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,basel,Riehen,switzerland,Basel-Landschaft
