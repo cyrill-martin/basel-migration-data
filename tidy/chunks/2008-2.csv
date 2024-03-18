@@ -1744,7 +1744,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2008-2,Wegzug,2008,2,Schweizer,M,63,Schweiz,Schweiz,BS,Am Ring,Asien,Israel,Ausland,NA,basel,Am Ring,world,Israel
 2008-2,Wegzug,2008,2,Schweizer,M,63,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,GR,NA,basel,Vorstädte,switzerland,Graubünden
 2008-2,Wegzug,2008,2,Ausländer,W,64,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,Matthäus,europe,Spain
-2008-2,Wegzug,2008,2,Ausländer,M,64,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Riehen,europe,Cyprus
+2008-2,Wegzug,2008,2,Ausländer,M,64,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Riehen,world,Cyprus
 2008-2,Zuzug,2008,2,Schweizer,M,64,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Basel-Landschaft,basel,Vorstädte
 2008-2,Wegzug,2008,2,Ausländer,W,64,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2008-2,Wegzug,2008,2,Schweizer,M,64,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BE,NA,basel,St. Alban,switzerland,Bern
@@ -1756,7 +1756,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2008-2,Zuzug,2008,2,Schweizer,W,65,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Aargau,basel,Gundeldingen
 2008-2,Zuzug,2008,2,Ausländer,M,66,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Basel-Landschaft,basel,Vorstädte
 2008-2,Wegzug,2008,2,Ausländer,M,66,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Italien,Ausland,NA,basel,Iselin,europe,Italy
-2008-2,Wegzug,2008,2,Ausländer,W,67,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Riehen,europe,Cyprus
+2008-2,Wegzug,2008,2,Ausländer,W,67,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Riehen,world,Cyprus
 2008-2,Wegzug,2008,2,Ausländer,W,67,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,SO,NA,basel,St. Johann,switzerland,Solothurn
 2008-2,Zuzug,2008,2,Schweizer,W,67,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Basel-Landschaft,basel,Vorstädte
 2008-2,Zuzug,2008,2,Ausländer,M,67,Europa (ohne Schweiz),Slowakische Republik,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Slovakia,basel,Riehen

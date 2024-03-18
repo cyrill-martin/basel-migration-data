@@ -218,7 +218,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-6,Wegzug,2021,6,Ausländer,M,11,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Polen,Ausland,NA,basel,Gundeldingen,europe,Poland
 2021-6,Zuzug,2021,6,Ausländer,M,12,Asien,Singapur,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Malaysia,basel,Rosental
 2021-6,Zuzug,2021,6,Ausländer,M,12,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Basel-Landschaft,basel,Rosental
-2021-6,Zuzug,2021,6,Ausländer,M,12,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Cyprus,basel,Breite
+2021-6,Zuzug,2021,6,Ausländer,M,12,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Breite,world,Cyprus,basel,Breite
 2021-6,Zuzug,2021,6,Ausländer,W,12,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Spain,basel,St. Johann
 2021-6,Wegzug,2021,6,Schweizer,W,12,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
 2021-6,Wegzug,2021,6,Schweizer,M,12,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
@@ -255,7 +255,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-6,Wegzug,2021,6,Ausländer,M,14,Schweiz,Schweiz,BS,Vorstädte,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Vorstädte,world,United States of America
 2021-6,Zuzug,2021,6,Ausländer,W,14,Asien,Malaysia,NA,NA,Schweiz,Schweiz,BS,St. Alban,world,Malaysia,basel,St. Alban
 2021-6,Zuzug,2021,6,Ausländer,M,14,Europa (ohne Schweiz),Irland,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Ireland,basel,Rosental
-2021-6,Zuzug,2021,6,Ausländer,M,14,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Cyprus,basel,Breite
+2021-6,Zuzug,2021,6,Ausländer,M,14,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Breite,world,Cyprus,basel,Breite
 2021-6,Zuzug,2021,6,Ausländer,W,14,Afrika,Eritrea,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Eritrea,basel,Matthäus
 2021-6,Zuzug,2021,6,Ausländer,M,14,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Aargau,basel,St. Johann
 2021-6,Zuzug,2021,6,Ausländer,M,14,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Basel-Landschaft,basel,Rosental
@@ -1613,7 +1613,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-6,Zuzug,2021,6,Ausländer,M,41,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Bern,basel,Gundeldingen
 2021-6,Zuzug,2021,6,Ausländer,M,41,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,world,United States of America,basel,Altstadt Kleinbasel
 2021-6,Zuzug,2021,6,Ausländer,M,41,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Bern,basel,Rosental
-2021-6,Zuzug,2021,6,Ausländer,W,41,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Cyprus,basel,Breite
+2021-6,Zuzug,2021,6,Ausländer,W,41,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Breite,world,Cyprus,basel,Breite
 2021-6,Wegzug,2021,6,Ausländer,W,41,Schweiz,Schweiz,BS,Hirzbrunnen,NA,NA,NA,NA,basel,Hirzbrunnen,NA,NA
 2021-6,Wegzug,2021,6,Schweizer,M,41,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,basel,St. Alban,switzerland,Basel-Landschaft
 2021-6,Wegzug,2021,6,Ausländer,M,41,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
@@ -1718,7 +1718,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-6,Wegzug,2021,6,Ausländer,W,43,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,VD,NA,basel,St. Johann,switzerland,Vaud
 2021-6,Wegzug,2021,6,Ausländer,W,43,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2021-6,Wegzug,2021,6,Schweizer,M,43,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
-2021-6,Zuzug,2021,6,Ausländer,M,43,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Cyprus,basel,Am Ring
+2021-6,Zuzug,2021,6,Ausländer,M,43,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Cyprus,basel,Am Ring
 2021-6,Zuzug,2021,6,Ausländer,M,43,Europa (ohne Schweiz),Frankreich,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,France,basel,Matthäus
 2021-6,Zuzug,2021,6,Schweizer,M,43,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Zürich,basel,Matthäus
 2021-6,Zuzug,2021,6,Ausländer,W,43,Asien,Singapur,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Malaysia,basel,Rosental

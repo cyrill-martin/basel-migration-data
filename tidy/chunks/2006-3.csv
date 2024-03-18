@@ -20,7 +20,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2006-3,Zuzug,2006,3,Ausländer,M,1,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,europe,Germany,basel,Altstadt Grossbasel
 2006-3,Zuzug,2006,3,Schweizer,M,1,Schweiz,Schweiz,SG,NA,Schweiz,Schweiz,BS,Iselin,switzerland,St. Gallen,basel,Iselin
 2006-3,Zuzug,2006,3,Schweizer,M,1,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Aargau,basel,Am Ring
-2006-3,Zuzug,2006,3,Ausländer,M,1,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Cyprus,basel,Iselin
+2006-3,Zuzug,2006,3,Ausländer,M,1,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,world,Cyprus,basel,Iselin
 2006-3,Zuzug,2006,3,Ausländer,M,1,Schweiz,Schweiz,GR,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Graubünden,basel,Gundeldingen
 2006-3,Wegzug,2006,3,Ausländer,W,1,Schweiz,Schweiz,BS,Bachletten,Nordamerika,Kanada,Ausland,NA,basel,Bachletten,world,Canada
 2006-3,Wegzug,2006,3,Ausländer,M,1,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,AG,NA,basel,Iselin,switzerland,Aargau
@@ -52,7 +52,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2006-3,Wegzug,2006,3,Ausländer,W,3,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,basel,St. Johann,europe,United Kingdom
 2006-3,Wegzug,2006,3,Schweizer,M,3,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
 2006-3,Zuzug,2006,3,Ausländer,W,3,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
-2006-3,Zuzug,2006,3,Ausländer,M,3,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Cyprus,basel,Iselin
+2006-3,Zuzug,2006,3,Ausländer,M,3,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,world,Cyprus,basel,Iselin
 2006-3,Wegzug,2006,3,Ausländer,M,3,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Bosnien-Herzegowina,Ausland,NA,basel,St. Johann,europe,Bosnia and Herz.
 2006-3,Wegzug,2006,3,Ausländer,M,3,Schweiz,Schweiz,BS,Bachletten,Nordamerika,Kanada,Ausland,NA,basel,Bachletten,world,Canada
 2006-3,Zuzug,2006,3,Schweizer,M,3,Schweiz,Schweiz,TG,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Thurgau,basel,Riehen
@@ -877,7 +877,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2006-3,Zuzug,2006,3,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Germany,basel,Gundeldingen
 2006-3,Zuzug,2006,3,Ausländer,M,31,Europa (ohne Schweiz),Tschechische Republik,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Czechia,basel,Vorstädte
 2006-3,Zuzug,2006,3,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Germany,basel,Iselin
-2006-3,Zuzug,2006,3,Ausländer,W,31,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Cyprus,basel,Iselin
+2006-3,Zuzug,2006,3,Ausländer,W,31,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,world,Cyprus,basel,Iselin
 2006-3,Zuzug,2006,3,Ausländer,W,31,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
 2006-3,Wegzug,2006,3,Ausländer,M,31,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
 2006-3,Wegzug,2006,3,Ausländer,M,31,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,Gotthelf,europe,Spain
@@ -904,7 +904,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2006-3,Zuzug,2006,3,Ausländer,M,31,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Wettstein,switzerland,Basel-Landschaft,basel,Wettstein
 2006-3,Zuzug,2006,3,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Gotthelf,europe,Germany,basel,Gotthelf
 2006-3,Zuzug,2006,3,Ausländer,W,31,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,United States of America,basel,Gundeldingen
-2006-3,Zuzug,2006,3,Ausländer,M,31,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Cyprus,basel,Iselin
+2006-3,Zuzug,2006,3,Ausländer,M,31,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,world,Cyprus,basel,Iselin
 2006-3,Zuzug,2006,3,Ausländer,W,31,Europa (ohne Schweiz),Schweden,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Sweden,basel,St. Johann
 2006-3,Zuzug,2006,3,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Bachletten,europe,Germany,basel,Bachletten
 2006-3,Zuzug,2006,3,Ausländer,M,31,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Germany,basel,Wettstein

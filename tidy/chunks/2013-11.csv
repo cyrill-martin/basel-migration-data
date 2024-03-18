@@ -55,7 +55,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2013-11,Wegzug,2013,11,Ausländer,W,1,Schweiz,Schweiz,BS,Hirzbrunnen,Asien,Indien,Ausland,NA,basel,Hirzbrunnen,world,India
 2013-11,Zuzug,2013,11,Ausländer,M,1,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Zürich,basel,St. Johann
 2013-11,Zuzug,2013,11,Ausländer,M,1,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,India,basel,Matthäus
-2013-11,Zuzug,2013,11,Ausländer,W,1,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Cyprus,basel,Matthäus
+2013-11,Zuzug,2013,11,Ausländer,W,1,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Cyprus,basel,Matthäus
 2013-11,Zuzug,2013,11,Ausländer,W,1,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,India,basel,St. Johann
 2013-11,Wegzug,2013,11,Ausländer,W,1,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Matthäus,europe,France
 2013-11,Wegzug,2013,11,Ausländer,M,1,Schweiz,Schweiz,BS,Matthäus,Asien,Indien,Ausland,NA,basel,Matthäus,world,India
@@ -270,7 +270,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2013-11,Zuzug,2013,11,Schweizer,W,20,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Basel-Landschaft,basel,Matthäus
 2013-11,Zuzug,2013,11,Schweizer,W,20,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Basel-Landschaft,basel,Am Ring
 2013-11,Zuzug,2013,11,Ausländer,W,20,Europa (ohne Schweiz),Kosovo,NA,NA,Schweiz,Schweiz,BS,Kleinhüningen,europe,Kosovo,basel,Kleinhüningen
-2013-11,Zuzug,2013,11,Ausländer,W,20,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Cyprus,basel,Matthäus
+2013-11,Zuzug,2013,11,Ausländer,W,20,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Cyprus,basel,Matthäus
 2013-11,Zuzug,2013,11,Schweizer,M,20,Europa (ohne Schweiz),Zentralserbien,NA,NA,Schweiz,Schweiz,BS,Breite,europe,Serbia,basel,Breite
 2013-11,Wegzug,2013,11,Ausländer,M,20,Schweiz,Schweiz,BS,Rosental,Schweiz,Schweiz,BL,NA,basel,Rosental,switzerland,Basel-Landschaft
 2013-11,Zuzug,2013,11,Schweizer,M,20,Schweiz,Schweiz,ZG,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Zug,basel,Am Ring
@@ -361,7 +361,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2013-11,Zuzug,2013,11,Ausländer,W,22,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Germany,basel,Matthäus
 2013-11,Zuzug,2013,11,Schweizer,M,22,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Basel-Landschaft,basel,Rosental
 2013-11,Zuzug,2013,11,Ausländer,M,22,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Bern,basel,Iselin
-2013-11,Zuzug,2013,11,Ausländer,M,22,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Cyprus,basel,Matthäus
+2013-11,Zuzug,2013,11,Ausländer,M,22,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Cyprus,basel,Matthäus
 2013-11,Wegzug,2013,11,Schweizer,M,22,Schweiz,Schweiz,BS,Matthäus,Schweiz,Schweiz,AG,NA,basel,Matthäus,switzerland,Aargau
 2013-11,Wegzug,2013,11,Ausländer,W,22,Schweiz,Schweiz,BS,Iselin,NA,NA,NA,NA,basel,Iselin,NA,NA
 2013-11,Wegzug,2013,11,Ausländer,M,22,Schweiz,Schweiz,BS,Wettstein,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Wettstein,europe,Germany

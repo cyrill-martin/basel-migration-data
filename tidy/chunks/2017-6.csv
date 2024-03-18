@@ -2110,7 +2110,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2017-6,Zuzug,2017,6,Schweizer,W,64,Lateinamerika und Karibik,Chile,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Chile,basel,Gundeldingen
 2017-6,Wegzug,2017,6,Ausländer,M,64,Schweiz,Schweiz,BS,Riehen,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Riehen,world,United States of America
 2017-6,Wegzug,2017,6,Ausländer,M,64,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,Rosental,europe,Spain
-2017-6,Wegzug,2017,6,Schweizer,M,64,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,St. Alban,europe,Cyprus
+2017-6,Wegzug,2017,6,Schweizer,M,64,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,St. Alban,world,Cyprus
 2017-6,Wegzug,2017,6,Schweizer,W,64,Schweiz,Schweiz,BS,Altstadt Grossbasel,Schweiz,Schweiz,SO,NA,basel,Altstadt Grossbasel,switzerland,Solothurn
 2017-6,Wegzug,2017,6,Ausländer,W,64,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,Iselin,europe,Spain
 2017-6,Zuzug,2017,6,Schweizer,W,65,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Basel-Landschaft,basel,St. Alban

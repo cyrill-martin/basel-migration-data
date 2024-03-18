@@ -1937,7 +1937,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2008-3,Wegzug,2008,3,Ausländer,M,59,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Matthäus,europe,Germany
 2008-3,Wegzug,2008,3,Ausländer,M,59,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BL,NA,basel,Bruderholz,switzerland,Basel-Landschaft
 2008-3,Zuzug,2008,3,Ausländer,M,59,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Vorstädte,switzerland,Basel-Landschaft,basel,Vorstädte
-2008-3,Zuzug,2008,3,Schweizer,M,59,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,Cyprus,basel,Wettstein
+2008-3,Zuzug,2008,3,Schweizer,M,59,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Wettstein,world,Cyprus,basel,Wettstein
 2008-3,Wegzug,2008,3,Ausländer,W,59,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Bulgarien,Ausland,NA,basel,Iselin,europe,Bulgaria
 2008-3,Wegzug,2008,3,Schweizer,W,59,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,GR,NA,basel,Riehen,switzerland,Graubünden
 2008-3,Wegzug,2008,3,Schweizer,W,59,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft

@@ -155,7 +155,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-2,Wegzug,2022,2,Ausländer,W,8,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,St. Alban,europe,France
 2022-2,Wegzug,2022,2,Ausländer,M,8,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,ZG,NA,basel,St. Alban,switzerland,Zug
 2022-2,Zuzug,2022,2,Ausländer,W,8,Europa (ohne Schweiz),Rumänien,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Romania,basel,Iselin
-2022-2,Wegzug,2022,2,Ausländer,W,8,Schweiz,Schweiz,BS,Riehen,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,Riehen,world,NULL
+2022-2,Wegzug,2022,2,Ausländer,W,8,Schweiz,Schweiz,BS,Riehen,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,Riehen,world,Puerto Rico
 2022-2,Zuzug,2022,2,Ausländer,W,9,Europa (ohne Schweiz),Kroatien,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Croatia,basel,St. Alban
 2022-2,Zuzug,2022,2,Ausländer,W,9,Europa (ohne Schweiz),Kroatien,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Croatia,basel,St. Johann
 2022-2,Wegzug,2022,2,Ausländer,M,9,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,SO,NA,basel,Hirzbrunnen,switzerland,Solothurn
@@ -185,7 +185,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-2,Zuzug,2022,2,Ausländer,M,11,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Zürich,basel,St. Alban
 2022-2,Zuzug,2022,2,Ausländer,M,11,Europa (ohne Schweiz),Kroatien,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Croatia,basel,St. Johann
 2022-2,Zuzug,2022,2,Schweizer,M,11,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,Germany,basel,St. Alban
-2022-2,Wegzug,2022,2,Ausländer,W,11,Schweiz,Schweiz,BS,Riehen,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,Riehen,world,NULL
+2022-2,Wegzug,2022,2,Ausländer,W,11,Schweiz,Schweiz,BS,Riehen,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,Riehen,world,Puerto Rico
 2022-2,Wegzug,2022,2,Schweizer,M,11,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,AG,NA,basel,Hirzbrunnen,switzerland,Aargau
 2022-2,Wegzug,2022,2,Ausländer,M,11,Schweiz,Schweiz,BS,Bruderholz,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Bruderholz,world,United States of America
 2022-2,Zuzug,2022,2,Ausländer,M,11,Europa (ohne Schweiz),Russland,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Russia,basel,Rosental
@@ -1699,7 +1699,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-2,Wegzug,2022,2,Ausländer,M,43,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,ZH,NA,basel,St. Johann,switzerland,Zürich
 2022-2,Wegzug,2022,2,Ausländer,W,43,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,St. Johann,europe,Germany
 2022-2,Wegzug,2022,2,Schweizer,W,43,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BL,NA,basel,Wettstein,switzerland,Basel-Landschaft
-2022-2,Wegzug,2022,2,Ausländer,M,43,Schweiz,Schweiz,BS,Riehen,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,Riehen,world,NULL
+2022-2,Wegzug,2022,2,Ausländer,M,43,Schweiz,Schweiz,BS,Riehen,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,Riehen,world,Puerto Rico
 2022-2,Wegzug,2022,2,Ausländer,M,43,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,basel,Am Ring,switzerland,Basel-Landschaft
 2022-2,Wegzug,2022,2,Ausländer,M,43,Schweiz,Schweiz,BS,Hirzbrunnen,Schweiz,Schweiz,SO,NA,basel,Hirzbrunnen,switzerland,Solothurn
 2022-2,Wegzug,2022,2,Ausländer,M,43,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Gundeldingen,europe,France
@@ -1757,7 +1757,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2022-2,Wegzug,2022,2,Ausländer,M,45,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Bachletten,europe,Germany
 2022-2,Wegzug,2022,2,Schweizer,M,45,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2022-2,Wegzug,2022,2,Ausländer,M,45,Schweiz,Schweiz,BS,Rosental,NA,NA,NA,NA,basel,Rosental,NA,NA
-2022-2,Wegzug,2022,2,Ausländer,W,45,Schweiz,Schweiz,BS,Riehen,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,Riehen,world,NULL
+2022-2,Wegzug,2022,2,Ausländer,W,45,Schweiz,Schweiz,BS,Riehen,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,Riehen,world,Puerto Rico
 2022-2,Wegzug,2022,2,Ausländer,M,45,Schweiz,Schweiz,BS,St. Alban,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,St. Alban,world,United States of America
 2022-2,Wegzug,2022,2,Schweizer,W,45,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,VD,NA,basel,Bruderholz,switzerland,Vaud
 2022-2,Wegzug,2022,2,Ausländer,W,45,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,basel,Am Ring,switzerland,Basel-Landschaft

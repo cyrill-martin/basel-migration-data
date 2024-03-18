@@ -1012,7 +1012,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2023-8,Zuzug,2023,8,Ausländer,M,26,Asien,Indien,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,world,India,basel,Altstadt Grossbasel
 2023-8,Zuzug,2023,8,Ausländer,M,26,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Bettingen,europe,Germany,basel,Bettingen
 2023-8,Zuzug,2023,8,Schweizer,M,26,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Wettstein,switzerland,Bern,basel,Wettstein
-2023-8,Wegzug,2023,8,Ausländer,W,26,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Rosental,europe,Cyprus
+2023-8,Wegzug,2023,8,Ausländer,W,26,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Rosental,world,Cyprus
 2023-8,Wegzug,2023,8,Ausländer,W,26,Schweiz,Schweiz,BS,Gundeldingen,NA,NA,NA,NA,basel,Gundeldingen,NA,NA
 2023-8,Wegzug,2023,8,Schweizer,M,26,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,BL,NA,basel,Klybeck,switzerland,Basel-Landschaft
 2023-8,Wegzug,2023,8,Ausländer,M,26,Schweiz,Schweiz,BS,Kleinhüningen,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,basel,Kleinhüningen,europe,United Kingdom

@@ -266,7 +266,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-12,Wegzug,2021,12,Ausländer,W,22,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2021-12,Wegzug,2021,12,Ausländer,M,22,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,St. Johann,europe,France
 2021-12,Wegzug,2021,12,Schweizer,W,22,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,basel,Bachletten,switzerland,Basel-Landschaft
-2021-12,Wegzug,2021,12,Ausländer,W,22,Schweiz,Schweiz,BS,St. Alban,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,St. Alban,world,NULL
+2021-12,Wegzug,2021,12,Ausländer,W,22,Schweiz,Schweiz,BS,St. Alban,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,St. Alban,world,Puerto Rico
 2021-12,Wegzug,2021,12,Schweizer,M,22,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SG,NA,basel,Iselin,switzerland,St. Gallen
 2021-12,Wegzug,2021,12,Schweizer,W,22,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Niederlande,Ausland,NA,basel,Bachletten,europe,Netherlands
 2021-12,Wegzug,2021,12,Ausländer,W,22,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Clara,europe,Germany
@@ -1629,7 +1629,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-12,Wegzug,2021,12,Ausländer,M,59,Schweiz,Schweiz,BS,St. Alban,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,St. Alban,world,United States of America
 2021-12,Zuzug,2021,12,Ausländer,M,59,Europa (ohne Schweiz),Ukraine,NA,NA,Schweiz,Schweiz,BS,Gotthelf,europe,Ukraine,basel,Gotthelf
 2021-12,Zuzug,2021,12,Ausländer,M,59,Schweiz,Schweiz,VS,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Valais,basel,Am Ring
-2021-12,Wegzug,2021,12,Ausländer,W,59,Schweiz,Schweiz,BS,St. Alban,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,St. Alban,world,NULL
+2021-12,Wegzug,2021,12,Ausländer,W,59,Schweiz,Schweiz,BS,St. Alban,Lateinamerika und Karibik,Jungferninseln (USA),Ausland,NA,basel,St. Alban,world,Puerto Rico
 2021-12,Wegzug,2021,12,Ausländer,M,59,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,AG,NA,basel,St. Alban,switzerland,Aargau
 2021-12,Wegzug,2021,12,Ausländer,M,59,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,BE,NA,basel,Bruderholz,switzerland,Bern
 2021-12,Wegzug,2021,12,Ausländer,M,59,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Albanien,Ausland,NA,basel,Clara,europe,Albania

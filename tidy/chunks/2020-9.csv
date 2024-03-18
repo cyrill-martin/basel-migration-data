@@ -2924,7 +2924,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-9,Wegzug,2020,9,Schweizer,M,64,Schweiz,Schweiz,BS,Klybeck,Schweiz,Schweiz,NW,NA,basel,Klybeck,switzerland,Nidwalden
 2020-9,Wegzug,2020,9,Ausländer,M,64,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Riehen,europe,Germany
 2020-9,Wegzug,2020,9,Schweizer,W,64,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
-2020-9,Wegzug,2020,9,Schweizer,W,64,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Bruderholz,europe,Cyprus
+2020-9,Wegzug,2020,9,Schweizer,W,64,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Bruderholz,world,Cyprus
 2020-9,Wegzug,2020,9,Schweizer,W,64,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,LU,NA,basel,Bruderholz,switzerland,Luzern
 2020-9,Zuzug,2020,9,Ausländer,M,64,Asien,China,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,China,basel,Gundeldingen
 2020-9,Wegzug,2020,9,Ausländer,W,64,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Spanien,Ausland,NA,basel,St. Alban,europe,Spain
@@ -2986,7 +2986,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-9,Wegzug,2020,9,Schweizer,W,72,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,basel,Breite,switzerland,Basel-Landschaft
 2020-9,Wegzug,2020,9,Schweizer,M,72,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Riehen,europe,Germany
 2020-9,Wegzug,2020,9,Schweizer,M,72,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,TI,NA,basel,Riehen,switzerland,Ticino
-2020-9,Wegzug,2020,9,Ausländer,M,73,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Bruderholz,europe,Cyprus
+2020-9,Wegzug,2020,9,Ausländer,M,73,Schweiz,Schweiz,BS,Bruderholz,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Bruderholz,world,Cyprus
 2020-9,Zuzug,2020,9,Ausländer,W,73,Asien,Armenien,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,world,Armenia,basel,Hirzbrunnen
 2020-9,Zuzug,2020,9,Schweizer,W,74,Schweiz,Schweiz,TI,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Ticino,basel,Bachletten
 2020-9,Wegzug,2020,9,Ausländer,M,74,Schweiz,Schweiz,BS,Riehen,Asien,Malaysia,Ausland,NA,basel,Riehen,world,Malaysia

@@ -1520,7 +1520,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2018-7,Zuzug,2018,7,Ausländer,W,32,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Germany,basel,Gundeldingen
 2018-7,Zuzug,2018,7,Ausländer,M,32,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Spain,basel,Gundeldingen
 2018-7,Zuzug,2018,7,Schweizer,M,32,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Bachletten,europe,Germany,basel,Bachletten
-2018-7,Zuzug,2018,7,Ausländer,M,32,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Cyprus,basel,Iselin
+2018-7,Zuzug,2018,7,Ausländer,M,32,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,world,Cyprus,basel,Iselin
 2018-7,Zuzug,2018,7,Ausländer,M,32,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Zürich,basel,Bachletten
 2018-7,Zuzug,2018,7,Schweizer,M,32,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Basel-Landschaft,basel,Iselin
 2018-7,Zuzug,2018,7,Ausländer,M,32,Afrika,Aethiopien,NA,NA,Schweiz,Schweiz,BS,Altstadt Grossbasel,world,Ethiopia,basel,Altstadt Grossbasel
@@ -1707,7 +1707,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2018-7,Zuzug,2018,7,Schweizer,W,35,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Bruderholz,switzerland,Basel-Landschaft,basel,Bruderholz
 2018-7,Zuzug,2018,7,Ausländer,W,35,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,Gotthelf,europe,United Kingdom,basel,Gotthelf
 2018-7,Zuzug,2018,7,Schweizer,W,35,Lateinamerika und Karibik,Mexiko,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Mexico,basel,Matthäus
-2018-7,Zuzug,2018,7,Ausländer,M,35,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Cyprus,basel,Matthäus
+2018-7,Zuzug,2018,7,Ausländer,M,35,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Cyprus,basel,Matthäus
 2018-7,Zuzug,2018,7,Ausländer,W,35,Asien,Vereinigte Arabische Emirate,NA,NA,Schweiz,Schweiz,BS,Wettstein,world,United Arab Emirates,basel,Wettstein
 2018-7,Zuzug,2018,7,Ausländer,W,35,Schweiz,Schweiz,GR,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Graubünden,basel,Bachletten
 2018-7,Zuzug,2018,7,Ausländer,M,35,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,europe,Germany,basel,Altstadt Kleinbasel
@@ -2648,7 +2648,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2018-7,Wegzug,2018,7,Schweizer,W,85,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SG,NA,basel,Gundeldingen,switzerland,St. Gallen
 2018-7,Wegzug,2018,7,Schweizer,M,87,Schweiz,Schweiz,BS,Vorstädte,Asien,Thailand,Ausland,NA,basel,Vorstädte,world,Thailand
 2018-7,Zuzug,2018,7,Schweizer,W,87,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Basel-Landschaft,basel,Gundeldingen
-2018-7,Zuzug,2018,7,Schweizer,M,88,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Cyprus,basel,Riehen
+2018-7,Zuzug,2018,7,Schweizer,M,88,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Riehen,world,Cyprus,basel,Riehen
 2018-7,Wegzug,2018,7,Schweizer,W,88,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,GR,NA,basel,Bruderholz,switzerland,Graubünden
 2018-7,Zuzug,2018,7,Schweizer,M,95,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Solothurn,basel,Gundeldingen
 2018-7,Zuzug,2018,7,Schweizer,W,97,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Alban,switzerland,Basel-Landschaft,basel,St. Alban

@@ -2363,7 +2363,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2020-10,Zuzug,2020,10,Ausländer,W,56,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Wettstein,world,United States of America,basel,Wettstein
 2020-10,Zuzug,2020,10,Ausländer,M,56,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,europe,Spain,basel,Altstadt Kleinbasel
 2020-10,Zuzug,2020,10,Ausländer,W,56,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Vorstädte,europe,Germany,basel,Vorstädte
-2020-10,Zuzug,2020,10,Schweizer,W,56,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Cyprus,basel,Rosental
+2020-10,Zuzug,2020,10,Schweizer,W,56,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Cyprus,basel,Rosental
 2020-10,Zuzug,2020,10,Ausländer,M,56,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Spain,basel,Gundeldingen
 2020-10,Wegzug,2020,10,Ausländer,M,56,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2020-10,Wegzug,2020,10,Schweizer,M,56,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,AG,NA,basel,Bruderholz,switzerland,Aargau

@@ -1,6 +1,6 @@
 JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKontinent,VonLand,VonKanton,VonWohnviertel,NachKontinent,NachLand,NachKanton,NachWohnviertel,StartKarte,StartRegion,EndKarte,EndRegion
 2022-10,Zuzug,2022,10,Schweizer,M,0,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Rosental,switzerland,Basel-Landschaft,basel,Rosental
-2022-10,Zuzug,2022,10,Ausländer,W,0,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,europe,Cyprus,basel,Hirzbrunnen
+2022-10,Zuzug,2022,10,Ausländer,W,0,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Hirzbrunnen,world,Cyprus,basel,Hirzbrunnen
 2022-10,Zuzug,2022,10,Ausländer,M,0,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Gotthelf,europe,Spain,basel,Gotthelf
 2022-10,Wegzug,2022,10,Schweizer,W,0,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Gundeldingen,europe,Germany
 2022-10,Wegzug,2022,10,Schweizer,M,0,Schweiz,Schweiz,BS,Breite,Schweiz,Schweiz,BL,NA,basel,Breite,switzerland,Basel-Landschaft

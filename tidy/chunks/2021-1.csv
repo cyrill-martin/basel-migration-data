@@ -1113,7 +1113,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Schweizer,W,31,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BE,NA,basel,Am Ring,switzerland,Bern
 2021-1,Wegzug,2021,1,Ausländer,W,31,Schweiz,Schweiz,BS,Iselin,NA,NA,NA,NA,basel,Iselin,NA,NA
 2021-1,Wegzug,2021,1,Ausländer,W,31,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
-2021-1,Zuzug,2021,1,Ausländer,M,32,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Cyprus,basel,Gundeldingen
+2021-1,Zuzug,2021,1,Ausländer,M,32,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,Cyprus,basel,Gundeldingen
 2021-1,Zuzug,2021,1,Ausländer,M,32,Schweiz,Schweiz,GE,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Genève,basel,St. Johann
 2021-1,Zuzug,2021,1,Ausländer,W,32,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Klybeck,switzerland,Basel-Landschaft,basel,Klybeck
 2021-1,Zuzug,2021,1,Schweizer,M,32,Europa (ohne Schweiz),Frankreich,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,France,basel,Gundeldingen
@@ -2019,7 +2019,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2021-1,Wegzug,2021,1,Ausländer,W,56,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Gundeldingen,europe,France
 2021-1,Wegzug,2021,1,Schweizer,W,56,Schweiz,Schweiz,BS,Am Ring,Schweiz,Schweiz,BL,NA,basel,Am Ring,switzerland,Basel-Landschaft
 2021-1,Wegzug,2021,1,Ausländer,W,56,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Portugal,Ausland,NA,basel,St. Johann,europe,Portugal
-2021-1,Zuzug,2021,1,Ausländer,W,56,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Cyprus,basel,Iselin
+2021-1,Zuzug,2021,1,Ausländer,W,56,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Iselin,world,Cyprus,basel,Iselin
 2021-1,Zuzug,2021,1,Schweizer,M,56,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Basel-Landschaft,basel,St. Johann
 2021-1,Wegzug,2021,1,Ausländer,W,56,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Portugal,Ausland,NA,basel,Iselin,europe,Portugal
 2021-1,Wegzug,2021,1,Ausländer,W,56,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Riehen,europe,Germany

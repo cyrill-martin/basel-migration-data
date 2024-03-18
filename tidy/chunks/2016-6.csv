@@ -1703,7 +1703,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2016-6,Wegzug,2016,6,Ausländer,M,39,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft
 2016-6,Wegzug,2016,6,Schweizer,W,39,Schweiz,Schweiz,BS,Bruderholz,Schweiz,Schweiz,ZH,NA,basel,Bruderholz,switzerland,Zürich
 2016-6,Zuzug,2016,6,Ausländer,M,39,Europa (ohne Schweiz),Griechenland,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Greece,basel,Matthäus
-2016-6,Wegzug,2016,6,Ausländer,M,39,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Vorstädte,europe,Cyprus
+2016-6,Wegzug,2016,6,Ausländer,M,39,Schweiz,Schweiz,BS,Vorstädte,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Vorstädte,world,Cyprus
 2016-6,Wegzug,2016,6,Ausländer,W,39,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,SO,NA,basel,Gotthelf,switzerland,Solothurn
 2016-6,Wegzug,2016,6,Ausländer,W,39,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,basel,St. Johann,europe,United Kingdom
 2016-6,Wegzug,2016,6,Ausländer,W,39,Schweiz,Schweiz,BS,Klybeck,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Klybeck,europe,Germany

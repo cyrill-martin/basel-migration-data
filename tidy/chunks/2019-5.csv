@@ -6,7 +6,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2019-5,Wegzug,2019,5,Ausländer,W,0,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Altstadt Kleinbasel,europe,Germany
 2019-5,Wegzug,2019,5,Ausländer,W,0,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Gotthelf,europe,France
 2019-5,Wegzug,2019,5,Schweizer,W,0,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SO,NA,basel,Gundeldingen,switzerland,Solothurn
-2019-5,Zuzug,2019,5,Ausländer,W,0,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Cyprus,basel,Rosental
+2019-5,Zuzug,2019,5,Ausländer,W,0,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Cyprus,basel,Rosental
 2019-5,Zuzug,2019,5,Schweizer,W,0,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Hirzbrunnen,switzerland,Basel-Landschaft,basel,Hirzbrunnen
 2019-5,Zuzug,2019,5,Ausländer,W,0,Nordamerika,Vereinigte Staaten von Amerika,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,world,United States of America,basel,Gundeldingen
 2019-5,Wegzug,2019,5,Schweizer,M,0,Schweiz,Schweiz,BS,Rosental,Afrika,Mauretanien,Ausland,NA,basel,Rosental,world,Mauritania
@@ -693,7 +693,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2019-5,Zuzug,2019,5,Ausländer,M,29,Asien,Japan,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Japan,basel,Am Ring
 2019-5,Zuzug,2019,5,Ausländer,W,29,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Hirzbrunnen,switzerland,Solothurn,basel,Hirzbrunnen
 2019-5,Zuzug,2019,5,Ausländer,M,29,Lateinamerika und Karibik,Brasilien,NA,NA,Schweiz,Schweiz,BS,Bruderholz,world,Brazil,basel,Bruderholz
-2019-5,Zuzug,2019,5,Ausländer,W,29,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Cyprus,basel,Rosental
+2019-5,Zuzug,2019,5,Ausländer,W,29,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Cyprus,basel,Rosental
 2019-5,Zuzug,2019,5,Ausländer,W,29,Europa (ohne Schweiz),Frankreich,NA,NA,Schweiz,Schweiz,BS,Wettstein,europe,France,basel,Wettstein
 2019-5,Zuzug,2019,5,Schweizer,W,29,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Bachletten,switzerland,Zürich,basel,Bachletten
 2019-5,Zuzug,2019,5,Ausländer,W,29,Lateinamerika und Karibik,Brasilien,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Brazil,basel,Rosental

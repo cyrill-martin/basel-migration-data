@@ -1672,7 +1672,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2011-5,Zuzug,2011,5,Schweizer,M,48,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,St. Alban,europe,United Kingdom,basel,St. Alban
 2011-5,Zuzug,2011,5,Ausländer,W,48,Europa (ohne Schweiz),Irland,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Ireland,basel,Gundeldingen
 2011-5,Wegzug,2011,5,Ausländer,M,48,Schweiz,Schweiz,BS,Altstadt Grossbasel,Asien,Singapur,Ausland,NA,basel,Altstadt Grossbasel,world,Malaysia
-2011-5,Wegzug,2011,5,Schweizer,M,48,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Gundeldingen,europe,Cyprus
+2011-5,Wegzug,2011,5,Schweizer,M,48,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Gundeldingen,world,Cyprus
 2011-5,Wegzug,2011,5,Schweizer,W,48,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,basel,Riehen,switzerland,Basel-Landschaft
 2011-5,Wegzug,2011,5,Schweizer,M,48,Schweiz,Schweiz,BS,Matthäus,NA,NA,NA,NA,basel,Matthäus,NA,NA
 2011-5,Wegzug,2011,5,Ausländer,M,49,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,St. Johann,europe,Germany

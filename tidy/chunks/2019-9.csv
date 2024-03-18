@@ -716,7 +716,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2019-9,Zuzug,2019,9,Ausländer,M,23,Europa (ohne Schweiz),Belgien,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Belgium,basel,Gundeldingen
 2019-9,Zuzug,2019,9,Ausländer,W,23,Europa (ohne Schweiz),Belgien,NA,NA,Schweiz,Schweiz,BS,Gundeldingen,europe,Belgium,basel,Gundeldingen
 2019-9,Zuzug,2019,9,Ausländer,M,23,Europa (ohne Schweiz),Kosovo,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Kosovo,basel,Klybeck
-2019-9,Zuzug,2019,9,Ausländer,W,23,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Bruderholz,europe,Cyprus,basel,Bruderholz
+2019-9,Zuzug,2019,9,Ausländer,W,23,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Bruderholz,world,Cyprus,basel,Bruderholz
 2019-9,Wegzug,2019,9,Ausländer,M,23,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Clara,europe,France
 2019-9,Wegzug,2019,9,Ausländer,W,23,Schweiz,Schweiz,BS,Rosental,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Rosental,europe,Germany
 2019-9,Wegzug,2019,9,Schweizer,M,23,Schweiz,Schweiz,BS,Iselin,NA,NA,NA,NA,basel,Iselin,NA,NA
@@ -2135,7 +2135,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2019-9,Zuzug,2019,9,Ausländer,W,35,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Bachletten,europe,Italy,basel,Bachletten
 2019-9,Zuzug,2019,9,Ausländer,W,35,Afrika,Tunesien,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Tunisia,basel,Matthäus
 2019-9,Zuzug,2019,9,Ausländer,M,35,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Altstadt Kleinbasel,europe,Italy,basel,Altstadt Kleinbasel
-2019-9,Zuzug,2019,9,Ausländer,W,35,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Cyprus,basel,Am Ring
+2019-9,Zuzug,2019,9,Ausländer,W,35,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Cyprus,basel,Am Ring
 2019-9,Zuzug,2019,9,Ausländer,W,35,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,Germany,basel,Rosental
 2019-9,Zuzug,2019,9,Ausländer,M,35,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
 2019-9,Zuzug,2019,9,Ausländer,M,35,Europa (ohne Schweiz),Griechenland,NA,NA,Schweiz,Schweiz,BS,Iselin,europe,Greece,basel,Iselin

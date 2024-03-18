@@ -1910,7 +1910,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2016-4,Zuzug,2016,4,Ausländer,W,52,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Bruderholz,europe,Italy,basel,Bruderholz
 2016-4,Wegzug,2016,4,Ausländer,M,52,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Serbien,Ausland,NA,basel,Riehen,europe,Serbia
 2016-4,Wegzug,2016,4,Ausländer,M,52,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Iselin,world,Turkey
-2016-4,Wegzug,2016,4,Schweizer,W,52,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Breite,europe,Cyprus
+2016-4,Wegzug,2016,4,Schweizer,W,52,Schweiz,Schweiz,BS,Breite,Europa (ohne Schweiz),Zypern,Ausland,NA,basel,Breite,world,Cyprus
 2016-4,Wegzug,2016,4,Schweizer,W,52,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BL,NA,basel,St. Alban,switzerland,Basel-Landschaft
 2016-4,Zuzug,2016,4,Schweizer,M,53,Asien,Nepal,NA,NA,Schweiz,Schweiz,BS,St. Johann,world,Nepal,basel,St. Johann
 2016-4,Zuzug,2016,4,Schweizer,M,53,Schweiz,Schweiz,BE,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Bern,basel,Gundeldingen

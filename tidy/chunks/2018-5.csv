@@ -1764,7 +1764,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2018-5,Zuzug,2018,5,Schweizer,M,65,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Basel-Landschaft,basel,Matthäus
 2018-5,Wegzug,2018,5,Schweizer,M,65,Schweiz,Schweiz,BS,St. Johann,NA,NA,NA,NA,basel,St. Johann,NA,NA
 2018-5,Wegzug,2018,5,Schweizer,W,65,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,basel,Riehen,switzerland,Basel-Landschaft
-2018-5,Zuzug,2018,5,Schweizer,M,65,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Cyprus,basel,Am Ring
+2018-5,Zuzug,2018,5,Schweizer,M,65,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Cyprus,basel,Am Ring
 2018-5,Zuzug,2018,5,Schweizer,W,65,Schweiz,Schweiz,SO,NA,Schweiz,Schweiz,BS,Iselin,switzerland,Solothurn,basel,Iselin
 2018-5,Zuzug,2018,5,Schweizer,M,65,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Basel-Landschaft,basel,St. Johann
 2018-5,Zuzug,2018,5,Ausländer,W,65,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Clara,europe,Italy,basel,Clara
@@ -1823,7 +1823,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2018-5,Zuzug,2018,5,Schweizer,W,77,Schweiz,Schweiz,ZH,NA,Schweiz,Schweiz,BS,Am Ring,switzerland,Zürich,basel,Am Ring
 2018-5,Wegzug,2018,5,Schweizer,M,77,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,basel,Riehen,switzerland,Basel-Landschaft
 2018-5,Wegzug,2018,5,Schweizer,W,77,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,BL,NA,basel,Riehen,switzerland,Basel-Landschaft
-2018-5,Zuzug,2018,5,Schweizer,W,77,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Am Ring,europe,Cyprus,basel,Am Ring
+2018-5,Zuzug,2018,5,Schweizer,W,77,Europa (ohne Schweiz),Zypern,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Cyprus,basel,Am Ring
 2018-5,Zuzug,2018,5,Ausländer,W,77,Europa (ohne Schweiz),Italien,NA,NA,Schweiz,Schweiz,BS,Riehen,europe,Italy,basel,Riehen
 2018-5,Wegzug,2018,5,Ausländer,W,78,Schweiz,Schweiz,BS,Matthäus,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Matthäus,world,Turkey
 2018-5,Wegzug,2018,5,Schweizer,W,78,Schweiz,Schweiz,BS,Riehen,Schweiz,Schweiz,SO,NA,basel,Riehen,switzerland,Solothurn
