@@ -147,7 +147,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2014-3,Zuzug,2014,3,Schweizer,W,6,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Riehen,switzerland,Basel-Landschaft,basel,Riehen
 2014-3,Zuzug,2014,3,Ausländer,M,6,Asien,Syrien,NA,NA,Schweiz,Schweiz,BS,Wettstein,world,Syria,basel,Wettstein
 2014-3,Wegzug,2014,3,Ausländer,M,6,Schweiz,Schweiz,BS,Bachletten,Europa (ohne Schweiz),Schweden,Ausland,NA,basel,Bachletten,europe,Sweden
-2014-3,Wegzug,2014,3,Ausländer,W,6,Schweiz,Schweiz,BS,St. Johann,Ozeanien,Neukaledonien,Ausland,NA,basel,St. Johann,world,NULL
+2014-3,Wegzug,2014,3,Ausländer,W,6,Schweiz,Schweiz,BS,St. Johann,Ozeanien,Neukaledonien,Ausland,NA,basel,St. Johann,world,Fiji
 2014-3,Wegzug,2014,3,Schweizer,W,6,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,BE,NA,basel,Wettstein,switzerland,Bern
 2014-3,Wegzug,2014,3,Ausländer,W,6,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Iselin,europe,Germany
 2014-3,Wegzug,2014,3,Schweizer,M,6,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
@@ -191,7 +191,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2014-3,Wegzug,2014,3,Schweizer,M,11,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BE,NA,basel,Gundeldingen,switzerland,Bern
 2014-3,Wegzug,2014,3,Schweizer,M,11,Schweiz,Schweiz,BS,Riehen,Europa (ohne Schweiz),Frankreich,Ausland,NA,basel,Riehen,europe,France
 2014-3,Zuzug,2014,3,Schweizer,M,11,Europa (ohne Schweiz),Spanien,NA,NA,Schweiz,Schweiz,BS,Bruderholz,europe,Spain,basel,Bruderholz
-2014-3,Wegzug,2014,3,Ausländer,W,11,Schweiz,Schweiz,BS,St. Johann,Ozeanien,Neukaledonien,Ausland,NA,basel,St. Johann,world,NULL
+2014-3,Wegzug,2014,3,Ausländer,W,11,Schweiz,Schweiz,BS,St. Johann,Ozeanien,Neukaledonien,Ausland,NA,basel,St. Johann,world,Fiji
 2014-3,Zuzug,2014,3,Schweizer,W,12,Asien,Thailand,NA,NA,Schweiz,Schweiz,BS,Rosental,world,Thailand,basel,Rosental
 2014-3,Zuzug,2014,3,Schweizer,W,12,Asien,Thailand,NA,NA,Schweiz,Schweiz,BS,Breite,world,Thailand,basel,Breite
 2014-3,Zuzug,2014,3,Ausländer,M,12,Asien,Syrien,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Syria,basel,Matthäus
@@ -1661,7 +1661,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2014-3,Zuzug,2014,3,Ausländer,W,40,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
 2014-3,Wegzug,2014,3,Ausländer,M,40,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,basel,Iselin,switzerland,Solothurn
 2014-3,Wegzug,2014,3,Schweizer,W,40,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
-2014-3,Wegzug,2014,3,Ausländer,W,40,Schweiz,Schweiz,BS,St. Johann,Ozeanien,Neukaledonien,Ausland,NA,basel,St. Johann,world,NULL
+2014-3,Wegzug,2014,3,Ausländer,W,40,Schweiz,Schweiz,BS,St. Johann,Ozeanien,Neukaledonien,Ausland,NA,basel,St. Johann,world,Fiji
 2014-3,Wegzug,2014,3,Schweizer,W,40,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,basel,Bachletten,switzerland,Basel-Landschaft
 2014-3,Wegzug,2014,3,Ausländer,M,40,Schweiz,Schweiz,BS,Iselin,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Iselin,europe,Germany
 2014-3,Wegzug,2014,3,Ausländer,W,40,Schweiz,Schweiz,BS,Bachletten,Schweiz,Schweiz,BL,NA,basel,Bachletten,switzerland,Basel-Landschaft
@@ -1787,7 +1787,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2014-3,Wegzug,2014,3,Ausländer,W,44,Schweiz,Schweiz,BS,Gotthelf,Schweiz,Schweiz,BL,NA,basel,Gotthelf,switzerland,Basel-Landschaft
 2014-3,Zuzug,2014,3,Ausländer,M,44,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Matthäus,switzerland,Basel-Landschaft,basel,Matthäus
 2014-3,Wegzug,2014,3,Ausländer,M,44,Schweiz,Schweiz,BS,St. Johann,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,basel,St. Johann,europe,United Kingdom
-2014-3,Wegzug,2014,3,Ausländer,M,44,Schweiz,Schweiz,BS,St. Johann,Ozeanien,Neukaledonien,Ausland,NA,basel,St. Johann,world,NULL
+2014-3,Wegzug,2014,3,Ausländer,M,44,Schweiz,Schweiz,BS,St. Johann,Ozeanien,Neukaledonien,Ausland,NA,basel,St. Johann,world,Fiji
 2014-3,Wegzug,2014,3,Ausländer,M,44,Schweiz,Schweiz,BS,Clara,NA,NA,NA,NA,basel,Clara,NA,NA
 2014-3,Zuzug,2014,3,Schweizer,W,44,Schweiz,Schweiz,TI,NA,Schweiz,Schweiz,BS,Gundeldingen,switzerland,Ticino,basel,Gundeldingen
 2014-3,Zuzug,2014,3,Ausländer,M,44,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,Matthäus,europe,Germany,basel,Matthäus

@@ -2216,7 +2216,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-1,Zuzug,2015,1,Ausländer,M,53,Europa (ohne Schweiz),Deutschland,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Germany,basel,St. Johann
 2015-1,Zuzug,2015,1,Schweizer,M,53,Europa (ohne Schweiz),Türkei,NA,NA,Schweiz,Schweiz,BS,Matthäus,world,Turkey,basel,Matthäus
 2015-1,Zuzug,2015,1,Ausländer,M,53,Europa (ohne Schweiz),Grossbritannien,NA,NA,Schweiz,Schweiz,BS,Rosental,europe,United Kingdom,basel,Rosental
-2015-1,Wegzug,2015,1,Ausländer,M,53,Schweiz,Schweiz,BS,St. Alban,Afrika,Zentralafrikanische Republik,Ausland,NA,basel,St. Alban,world,NULL
+2015-1,Wegzug,2015,1,Ausländer,M,53,Schweiz,Schweiz,BS,St. Alban,Afrika,Zentralafrikanische Republik,Ausland,NA,basel,St. Alban,world,Central African Rep
 2015-1,Wegzug,2015,1,Schweizer,W,53,Schweiz,Schweiz,BS,St. Alban,Schweiz,Schweiz,BE,NA,basel,St. Alban,switzerland,Bern
 2015-1,Wegzug,2015,1,Ausländer,W,53,Schweiz,Schweiz,BS,Vorstädte,Schweiz,Schweiz,ZH,NA,basel,Vorstädte,switzerland,Zürich
 2015-1,Wegzug,2015,1,Schweizer,M,53,Schweiz,Schweiz,BS,Rosental,Afrika,Sudan,Ausland,NA,basel,Rosental,world,Sudan

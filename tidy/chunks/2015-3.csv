@@ -85,7 +85,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-3,Wegzug,2015,3,Schweizer,M,3,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2015-3,Wegzug,2015,3,Ausländer,M,3,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,BL,NA,basel,Gundeldingen,switzerland,Basel-Landschaft
 2015-3,Zuzug,2015,3,Schweizer,W,3,Schweiz,Schweiz,AG,NA,Schweiz,Schweiz,BS,Hirzbrunnen,switzerland,Aargau,basel,Hirzbrunnen
-2015-3,Wegzug,2015,3,Ausländer,M,4,Schweiz,Schweiz,BS,St. Alban,Afrika,Zentralafrikanische Republik,Ausland,NA,basel,St. Alban,world,NULL
+2015-3,Wegzug,2015,3,Ausländer,M,4,Schweiz,Schweiz,BS,St. Alban,Afrika,Zentralafrikanische Republik,Ausland,NA,basel,St. Alban,world,Central African Rep
 2015-3,Wegzug,2015,3,Ausländer,W,4,Schweiz,Schweiz,BS,Bettingen,Europa (ohne Schweiz),Deutschland,Ausland,NA,basel,Bettingen,europe,Germany
 2015-3,Zuzug,2015,3,Schweizer,M,4,Schweiz,Schweiz,SZ,NA,Schweiz,Schweiz,BS,Kleinhüningen,switzerland,Schwyz,basel,Kleinhüningen
 2015-3,Zuzug,2015,3,Ausländer,W,4,Asien,Japan,NA,NA,Schweiz,Schweiz,BS,Am Ring,world,Japan,basel,Am Ring
@@ -246,7 +246,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-3,Zuzug,2015,3,Ausländer,W,20,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,St. Johann,switzerland,Basel-Landschaft,basel,St. Johann
 2015-3,Zuzug,2015,3,Ausländer,W,20,Europa (ohne Schweiz),Portugal,NA,NA,Schweiz,Schweiz,BS,St. Johann,europe,Portugal,basel,St. Johann
 2015-3,Wegzug,2015,3,Ausländer,M,20,Schweiz,Schweiz,BS,Bruderholz,Nordamerika,Vereinigte Staaten von Amerika,Ausland,NA,basel,Bruderholz,world,United States of America
-2015-3,Wegzug,2015,3,Schweizer,M,20,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Vatikanstadt,Ausland,NA,basel,Gotthelf,europe,NULL
+2015-3,Wegzug,2015,3,Schweizer,M,20,Schweiz,Schweiz,BS,Gotthelf,Europa (ohne Schweiz),Vatikanstadt,Ausland,NA,basel,Gotthelf,europe,Italy
 2015-3,Wegzug,2015,3,Schweizer,M,20,Schweiz,Schweiz,BS,Wettstein,Schweiz,Schweiz,LU,NA,basel,Wettstein,switzerland,Luzern
 2015-3,Wegzug,2015,3,Ausländer,W,20,Schweiz,Schweiz,BS,Gundeldingen,Europa (ohne Schweiz),Türkei,Ausland,NA,basel,Gundeldingen,world,Turkey
 2015-3,Wegzug,2015,3,Schweizer,W,20,Schweiz,Schweiz,BS,Gundeldingen,Schweiz,Schweiz,SO,NA,basel,Gundeldingen,switzerland,Solothurn
@@ -1455,7 +1455,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2015-3,Wegzug,2015,3,Ausländer,M,37,Schweiz,Schweiz,BS,Iselin,NA,NA,NA,NA,basel,Iselin,NA,NA
 2015-3,Wegzug,2015,3,Ausländer,M,37,Schweiz,Schweiz,BS,Rosental,Asien,Indien,Ausland,NA,basel,Rosental,world,India
 2015-3,Wegzug,2015,3,Ausländer,M,37,Schweiz,Schweiz,BS,Kleinhüningen,Schweiz,Schweiz,BL,NA,basel,Kleinhüningen,switzerland,Basel-Landschaft
-2015-3,Wegzug,2015,3,Ausländer,W,37,Schweiz,Schweiz,BS,St. Alban,Afrika,Zentralafrikanische Republik,Ausland,NA,basel,St. Alban,world,NULL
+2015-3,Wegzug,2015,3,Ausländer,W,37,Schweiz,Schweiz,BS,St. Alban,Afrika,Zentralafrikanische Republik,Ausland,NA,basel,St. Alban,world,Central African Rep
 2015-3,Wegzug,2015,3,Ausländer,W,37,Schweiz,Schweiz,BS,Kleinhüningen,Europa (ohne Schweiz),Slowakische Republik,Ausland,NA,basel,Kleinhüningen,europe,Slovakia
 2015-3,Wegzug,2015,3,Schweizer,W,37,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,SO,NA,basel,Iselin,switzerland,Solothurn
 2015-3,Wegzug,2015,3,Schweizer,W,37,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,BL,NA,basel,Iselin,switzerland,Basel-Landschaft

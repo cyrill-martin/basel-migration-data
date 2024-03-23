@@ -2243,7 +2243,7 @@ JahrMonat,Wanderungstyp,Jahr,Monat,Staatsangehoerigkeit,Geschlecht,Alter,VonKont
 2006-10,Zuzug,2006,10,Ausländer,M,49,Europa (ohne Schweiz),Portugal,NA,NA,Schweiz,Schweiz,BS,Klybeck,europe,Portugal,basel,Klybeck
 2006-10,Zuzug,2006,10,Ausländer,W,49,Schweiz,Schweiz,BL,NA,Schweiz,Schweiz,BS,Breite,switzerland,Basel-Landschaft,basel,Breite
 2006-10,Wegzug,2006,10,Schweizer,M,49,Schweiz,Schweiz,BS,Altstadt Kleinbasel,Schweiz,Schweiz,BE,NA,basel,Altstadt Kleinbasel,switzerland,Bern
-2006-10,Wegzug,2006,10,Schweizer,M,49,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,CH,NA,basel,Iselin,switzerland,NULL
+2006-10,Wegzug,2006,10,Schweizer,M,49,Schweiz,Schweiz,BS,Iselin,Schweiz,Schweiz,CH,NA,basel,Iselin,switzerland,NA
 2006-10,Wegzug,2006,10,Ausländer,W,49,Schweiz,Schweiz,BS,St. Alban,Europa (ohne Schweiz),Grossbritannien,Ausland,NA,basel,St. Alban,europe,United Kingdom
 2006-10,Wegzug,2006,10,Schweizer,M,49,Schweiz,Schweiz,BS,St. Johann,Schweiz,Schweiz,BL,NA,basel,St. Johann,switzerland,Basel-Landschaft
 2006-10,Wegzug,2006,10,Ausländer,M,49,Schweiz,Schweiz,BS,Clara,Europa (ohne Schweiz),Slowenien,Ausland,NA,basel,Clara,europe,Slovenia
