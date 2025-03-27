@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://data.bs.ch/api/explore/v2.1/catalog/datasets/100138/exports/csv?lang=de&refine=ereignis_typ%3A%22Wegzug%22&refine=ereignis_typ%3A%22Zuzug%22&facet=facet(name%3D%22ereignis_typ%22%2C%20disjunctive%3Dtrue)&qv1=(datum%3E%3D%222006-01-01%22)&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B
